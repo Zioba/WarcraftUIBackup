@@ -1,0 +1,30 @@
+VER 3 000000000000000B "cancelAura" "132349"
+/cancelaura благословение защиты
+/cancelaura Вихрь клинков
+END
+VER 3 0000000000000002 "Бурст" "ABILITY_HUNTER_HARASS"
+/cast Аватара
+/cast Боевой крик
+/use Ледяная эгида Диимы
+/use Челюсть Ледопасти
+END
+VER 3 0000000000000001 "Ишарадж" "INV_MISC_QUESTIONMARK"
+/cast Безрассудство
+/cast Кровавая баня
+/cast Ярость берсерка
+/cast Штормовая эмблема
+/cast Аватара
+END
+VER 3 000000000000000A "камера" "Ability_Creature_Cursed_04"
+/console cameraDistanceMaxZoomFactor 2.6
+END
+VER 3 000000000000000E "потать честь" "915741"
+/run BuyMerchantItem(26)
+END
+VER 3 0000000000000003 "ролл" "INV_Polearm_2h_ThunderIsleRaid_D_01"
+/roll
+END
+VER 3 0000000000000005 "ящик ресурсов" "ABILITY_WARRIOR_SHATTERINGTHROW"
+/run BuyMerchantItem(1,1)
+/click StaticPopup1Button1
+END

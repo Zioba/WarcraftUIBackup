@@ -1,0 +1,112 @@
+
+MasterPlanAG = {
+	["Ревущий фьорд"] = {
+		["Царева"] = {
+			["summary"] = {
+				["ti2"] = 122484,
+				["ti3"] = 127854,
+				["tt1"] = 1512411115,
+				["ti1"] = 118529,
+				["tt3"] = true,
+				["tt2"] = true,
+			},
+			["faction"] = "Horde",
+			["class"] = "DRUID",
+			["lastCacheTime"] = 1531603761,
+			["curRes"] = 573,
+			["curOil"] = 880,
+		},
+		["Неполучилась"] = {
+			["faction"] = "Horde",
+			["class"] = "SHAMAN",
+		},
+		["Зёбинмаг"] = {
+			["class"] = "MAGE",
+			["faction"] = "Horde",
+		},
+		["Зёбинприст"] = {
+			["class"] = "PRIEST",
+			["lastCacheTime"] = 1506647569,
+			["curRes"] = 1116,
+			["faction"] = "Horde",
+		},
+		["Сашкинадашка"] = {
+			["class"] = "ROGUE",
+			["faction"] = "Alliance",
+		},
+		["Дайтемнеключ"] = {
+			["class"] = "WARLOCK",
+			["summary"] = {
+				["ti2"] = 122484,
+				["ti3"] = 128391,
+				["tt3"] = true,
+				["tt2"] = true,
+			},
+			["faction"] = "Horde",
+		},
+		["Зёбедам"] = {
+			["faction"] = "Horde",
+			["class"] = "DEMONHUNTER",
+		},
+		["Зёбинфейл"] = {
+			["summary"] = {
+				["inProgress"] = {
+					[2] = 1530804575,
+				},
+			},
+			["faction"] = "Horde",
+			["class"] = "SHAMAN",
+			["curRes"] = 125,
+			["lastCacheTime"] = 1530809929,
+		},
+		["Зёба"] = {
+			["class"] = "WARRIOR",
+			["summary"] = {
+				["lastOilTime"] = 1532776586,
+				["ti2"] = 122486,
+				["inProgress"] = {
+					[455] = 1532812155,
+					[685] = 1532804954,
+					[326] = 1532797754,
+				},
+				["ti3"] = 127855,
+				["tt1"] = 1532779586,
+				["ti1"] = 118531,
+				["tt3"] = 1531500384,
+				["tt2"] = 1532540599,
+			},
+			["curOil"] = 20955,
+			["cacheSize"] = 1000,
+			["lastCacheTime"] = 1532783319,
+			["curRes"] = 9715,
+			["faction"] = "Horde",
+		},
+		["Зёбинмонк"] = {
+			["faction"] = "Horde",
+			["class"] = "MONK",
+		},
+		["Василец"] = {
+			["faction"] = "Horde",
+			["curOil"] = 1410,
+			["lastCacheTime"] = 1473637614,
+			["curRes"] = 6059,
+			["class"] = "DEATHKNIGHT",
+		},
+		["Зёбиндру"] = {
+			["faction"] = "Alliance",
+			["class"] = "DRUID",
+		},
+		["Зёбинпаладин"] = {
+			["class"] = "PALADIN",
+			["lastCacheTime"] = 1507312367,
+			["curRes"] = 1075,
+			["faction"] = "Horde",
+		},
+		["Зёбинатор"] = {
+			["class"] = "HUNTER",
+			["faction"] = "Horde",
+		},
+	},
+	["IgnoreRewards"] = {
+	},
+}

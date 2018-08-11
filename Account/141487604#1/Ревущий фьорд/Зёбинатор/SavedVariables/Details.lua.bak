@@ -1,0 +1,582 @@
+
+_detalhes_database = {
+	["savedbuffs"] = {
+	},
+	["mythic_dungeon_id"] = 0,
+	["tabela_historico"] = {
+		["tabelas"] = {
+		},
+	},
+	["last_version"] = "v7.3.5.5572",
+	["character_data"] = {
+		["logons"] = 17,
+	},
+	["tabela_instancias"] = {
+	},
+	["local_instances_config"] = {
+		{
+			["segment"] = 0,
+			["sub_attribute"] = 1,
+			["sub_atributo_last"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+			},
+			["is_open"] = true,
+			["isLocked"] = true,
+			["snap"] = {
+			},
+			["mode"] = 2,
+			["attribute"] = 1,
+			["pos"] = {
+				["normal"] = {
+					["y"] = -344.605465739313,
+					["x"] = 662.482341427242,
+					["w"] = 239.931976318359,
+					["h"] = 172.734924316406,
+				},
+				["solo"] = {
+					["y"] = 1.99995885261551,
+					["x"] = 0.999982693242478,
+					["w"] = 299.999938964844,
+					["h"] = 300,
+				},
+			},
+		}, -- [1]
+	},
+	["cached_talents"] = {
+		["Player-1390-076EFC9F"] = {
+			19262, -- [1]
+			19259, -- [2]
+			19275, -- [3]
+			22322, -- [4]
+			21966, -- [5]
+			21971, -- [6]
+			21970, -- [7]
+		},
+		["Player-3690-08302306"] = {
+			22091, -- [1]
+			19302, -- [2]
+			22099, -- [3]
+			19995, -- [4]
+			20174, -- [5]
+			22103, -- [6]
+			22105, -- [7]
+		},
+		["Player-3702-085EF9AF"] = {
+			22280, -- [1]
+			22290, -- [2]
+			19347, -- [3]
+			22441, -- [4]
+			22293, -- [5]
+			22002, -- [6]
+			22295, -- [7]
+		},
+		["Player-1104-058321E8"] = {
+			22624, -- [1]
+			22409, -- [2]
+			22380, -- [3]
+			15757, -- [4]
+			22383, -- [5]
+			22397, -- [6]
+			22407, -- [7]
+		},
+		["Player-3691-05F1DDDA"] = {
+			22282, -- [1]
+			22769, -- [2]
+			19347, -- [3]
+			22441, -- [4]
+			22284, -- [5]
+			19357, -- [6]
+			21986, -- [7]
+		},
+		["Player-3674-07E8A2EB"] = {
+			22633, -- [1]
+			22409, -- [2]
+			19138, -- [3]
+			22627, -- [4]
+			22391, -- [5]
+			22395, -- [6]
+			22402, -- [7]
+		},
+		["Player-3691-0608853D"] = {
+			22282, -- [1]
+			21997, -- [2]
+			19347, -- [3]
+			22441, -- [4]
+			22284, -- [5]
+			19357, -- [6]
+			22295, -- [7]
+		},
+		["Player-3691-06288EAA"] = {
+			22353, -- [1]
+			22150, -- [2]
+			19275, -- [3]
+			19272, -- [4]
+			22137, -- [5]
+			22352, -- [6]
+			22359, -- [7]
+		},
+		["Player-579-081367FA"] = {
+			22387, -- [1]
+			18570, -- [2]
+			22159, -- [3]
+			18576, -- [4]
+			18579, -- [5]
+			22390, -- [6]
+			21655, -- [7]
+		},
+		["Player-1316-0922D1C9"] = {
+			22016, -- [1]
+			22020, -- [2]
+			22515, -- [3]
+			22521, -- [4]
+			22527, -- [5]
+			22531, -- [6]
+			22023, -- [7]
+		},
+		["Player-581-07E898E0"] = {
+			22371, -- [1]
+			22373, -- [2]
+			22380, -- [3]
+			15757, -- [4]
+			22383, -- [5]
+			22397, -- [6]
+			22407, -- [7]
+		},
+		["Player-1302-093FFBF6"] = {
+			22337, -- [1]
+			22331, -- [2]
+			22123, -- [3]
+			22341, -- [4]
+			21186, -- [5]
+			22343, -- [6]
+			19239, -- [7]
+		},
+		["Player-1122-0485C9CB"] = {
+			18574, -- [1]
+			19283, -- [2]
+			22367, -- [3]
+			18577, -- [4]
+			21704, -- [5]
+			22165, -- [6]
+			22404, -- [7]
+		},
+		["Player-531-0661A5BD"] = {
+			22026, -- [1]
+			22028, -- [2]
+			22516, -- [3]
+			22524, -- [4]
+			22530, -- [5]
+			22536, -- [6]
+			22110, -- [7]
+		},
+		["Player-1615-06D8CD6E"] = {
+			21986, -- [1]
+			22287, -- [2]
+			21997, -- [3]
+			22284, -- [4]
+			22280, -- [5]
+			22441, -- [6]
+			19347, -- [7]
+		},
+		["Player-1598-06F24C1F"] = {
+			22353, -- [1]
+			22636, -- [2]
+			19275, -- [3]
+			19272, -- [4]
+			22137, -- [5]
+			22352, -- [6]
+			22359, -- [7]
+		},
+		["Player-3691-06515164"] = {
+			22353, -- [1]
+			22150, -- [2]
+			19275, -- [3]
+			22171, -- [4]
+			22137, -- [5]
+			22352, -- [6]
+			22359, -- [7]
+		},
+		["Player-581-081620DA"] = {
+			19264, -- [1]
+			22492, -- [2]
+			19275, -- [3]
+			22322, -- [4]
+			19269, -- [5]
+			21968, -- [6]
+			21675, -- [7]
+		},
+		["Player-1401-0626D04A"] = {
+			22364, -- [1]
+			18570, -- [2]
+			22163, -- [3]
+			21778, -- [4]
+			21705, -- [5]
+			21711, -- [6]
+			21646, -- [7]
+		},
+		["Player-604-06DFA002"] = {
+			17567, -- [1]
+			17577, -- [2]
+			22180, -- [3]
+			17593, -- [4]
+			17597, -- [5]
+			22484, -- [6]
+			21668, -- [7]
+		},
+		["Player-3691-05F36B88"] = {
+			22040, -- [1]
+			22044, -- [2]
+			19280, -- [3]
+			22046, -- [4]
+			19291, -- [5]
+			21182, -- [6]
+			19293, -- [7]
+		},
+		["Player-3691-05525676"] = {
+			22090, -- [1]
+			21180, -- [2]
+			19280, -- [3]
+			22046, -- [4]
+			19291, -- [5]
+			21182, -- [6]
+			19284, -- [7]
+		},
+		["Player-3691-05F372E9"] = {
+		},
+		["Player-1105-05E270EB"] = {
+			22040, -- [1]
+			22044, -- [2]
+			19280, -- [3]
+			22046, -- [4]
+			22047, -- [5]
+			21182, -- [6]
+			19281, -- [7]
+		},
+		["Player-3713-0917CC10"] = {
+			22337, -- [1]
+			22331, -- [2]
+			22123, -- [3]
+			22341, -- [4]
+			19239, -- [5]
+			22343, -- [6]
+			21186, -- [7]
+		},
+		["Player-1099-079C08BC"] = {
+			22493, -- [1]
+			22765, -- [2]
+			22494, -- [3]
+			21865, -- [4]
+			21868, -- [5]
+			21869, -- [6]
+			21900, -- [7]
+		},
+		["Player-579-04171F65"] = {
+			22016, -- [1]
+			22020, -- [2]
+			22515, -- [3]
+			22525, -- [4]
+			22031, -- [5]
+			22535, -- [6]
+			22023, -- [7]
+		},
+		["Player-1604-0A5B7CB5"] = {
+			19754, -- [1]
+			22315, -- [2]
+			22562, -- [3]
+			21750, -- [4]
+			22327, -- [5]
+			19767, -- [6]
+			21644, -- [7]
+		},
+		["Player-581-05070C83"] = {
+			22442, -- [1]
+			21632, -- [2]
+			22466, -- [3]
+			22460, -- [4]
+			22447, -- [5]
+			22449, -- [6]
+			22446, -- [7]
+		},
+		["Player-604-079626C2"] = {
+			15760, -- [1]
+			22629, -- [2]
+			22378, -- [3]
+			22627, -- [4]
+			22392, -- [5]
+			22396, -- [6]
+			21204, -- [7]
+		},
+		["Player-3713-084BFAAC"] = {
+			21209, -- [1]
+			19217, -- [2]
+			19231, -- [3]
+			19227, -- [4]
+			19220, -- [5]
+			22014, -- [6]
+			19221, -- [7]
+		},
+	},
+	["last_instance_id"] = 1712,
+	["announce_interrupts"] = {
+		["enabled"] = false,
+		["whisper"] = "",
+		["channel"] = "SAY",
+		["custom"] = "",
+		["next"] = "",
+	},
+	["last_instance_time"] = 1531855375,
+	["active_profile"] = "Зёба-Ревущий фьорд",
+	["last_realversion"] = 130,
+	["ignore_nicktag"] = false,
+	["plugin_database"] = {
+		["DETAILS_PLUGIN_TINY_THREAT"] = {
+			["updatespeed"] = 1,
+			["animate"] = false,
+			["showamount"] = false,
+			["useplayercolor"] = false,
+			["useclasscolors"] = false,
+			["author"] = "Details! Team",
+			["playercolor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			},
+			["enabled"] = true,
+		},
+		["DETAILS_PLUGIN_DAMAGE_RANK"] = {
+			["lasttry"] = {
+			},
+			["annouce"] = true,
+			["dpshistory"] = {
+			},
+			["dps"] = 0,
+			["author"] = "Details! Team",
+			["level"] = 1,
+			["enabled"] = true,
+		},
+		["DETAILS_PLUGIN_VANGUARD"] = {
+			["enabled"] = true,
+			["tank_block_texture"] = "Details Serenity",
+			["tank_block_color"] = {
+				0.24705882, -- [1]
+				0.0039215, -- [2]
+				0, -- [3]
+				0.8, -- [4]
+			},
+			["show_inc_bars"] = false,
+			["author"] = "Details! Team",
+			["first_run"] = false,
+			["tank_block_size"] = 150,
+		},
+		["DETAILS_PLUGIN_ENCOUNTER_DETAILS"] = {
+			["enabled"] = true,
+			["encounter_timers_bw"] = {
+			},
+			["max_emote_segments"] = 3,
+			["author"] = "Details! Team",
+			["window_scale"] = 1,
+			["hide_on_combat"] = false,
+			["show_icon"] = 5,
+			["opened"] = 0,
+			["encounter_timers_dbm"] = {
+			},
+		},
+		["DETAILS_PLUGIN_TIME_ATTACK"] = {
+			["enabled"] = true,
+			["realm_last_shown"] = 40,
+			["saved_as_anonymous"] = true,
+			["recently_as_anonymous"] = true,
+			["dps"] = 0,
+			["disable_sharing"] = false,
+			["history"] = {
+			},
+			["time"] = 40,
+			["history_lastindex"] = 0,
+			["realm_lastamt"] = 0,
+			["realm_history"] = {
+			},
+			["author"] = "Details! Team",
+		},
+		["DETAILS_PLUGIN_DPS_TUNING"] = {
+			["enabled"] = true,
+			["author"] = "Details! Team",
+			["SpellBarsShowType"] = 1,
+		},
+	},
+	["last_encounter"] = "Аргус Порабощенный",
+	["nick_tag_cache"] = {
+		["nextreset"] = 1532855810,
+		["last_version"] = 10,
+	},
+	["benchmark_db"] = {
+		["frame"] = {
+		},
+	},
+	["last_day"] = "17",
+	["combat_counter"] = 51,
+	["combat_id"] = 0,
+	["savedStyles"] = {
+	},
+	["announce_prepots"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+		["reverse"] = false,
+	},
+	["mythic_dungeon_currentsaved"] = {
+		["dungeon_name"] = "",
+		["started"] = false,
+		["segment_id"] = 0,
+		["ej_id"] = 0,
+		["started_at"] = 0,
+		["run_id"] = 0,
+		["level"] = 0,
+		["dungeon_zone_id"] = 0,
+		["previous_boss_killed_at"] = 0,
+	},
+	["announce_deaths"] = {
+		["enabled"] = false,
+		["last_hits"] = 1,
+		["only_first"] = 5,
+		["where"] = 1,
+	},
+	["tabela_overall"] = {
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+			},
+		}, -- [1]
+		{
+			["tipo"] = 3,
+			["_ActorTable"] = {
+			},
+		}, -- [2]
+		{
+			["tipo"] = 7,
+			["_ActorTable"] = {
+			},
+		}, -- [3]
+		{
+			["tipo"] = 9,
+			["_ActorTable"] = {
+			},
+		}, -- [4]
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+			},
+		}, -- [5]
+		["raid_roster"] = {
+		},
+		["last_events_tables"] = {
+		},
+		["alternate_power"] = {
+		},
+		["combat_counter"] = 50,
+		["totals"] = {
+			0, -- [1]
+			0, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				["alternatepower"] = 0,
+				[3] = 0,
+				[6] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["debuff_uptime"] = 0,
+				["cooldowns_defensive"] = 0,
+				["interrupt"] = 0,
+				["dispell"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
+			["frags_total"] = 0,
+			["voidzone_damage"] = 0,
+		},
+		["totals_grupo"] = {
+			0, -- [1]
+			0, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				["alternatepower"] = 0,
+				[3] = 0,
+				[6] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["debuff_uptime"] = 0,
+				["cooldowns_defensive"] = 0,
+				["interrupt"] = 0,
+				["dispell"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
+		},
+		["frags_need_refresh"] = false,
+		["__call"] = {
+		},
+		["data_inicio"] = 0,
+		["frags"] = {
+		},
+		["data_fim"] = 0,
+		["CombatSkillCache"] = {
+		},
+		["PhaseData"] = {
+			{
+				1, -- [1]
+				1, -- [2]
+			}, -- [1]
+			["heal_section"] = {
+			},
+			["heal"] = {
+			},
+			["damage_section"] = {
+			},
+			["damage"] = {
+			},
+		},
+		["start_time"] = 0,
+		["TimeData"] = {
+			["Raid Damage Done"] = {
+			},
+		},
+		["player_last_events"] = {
+		},
+	},
+	["force_font_outline"] = "",
+	["SoloTablesSaved"] = {
+		["LastSelected"] = "DETAILS_PLUGIN_DAMAGE_RANK",
+		["Mode"] = 1,
+	},
+	["announce_firsthit"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["announce_cooldowns"] = {
+		["enabled"] = false,
+		["ignored_cooldowns"] = {
+		},
+		["custom"] = "",
+		["channel"] = "RAID",
+	},
+	["rank_window"] = {
+		["last_difficulty"] = 15,
+		["last_raid"] = "",
+	},
+	["announce_damagerecord"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["cached_specs"] = {
+		["Player-1929-070FED4D"] = 254,
+		["Player-1615-06D8CD6E"] = 253,
+	},
+}
