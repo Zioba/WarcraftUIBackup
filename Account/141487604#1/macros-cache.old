@@ -1,3 +1,11 @@
+VER 3 000000000000000F "AAP_MACRO" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use Мрачный жезл теней
+END
+VER 3 000000000000000B "cancelAura" "132349"
+/cancelaura благословение защиты
+/cancelaura Вихрь клинков
+END
 VER 3 0000000000000002 "Бурст" "ABILITY_HUNTER_HARASS"
 /cast Аватара
 /cast Боевой крик
@@ -11,31 +19,14 @@ VER 3 0000000000000001 "Ишарадж" "INV_MISC_QUESTIONMARK"
 /cast Штормовая эмблема
 /cast Аватара
 END
-VER 3 000000000000000B "диспел" "SPELL_MISC_PETHEAL"
-/ц раскал
-/cancelaura благословение защиты
-/cancelaura Вихрь клинков
-END
-VER 3 000000000000000C "искар" "538560"
-/way 12.9 34.1
-/way 38.6 42.1
-/way 50.4 67.1
-/way 74.0 60.6
-END
 VER 3 000000000000000A "камера" "Ability_Creature_Cursed_04"
 /console cameraDistanceMaxZoomFactor 2.6
-END
-VER 3 000000000000000F "облик" "INV_JEWELRY_TRINKET_04"
-/4 916 танк ищет хила для стабильного фарма высоких ключей (подробная информация в личку)
 END
 VER 3 000000000000000E "потать честь" "915741"
 /run BuyMerchantItem(26)
 END
 VER 3 0000000000000003 "ролл" "INV_Polearm_2h_ThunderIsleRaid_D_01"
 /roll
-END
-VER 3 0000000000000010 "спамер" "136103"
-/run SendChatMessage("танк/фурик 916 опыт 9/10 миф ищу мифик цн на следующее кд","Поиск спутников",nil,4)
 END
 VER 3 0000000000000005 "ящик ресурсов" "ABILITY_WARRIOR_SHATTERINGTHROW"
 /run BuyMerchantItem(1,1)

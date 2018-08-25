@@ -1463,12 +1463,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Агграмар",
 		},
-		[240277] = {
-			["school"] = 4,
+		[245532] = {
+			["school"] = 16,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Разрушитель миров Кин’гарота",
+			["source"] = "Диима, Матерь Сумрака",
 		},
 		[196534] = {
 			["school"] = 1,
@@ -1481,12 +1481,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Щупальце разрушения",
 		},
-		[245532] = {
-			["school"] = 16,
+		[253037] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Диима, Матерь Сумрака",
+			["source"] = "Клинок Скверны – штурмовик",
 		},
 		[252616] = {
 			["school"] = 4,
@@ -1497,38 +1499,6 @@ EncounterDetailsDB = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Констеллар-куратор",
-		},
-		[193513] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Имирон, падший король",
-		},
-		[253037] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Клинок Скверны – штурмовик",
-		},
-		[248317] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Аргус Порабощенный",
-		},
-		[251447] = {
-			["school"] = 32,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Шатуг",
 		},
 		[244969] = {
 			["school"] = 1,
@@ -1546,6 +1516,36 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Мучения Голганнета",
 		},
+		[248317] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Аргус Порабощенный",
+		},
+		[251447] = {
+			["school"] = 32,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Шатуг",
+		},
+		[197952] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Щупальце разрушения",
+		},
+		[253300] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Разрушитель миров Кин’гарота",
+		},
 		[198495] = {
 			["school"] = 16,
 			["token"] = {
@@ -1561,12 +1561,12 @@ EncounterDetailsDB = {
 				["SPELL_DAMAGE"] = true,
 			},
 		},
-		[253300] = {
-			["school"] = 4,
+		[193513] = {
+			["school"] = 32,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Разрушитель миров Кин’гарота",
+			["source"] = "Имирон, падший король",
 		},
 		[248254] = {
 			["school"] = 1,
@@ -1600,12 +1600,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Вариматрас",
 		},
-		[197952] = {
-			["school"] = 1,
+		[244473] = {
+			["school"] = 4,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Щупальце разрушения",
+			["source"] = "Ф'арг",
 		},
 		[198496] = {
 			["school"] = 8,
@@ -1616,12 +1616,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Уларогг Скаломол",
 		},
-		[244473] = {
-			["school"] = 4,
+		[250006] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Ф'арг",
+			["source"] = "Ловец душ Имонар",
 		},
 		[228262] = {
 			["school"] = 4,
@@ -1638,14 +1639,6 @@ EncounterDetailsDB = {
 				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Даргрул",
-		},
-		[250006] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Ловец душ Имонар",
 		},
 		[256388] = {
 			["school"] = 1,
@@ -1672,6 +1665,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Нараксас",
 		},
+		[258731] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Азара, Матерь Ночи",
+		},
 		[257262] = {
 			["school"] = 1,
 			["token"] = {
@@ -1692,12 +1694,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ловушки!",
 		},
-		[245629] = {
-			["school"] = 4,
+		[250334] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Нура, Матерь Пламени",
+			["source"] = "Диима, Матерь Сумрака",
 		},
 		[199775] = {
 			["school"] = 1,
@@ -1715,22 +1719,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Харбарон",
 		},
-		[250334] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Диима, Матерь Сумрака",
-		},
-		[193594] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Имирон, падший король",
-		},
 		[226510] = {
 			["school"] = 32,
 			["type"] = "BUFF",
@@ -1738,6 +1726,13 @@ EncounterDetailsDB = {
 				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_PERIODIC_HEAL"] = true,
 			},
+		},
+		[193594] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Имирон, падший король",
 		},
 		[253203] = {
 			["school"] = 32,
@@ -1773,6 +1768,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Хелия",
 		},
+		[253061] = {
+			["school"] = 64,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Констеллар-куратор",
+		},
 		[230002] = {
 			["school"] = 4,
 			["type"] = "DEBUFF",
@@ -1784,11 +1788,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Страж Скверны - дозорный",
 		},
-		[246690] = {
+		[246646] = {
 			["school"] = 4,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
+			["source"] = "Кин'гарот",
 		},
 		[199457] = {
 			["school"] = 32,
@@ -1807,14 +1812,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Виз'адуум Всевидящий",
 		},
-		[252729] = {
-			["school"] = 64,
+		[244042] = {
+			["school"] = 32,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Констеллар-куратор",
+			["source"] = "Вариматрас",
 		},
 		[229287] = {
 			["school"] = 1,
@@ -1835,10 +1840,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Констеллар-куратор",
 		},
-		[246646] = {
-			["school"] = 4,
+		[246516] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Кин'гарот",
 		},
@@ -1849,16 +1857,6 @@ EncounterDetailsDB = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
 			["source"] = "Ловец душ Имонар",
-		},
-		[246516] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Кин'гарот",
 		},
 		[227465] = {
 			["school"] = 64,
@@ -1905,6 +1903,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Диима, Матерь Сумрака",
 		},
+		[255641] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+		},
 		[194668] = {
 			["school"] = 32,
 			["token"] = {
@@ -1913,11 +1917,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Харбарон",
 		},
-		[255641] = {
-			["school"] = 4,
+		[254244] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
+			["source"] = "Ловец душ Имонар",
 		},
 		[227254] = {
 			["school"] = 64,
@@ -1928,13 +1934,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Смотритель",
 		},
-		[229161] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Виз'адуум Всевидящий",
-		},
 		[248068] = {
 			["school"] = 32,
 			["token"] = {
@@ -1942,6 +1941,13 @@ EncounterDetailsDB = {
 				["SPELL_CAST_START"] = true,
 			},
 			["source"] = "Ловец душ Имонар",
+		},
+		[229161] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Виз'адуум Всевидящий",
 		},
 		[253753] = {
 			["school"] = 32,
@@ -1951,13 +1957,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Диима, Матерь Сумрака",
 		},
-		[254244] = {
-			["school"] = 8,
+		[246753] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Ловец душ Имонар",
+			["source"] = "Заряженный Скверной маскировщик",
 		},
 		[249793] = {
 			["school"] = 1,
@@ -1985,15 +1992,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Демонический портал",
 		},
-		[246753] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Заряженный Скверной маскировщик",
-		},
 		[243050] = {
 			["school"] = 4,
 			["type"] = "DEBUFF",
@@ -2012,6 +2010,13 @@ EncounterDetailsDB = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Наполненный Скверной разрушитель",
+		},
+		[240277] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Разрушитель миров Кин’гарота",
 		},
 		[228524] = {
 			["school"] = 64,
@@ -2165,13 +2170,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Шатуг",
 		},
-		[228334] = {
-			["school"] = 64,
+		[244686] = {
+			["school"] = 4,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Тень Медива",
+			["source"] = "Агграмар",
 		},
 		[246316] = {
 			["school"] = 8,
@@ -2425,12 +2429,13 @@ EncounterDetailsDB = {
 				["SPELL_DAMAGE"] = true,
 			},
 		},
-		[244686] = {
-			["school"] = 4,
+		[228334] = {
+			["school"] = 64,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Агграмар",
+			["source"] = "Тень Медива",
 		},
 		[246057] = {
 			["school"] = 32,
@@ -2622,14 +2627,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Агграмар",
 		},
-		[244042] = {
-			["school"] = 32,
+		[252729] = {
+			["school"] = 64,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Вариматрас",
+			["source"] = "Констеллар-куратор",
 		},
 		[228980] = {
 			["school"] = 1,
@@ -2653,14 +2658,11 @@ EncounterDetailsDB = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
 		},
-		[253061] = {
-			["school"] = 64,
+		[246690] = {
+			["school"] = 4,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Констеллар-куратор",
 		},
 		[193977] = {
 			["school"] = 16,
@@ -2679,6 +2681,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Нура, Матерь Пламени",
 		},
+		[254403] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Шатуг",
+		},
 		[255425] = {
 			["school"] = 1,
 			["type"] = "DEBUFF",
@@ -2686,13 +2695,6 @@ EncounterDetailsDB = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
 			["source"] = "Констеллар-куратор",
-		},
-		[254403] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Шатуг",
 		},
 		[193211] = {
 			["school"] = 32,
@@ -2710,14 +2712,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Изрыгатель тьмы",
 		},
-		[258731] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[245629] = {
+			["school"] = 4,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Азара, Матерь Ночи",
+			["source"] = "Нура, Матерь Пламени",
 		},
 		[250095] = {
 			["school"] = 64,

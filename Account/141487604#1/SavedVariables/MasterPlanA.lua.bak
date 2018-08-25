@@ -3,18 +3,14 @@ MasterPlanAG = {
 	["Ревущий фьорд"] = {
 		["Царева"] = {
 			["summary"] = {
-				["ti2"] = 122484,
-				["ti3"] = 127854,
-				["tt1"] = 1512411115,
-				["ti1"] = 118529,
 				["tt3"] = true,
-				["tt2"] = true,
+				["ti3"] = 127854,
 			},
 			["faction"] = "Horde",
-			["class"] = "DRUID",
-			["lastCacheTime"] = 1531603761,
-			["curRes"] = 573,
 			["curOil"] = 880,
+			["class"] = "DRUID",
+			["curRes"] = 573,
+			["lastCacheTime"] = 1531603761,
 		},
 		["Неполучилась"] = {
 			["faction"] = "Horde",
@@ -34,15 +30,9 @@ MasterPlanAG = {
 			["class"] = "ROGUE",
 			["faction"] = "Alliance",
 		},
-		["Дайтемнеключ"] = {
-			["class"] = "WARLOCK",
-			["summary"] = {
-				["ti2"] = 122484,
-				["ti3"] = 128391,
-				["tt3"] = true,
-				["tt2"] = true,
-			},
+		["Зёбинмонк"] = {
 			["faction"] = "Horde",
+			["class"] = "MONK",
 		},
 		["Зёбедам"] = {
 			["faction"] = "Horde",
@@ -60,41 +50,41 @@ MasterPlanAG = {
 			["lastCacheTime"] = 1530809929,
 		},
 		["Зёба"] = {
-			["class"] = "WARRIOR",
+			["faction"] = "Horde",
 			["summary"] = {
-				["lastOilTime"] = 1532776586,
 				["ti2"] = 122486,
-				["inProgress"] = {
-					[455] = 1532812155,
-					[685] = 1532804954,
-					[326] = 1532797754,
-				},
 				["ti3"] = 127855,
-				["tt1"] = 1532779586,
+				["tt1"] = 1533978475,
 				["ti1"] = 118531,
-				["tt3"] = 1531500384,
-				["tt2"] = 1532540599,
+				["tt3"] = 1533464609,
+				["tt2"] = 1533753881,
 			},
-			["curOil"] = 20955,
+			["curOil"] = 20705,
 			["cacheSize"] = 1000,
-			["lastCacheTime"] = 1532783319,
-			["curRes"] = 9715,
-			["faction"] = "Horde",
-		},
-		["Зёбинмонк"] = {
-			["faction"] = "Horde",
-			["class"] = "MONK",
-		},
-		["Василец"] = {
-			["faction"] = "Horde",
-			["curOil"] = 1410,
-			["lastCacheTime"] = 1473637614,
-			["curRes"] = 6059,
-			["class"] = "DEATHKNIGHT",
+			["lastCacheTime"] = 1534888526,
+			["curRes"] = 1184,
+			["class"] = "WARRIOR",
 		},
 		["Зёбиндру"] = {
 			["faction"] = "Alliance",
 			["class"] = "DRUID",
+		},
+		["Василец"] = {
+			["curOil"] = 1410,
+			["faction"] = "Horde",
+			["lastCacheTime"] = 1473637614,
+			["curRes"] = 6059,
+			["class"] = "DEATHKNIGHT",
+		},
+		["Дайтемнеключ"] = {
+			["class"] = "WARLOCK",
+			["summary"] = {
+				["ti2"] = 122484,
+				["ti3"] = 128391,
+				["tt3"] = true,
+				["tt2"] = true,
+			},
+			["faction"] = "Horde",
 		},
 		["Зёбинпаладин"] = {
 			["class"] = "PALADIN",

@@ -11,14 +11,14 @@ ZiobaToDo: disabled
 WoWTODONano: disabled
 RaiderIO_DB_EU_A: disabled
 LegionToDo: enabled
-RaiderIO: enabled
+RaiderIO: disabled
 RCLootCouncil: disabled
 DBM-Core: enabled
 epgp_lootmaster: disabled
 epgp_lootmaster_ml: disabled
 ActionBarSaver: disabled
 CandyBuckets: disabled
-Easy_Obliterate: enabled
+Easy_Obliterate: disabled
 ErrorFilter: enabled
 LegionTODOMini: disabled
 MythicPlusTimer: enabled
@@ -27,7 +27,7 @@ OmniCC_Config: enabled
 PreformAVEnabler: disabled
 RaiderIO_DB_US_A: disabled
 RaiderIO_DB_US_H: disabled
-RaiderIO_DB_EU_H: enabled
+RaiderIO_DB_EU_H: disabled
 RaiderIO_DB_KR_A: disabled
 RaiderIO_DB_KR_H: disabled
 RaiderIO_DB_TW_A: disabled
@@ -110,3 +110,5 @@ Details_3DModelsPaths: disabled
 Details_Streamer: disabled
 Details_RaidCheck: disabled
 LootHelper: disabled
+Azeroth Auto Pilot: disabled
+Details: enabled

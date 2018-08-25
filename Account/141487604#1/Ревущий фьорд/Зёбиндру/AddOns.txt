@@ -1,7 +1,7 @@
 ActionBarSaver: disabled
 RCLootCouncil: disabled
 CandyBuckets: disabled
-Easy_Obliterate: enabled
+Easy_Obliterate: disabled
 epgp_lootmaster: disabled
 epgp_lootmaster_ml: disabled
 ErrorFilter: enabled
@@ -14,11 +14,11 @@ MythicPlusTimer: enabled
 OmniCC: enabled
 OmniCC_Config: enabled
 PreformAVEnabler: disabled
-RaiderIO: enabled
+RaiderIO: disabled
 RaiderIO_DB_US_A: disabled
 RaiderIO_DB_US_H: disabled
 RaiderIO_DB_EU_A: disabled
-RaiderIO_DB_EU_H: enabled
+RaiderIO_DB_EU_H: disabled
 RaiderIO_DB_KR_A: disabled
 RaiderIO_DB_KR_H: disabled
 RaiderIO_DB_TW_A: disabled
@@ -104,3 +104,5 @@ Details_3DModelsPaths: disabled
 Details_Streamer: disabled
 Details_RaidCheck: disabled
 LootHelper: disabled
+Azeroth Auto Pilot: disabled
+Details: enabled

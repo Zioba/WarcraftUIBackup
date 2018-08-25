@@ -5,9 +5,2450 @@ _detalhes_database = {
 	["mythic_dungeon_id"] = 5,
 	["tabela_historico"] = {
 		["tabelas"] = {
+			{
+				{
+					["combatId"] = 4,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.004208,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Тренировочный манекен"] = 100513,
+							},
+							["spec"] = 66,
+							["pets"] = {
+							},
+							["isTank"] = true,
+							["end_time"] = 1534896990,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 100513.004208,
+							["colocacao"] = 1,
+							["avoidance"] = {
+								["overall"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 0,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 0,
+									["ABSORB_AMT"] = 0,
+									["FULL_HIT"] = 0,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 0,
+								},
+							},
+							["dps_started"] = false,
+							["total"] = 100513.004208,
+							["classe"] = "PALADIN",
+							["friendlyfire"] = {
+							},
+							["nome"] = "Зёбинпаладин",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 6,
+										["b_amt"] = 0,
+										["c_dmg"] = 11172,
+										["g_amt"] = 0,
+										["n_max"] = 1045,
+										["targets"] = {
+											["Тренировочный манекен"] = 31503,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 20331,
+										["n_min"] = 849,
+										["g_dmg"] = 0,
+										["counter"] = 29,
+										["total"] = 31503,
+										["c_max"] = 2186,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 23,
+										["r_amt"] = 0,
+										["c_min"] = 1738,
+									}, -- [1]
+									[53600] = {
+										["c_amt"] = 2,
+										["b_amt"] = 1,
+										["c_dmg"] = 4997,
+										["g_amt"] = 0,
+										["n_max"] = 1470,
+										["targets"] = {
+											["Тренировочный манекен"] = 10436,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 5439,
+										["n_min"] = 1029,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 10436,
+										["c_max"] = 2499,
+										["id"] = 53600,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 1029,
+										["n_amt"] = 4,
+										["r_amt"] = 0,
+										["c_min"] = 2498,
+									},
+									[53595] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 2201,
+										["g_amt"] = 0,
+										["n_max"] = 540,
+										["targets"] = {
+											["Тренировочный манекен"] = 4899,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 2698,
+										["n_min"] = 539,
+										["g_dmg"] = 0,
+										["counter"] = 7,
+										["total"] = 4899,
+										["c_max"] = 1101,
+										["id"] = 53595,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 5,
+										["r_amt"] = 0,
+										["c_min"] = 1100,
+									},
+									[31935] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 3664,
+										["g_amt"] = 0,
+										["n_max"] = 1796,
+										["targets"] = {
+											["Тренировочный манекен"] = 16235,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 12571,
+										["n_min"] = 1795,
+										["g_dmg"] = 0,
+										["counter"] = 8,
+										["total"] = 16235,
+										["c_max"] = 3664,
+										["id"] = 31935,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 7,
+										["r_amt"] = 0,
+										["c_min"] = 3664,
+									},
+									[88263] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 1381,
+										["g_amt"] = 0,
+										["n_max"] = 226,
+										["targets"] = {
+											["Тренировочный манекен"] = 2284,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 903,
+										["n_min"] = 225,
+										["g_dmg"] = 0,
+										["counter"] = 7,
+										["total"] = 2284,
+										["c_max"] = 461,
+										["id"] = 88263,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["r_amt"] = 0,
+										["c_min"] = 460,
+									},
+									[81297] = {
+										["c_amt"] = 44,
+										["b_amt"] = 0,
+										["c_dmg"] = 10861,
+										["g_amt"] = 0,
+										["n_max"] = 120,
+										["targets"] = {
+											["Тренировочный манекен"] = 23801,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 12940,
+										["n_min"] = 116,
+										["g_dmg"] = 0,
+										["counter"] = 152,
+										["total"] = 23801,
+										["c_max"] = 293,
+										["id"] = 81297,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 108,
+										["r_amt"] = 0,
+										["c_min"] = 244,
+									},
+									[275779] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 2271,
+										["targets"] = {
+											["Тренировочный манекен"] = 11355,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 11355,
+										["n_min"] = 2271,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 11355,
+										["c_max"] = 0,
+										["id"] = 275779,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 5,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["on_hold"] = false,
+							["serial"] = "Player-1615-081BCCC7",
+							["last_dps"] = 1521.12661109645,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.004208,
+							["start_time"] = 1534896924,
+							["delay"] = 0,
+							["last_event"] = 1534896983,
+						}, -- [1]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 4,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 4,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 4,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[31935] = {
+										["activedamt"] = 0,
+										["id"] = 31935,
+										["targets"] = {
+										},
+										["uptime"] = 12,
+										["appliedamt"] = 4,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[62124] = {
+										["activedamt"] = -1,
+										["id"] = 62124,
+										["targets"] = {
+										},
+										["actived_at"] = 1534896926,
+										["uptime"] = 0,
+										["appliedamt"] = 0,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[204242] = {
+										["activedamt"] = 0,
+										["id"] = 204242,
+										["targets"] = {
+										},
+										["uptime"] = 54,
+										["appliedamt"] = 22,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["cooldowns_defensive"] = 1.003667,
+							["buff_uptime"] = 191,
+							["last_cooldown"] = {
+								1534896973.207, -- [1]
+								31850, -- [2]
+							},
+							["classe"] = "PALADIN",
+							["cooldowns_defensive_targets"] = {
+								["Зёбинпаладин"] = 1,
+							},
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[269083] = {
+										["activedamt"] = 1,
+										["id"] = 269083,
+										["targets"] = {
+										},
+										["uptime"] = 66,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[275481] = {
+										["activedamt"] = 4,
+										["id"] = 275481,
+										["targets"] = {
+										},
+										["uptime"] = 16,
+										["appliedamt"] = 4,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[132403] = {
+										["activedamt"] = 4,
+										["id"] = 132403,
+										["targets"] = {
+										},
+										["uptime"] = 25,
+										["appliedamt"] = 4,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[31850] = {
+										["activedamt"] = 1,
+										["id"] = 31850,
+										["targets"] = {
+										},
+										["uptime"] = 8,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[197561] = {
+										["activedamt"] = 4,
+										["id"] = 197561,
+										["targets"] = {
+										},
+										["uptime"] = 10,
+										["appliedamt"] = 4,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[31884] = {
+										["activedamt"] = 1,
+										["id"] = 31884,
+										["targets"] = {
+										},
+										["uptime"] = 12,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[188370] = {
+										["activedamt"] = 11,
+										["id"] = 188370,
+										["targets"] = {
+										},
+										["uptime"] = 54,
+										["appliedamt"] = 11,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["debuff_uptime"] = 66,
+							["cooldowns_defensive_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[31850] = {
+										["id"] = 31850,
+										["targets"] = {
+											["Зёбинпаладин"] = 1,
+										},
+										["counter"] = 1,
+									},
+								},
+							},
+							["nome"] = "Зёбинпаладин",
+							["spec"] = 66,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[31850] = 1,
+								[53600] = 6,
+								[53595] = 7,
+								[26573] = 10,
+								[31935] = 4,
+								[31884] = 1,
+								[275779] = 5,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1534896990,
+							["pets"] = {
+							},
+							["isTank"] = true,
+							["serial"] = "Player-1615-081BCCC7",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 4,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Зёбинпаладин"] = true,
+				},
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "Тренировочный манекен",
+				["combat_counter"] = 395,
+				["playing_solo"] = true,
+				["totals"] = {
+					100512.977372, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 1,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = false,
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Зёбинпаладин"] = 100513.004208,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 571086.329,
+				["combat_id"] = 4,
+				["instance_type"] = "none",
+				["frags"] = {
+				},
+				["data_fim"] = "03:16:31",
+				["data_inicio"] = "03:15:24",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					100513, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 1,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 571020.251,
+				["TimeData"] = {
+				},
+				["pvp"] = true,
+			}, -- [1]
+			{
+				{
+					["combatId"] = 3,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.006681,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Тренировочный манекен"] = 78213,
+							},
+							["spec"] = 66,
+							["pets"] = {
+							},
+							["isTank"] = true,
+							["end_time"] = 1534896802,
+							["classe"] = "PALADIN",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 78213.006681,
+							["colocacao"] = 1,
+							["avoidance"] = {
+								["overall"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 0,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 0,
+									["ABSORB_AMT"] = 0,
+									["FULL_HIT"] = 0,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 0,
+								},
+							},
+							["dps_started"] = false,
+							["total"] = 78213.006681,
+							["friendlyfire_total"] = 0,
+							["friendlyfire"] = {
+							},
+							["nome"] = "Зёбинпаладин",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 4,
+										["b_amt"] = 0,
+										["c_dmg"] = 7225,
+										["g_amt"] = 0,
+										["n_max"] = 903,
+										["targets"] = {
+											["Тренировочный манекен"] = 18603,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 11378,
+										["n_min"] = 853,
+										["g_dmg"] = 0,
+										["counter"] = 17,
+										["total"] = 18603,
+										["c_max"] = 1839,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 13,
+										["r_amt"] = 0,
+										["c_min"] = 1765,
+									}, -- [1]
+									[53600] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 5997,
+										["g_amt"] = 0,
+										["n_max"] = 1470,
+										["targets"] = {
+											["Тренировочный манекен"] = 8692,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 2695,
+										["n_min"] = 1225,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 8692,
+										["c_max"] = 2999,
+										["id"] = 53600,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 2998,
+									},
+									[275779] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 2272,
+										["targets"] = {
+											["Тренировочный манекен"] = 11356,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 11356,
+										["n_min"] = 2271,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 11356,
+										["c_max"] = 0,
+										["id"] = 275779,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 5,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[88263] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 460,
+										["g_amt"] = 0,
+										["n_max"] = 226,
+										["targets"] = {
+											["Тренировочный манекен"] = 1137,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 677,
+										["n_min"] = 225,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 1137,
+										["c_max"] = 460,
+										["id"] = 88263,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 3,
+										["r_amt"] = 0,
+										["c_min"] = 460,
+									},
+									[53595] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 2200,
+										["g_amt"] = 0,
+										["n_max"] = 540,
+										["targets"] = {
+											["Тренировочный манекен"] = 3280,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1080,
+										["n_min"] = 540,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 3280,
+										["c_max"] = 1100,
+										["id"] = 53595,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 1100,
+									},
+									[81297] = {
+										["c_amt"] = 35,
+										["b_amt"] = 0,
+										["c_dmg"] = 8425,
+										["g_amt"] = 0,
+										["n_max"] = 120,
+										["targets"] = {
+											["Тренировочный манекен"] = 18765,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 10340,
+										["n_min"] = 113,
+										["g_dmg"] = 0,
+										["counter"] = 122,
+										["total"] = 18765,
+										["c_max"] = 245,
+										["id"] = 81297,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 87,
+										["r_amt"] = 0,
+										["c_min"] = 231,
+									},
+									[31935] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 10992,
+										["g_amt"] = 0,
+										["n_max"] = 1796,
+										["targets"] = {
+											["Тренировочный манекен"] = 16380,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 5388,
+										["n_min"] = 1796,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 16380,
+										["c_max"] = 3664,
+										["id"] = 31935,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 3,
+										["r_amt"] = 0,
+										["c_min"] = 3664,
+									},
+								},
+							},
+							["grupo"] = true,
+							["on_hold"] = false,
+							["serial"] = "Player-1615-081BCCC7",
+							["last_dps"] = 1722.07069182023,
+							["custom"] = 0,
+							["last_event"] = 1534896796,
+							["damage_taken"] = 0.006681,
+							["start_time"] = 1534896750,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 3,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "PALADIN",
+							["totalover"] = 0.004916,
+							["total_without_pet"] = 2080.004916,
+							["total"] = 2080.004916,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["isTank"] = true,
+							["serial"] = "Player-1615-081BCCC7",
+							["totalabsorb"] = 0.004916,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Зёбинпаладин"] = 2080,
+							},
+							["totalover_without_pet"] = 0.004916,
+							["healing_taken"] = 2080.004916,
+							["fight_component"] = true,
+							["end_time"] = 1534896802,
+							["healing_from"] = {
+								["Зёбинпаладин"] = true,
+							},
+							["nome"] = "Зёбинпаладин",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[143924] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 230,
+										["targets"] = {
+											["Зёбинпаладин"] = 2080,
+										},
+										["n_min"] = 6,
+										["counter"] = 39,
+										["overheal"] = 0,
+										["total"] = 2080,
+										["c_max"] = 0,
+										["id"] = 143924,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 2080,
+										["n_amt"] = 39,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["heal_enemy_amt"] = 0,
+							["start_time"] = 1534896751,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["spec"] = 66,
+							["totaldenied"] = 0.004916,
+							["delay"] = 0,
+							["last_event"] = 1534896797,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 3,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 3,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[31935] = {
+										["activedamt"] = 0,
+										["id"] = 31935,
+										["targets"] = {
+										},
+										["uptime"] = 9,
+										["appliedamt"] = 3,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[204242] = {
+										["activedamt"] = 0,
+										["id"] = 204242,
+										["targets"] = {
+										},
+										["uptime"] = 45,
+										["appliedamt"] = 13,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[25771] = {
+										["activedamt"] = 0,
+										["id"] = 25771,
+										["targets"] = {
+										},
+										["uptime"] = 30,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["cooldowns_defensive"] = 3.006277,
+							["buff_uptime"] = 159,
+							["last_cooldown"] = {
+								1534896775.557, -- [1]
+								86659, -- [2]
+							},
+							["classe"] = "PALADIN",
+							["cooldowns_defensive_targets"] = {
+								["Зёбинпаладин"] = 3,
+							},
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[269083] = {
+										["activedamt"] = 1,
+										["id"] = 269083,
+										["targets"] = {
+										},
+										["uptime"] = 52,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[275481] = {
+										["activedamt"] = 4,
+										["id"] = 275481,
+										["targets"] = {
+										},
+										["uptime"] = 12,
+										["appliedamt"] = 4,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[31850] = {
+										["activedamt"] = 1,
+										["id"] = 31850,
+										["targets"] = {
+										},
+										["uptime"] = 8,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[132403] = {
+										["activedamt"] = 4,
+										["id"] = 132403,
+										["targets"] = {
+										},
+										["uptime"] = 24,
+										["appliedamt"] = 4,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[642] = {
+										["activedamt"] = 1,
+										["id"] = 642,
+										["targets"] = {
+										},
+										["uptime"] = 8,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[197561] = {
+										["activedamt"] = 3,
+										["id"] = 197561,
+										["targets"] = {
+										},
+										["uptime"] = 11,
+										["appliedamt"] = 3,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[86659] = {
+										["activedamt"] = 1,
+										["id"] = 86659,
+										["targets"] = {
+										},
+										["uptime"] = 8,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[188370] = {
+										["activedamt"] = 7,
+										["id"] = 188370,
+										["targets"] = {
+										},
+										["uptime"] = 36,
+										["appliedamt"] = 7,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["fight_component"] = true,
+							["debuff_uptime"] = 84,
+							["cooldowns_defensive_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[31850] = {
+										["id"] = 31850,
+										["targets"] = {
+											["Зёбинпаладин"] = 1,
+										},
+										["counter"] = 1,
+									},
+									[86659] = {
+										["id"] = 86659,
+										["targets"] = {
+											["Зёбинпаладин"] = 1,
+										},
+										["counter"] = 1,
+									},
+									[642] = {
+										["id"] = 642,
+										["targets"] = {
+											["Зёбинпаладин"] = 1,
+										},
+										["counter"] = 1,
+									},
+								},
+							},
+							["nome"] = "Зёбинпаладин",
+							["spec"] = 66,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[642] = 1,
+								[26573] = 6,
+								[275779] = 5,
+								[53600] = 5,
+								[31850] = 1,
+								[53595] = 4,
+								[86659] = 1,
+								[31935] = 3,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1534896802,
+							["pets"] = {
+							},
+							["isTank"] = true,
+							["serial"] = "Player-1615-081BCCC7",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 3,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Зёбинпаладин"] = true,
+				},
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "Тренировочный манекен",
+				["combat_counter"] = 394,
+				["playing_solo"] = true,
+				["totals"] = {
+					78212.984884, -- [1]
+					2080, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 3,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = false,
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Зёбинпаладин"] = 2080.004916,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Зёбинпаладин"] = 78213.006681,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 570898.247,
+				["combat_id"] = 3,
+				["instance_type"] = "none",
+				["frags"] = {
+				},
+				["data_fim"] = "03:13:22",
+				["data_inicio"] = "03:12:31",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					78213, -- [1]
+					2080, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 3,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 570846.704,
+				["TimeData"] = {
+				},
+				["pvp"] = true,
+			}, -- [2]
+			{
+				{
+					["combatId"] = 2,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.00574,
+							["damage_from"] = {
+								["Тренировочный манекен покорителя подземелий"] = true,
+							},
+							["targets"] = {
+								["Тренировочный манекен покорителя подземелий"] = 1209,
+								["Тренировочный манекен рейдера"] = 2144,
+							},
+							["spec"] = 66,
+							["pets"] = {
+							},
+							["isTank"] = true,
+							["end_time"] = 1534896732,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 3353.00574,
+							["colocacao"] = 1,
+							["avoidance"] = {
+								["overall"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 3016,
+									["BLOCKED_HITS"] = 2,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 5,
+									["PARTIAL_ABSORBED"] = 5,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 2082,
+									["ABSORB"] = 5,
+									["ABSORB_AMT"] = 2082,
+									["FULL_HIT"] = 0,
+									["HITS"] = 4,
+									["FULL_HIT_AMT"] = 0,
+								},
+								["Тренировочный манекен покорителя подземелий"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 3016,
+									["BLOCKED_HITS"] = 2,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 5,
+									["PARTIAL_ABSORBED"] = 5,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 2082,
+									["ABSORB"] = 5,
+									["ABSORB_AMT"] = 2082,
+									["FULL_HIT"] = 0,
+									["HITS"] = 4,
+									["FULL_HIT_AMT"] = 0,
+								},
+							},
+							["dps_started"] = false,
+							["total"] = 3353.00574,
+							["classe"] = "PALADIN",
+							["friendlyfire"] = {
+							},
+							["nome"] = "Зёбинпаладин",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 1,
+										["n_max"] = 0,
+										["targets"] = {
+											["Тренировочный манекен покорителя подземелий"] = 17,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 17,
+										["counter"] = 3,
+										["a_amt"] = 0,
+										["total"] = 17,
+										["c_max"] = 0,
+										["MISS"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["PARRY"] = 1,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									}, -- [1]
+									[53600] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 1192,
+										["targets"] = {
+											["Тренировочный манекен покорителя подземелий"] = 1192,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1192,
+										["n_min"] = 1192,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 1192,
+										["c_max"] = 0,
+										["id"] = 53600,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[275779] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 2144,
+										["targets"] = {
+											["Тренировочный манекен рейдера"] = 2144,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 2144,
+										["n_min"] = 2144,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 2144,
+										["c_max"] = 0,
+										["id"] = 275779,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[157122] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Тренировочный манекен покорителя подземелий"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 0,
+										["c_max"] = 0,
+										["MISS"] = 1,
+										["id"] = 157122,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[81297] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Тренировочный манекен покорителя подземелий"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 0,
+										["c_max"] = 0,
+										["MISS"] = 5,
+										["id"] = 81297,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[53595] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Тренировочный манекен покорителя подземелий"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 0,
+										["c_max"] = 0,
+										["MISS"] = 1,
+										["id"] = 53595,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["on_hold"] = false,
+							["serial"] = "Player-1615-081BCCC7",
+							["last_dps"] = 730.820780298206,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 69532.00574,
+							["start_time"] = 1534896728,
+							["delay"] = 0,
+							["last_event"] = 1534896732,
+						}, -- [1]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 2,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "PALADIN",
+							["totalover"] = 0.003432,
+							["total_without_pet"] = 2140.003432,
+							["total"] = 2140.003432,
+							["targets_absorbs"] = {
+								["Зёбинпаладин"] = 2082,
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["isTank"] = true,
+							["serial"] = "Player-1615-081BCCC7",
+							["totalabsorb"] = 2082.003432,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Зёбинпаладин"] = 2140,
+							},
+							["totalover_without_pet"] = 0.003432,
+							["healing_taken"] = 2140.003432,
+							["fight_component"] = true,
+							["end_time"] = 1534896732,
+							["healing_from"] = {
+								["Зёбинпаладин"] = true,
+							},
+							["nome"] = "Зёбинпаладин",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[203791] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 2082,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 495,
+										["targets"] = {
+											["Зёбинпаладин"] = 2082,
+										},
+										["n_min"] = 298,
+										["counter"] = 5,
+										["overheal"] = 0,
+										["total"] = 2082,
+										["c_max"] = 0,
+										["id"] = 203791,
+										["targets_absorbs"] = {
+											["Зёбинпаладин"] = 2082,
+										},
+										["m_healed"] = 0,
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 2082,
+										["n_amt"] = 5,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[143924] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 57,
+										["targets"] = {
+											["Зёбинпаладин"] = 58,
+										},
+										["n_min"] = 1,
+										["counter"] = 2,
+										["overheal"] = 0,
+										["total"] = 58,
+										["c_max"] = 0,
+										["id"] = 143924,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 58,
+										["n_amt"] = 2,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["heal_enemy_amt"] = 0,
+							["start_time"] = 1534896728,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["spec"] = 66,
+							["totaldenied"] = 0.003432,
+							["delay"] = 0,
+							["last_event"] = 1534896732,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 2,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 2,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[204242] = {
+										["activedamt"] = 1,
+										["id"] = 204242,
+										["targets"] = {
+										},
+										["uptime"] = 3,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["buff_uptime"] = 7,
+							["classe"] = "PALADIN",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[269083] = {
+										["activedamt"] = 1,
+										["id"] = 269083,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[188370] = {
+										["activedamt"] = 1,
+										["id"] = 188370,
+										["targets"] = {
+										},
+										["uptime"] = 3,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[275481] = {
+										["activedamt"] = 1,
+										["id"] = 275481,
+										["targets"] = {
+										},
+										["uptime"] = 0,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[132403] = {
+										["activedamt"] = 1,
+										["id"] = 132403,
+										["targets"] = {
+										},
+										["uptime"] = 0,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["fight_component"] = true,
+							["debuff_uptime"] = 3,
+							["nome"] = "Зёбинпаладин",
+							["spec"] = 66,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[26573] = 1,
+								[31935] = 1,
+								[53595] = 1,
+								[53600] = 1,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1534896732,
+							["pets"] = {
+							},
+							["isTank"] = true,
+							["serial"] = "Player-1615-081BCCC7",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 2,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Зёбинпаладин"] = true,
+				},
+				["overall_added"] = true,
+				["last_events_tables"] = {
+					{
+						{
+							{
+								true, -- [1]
+								1, -- [2]
+								15463, -- [3]
+								1534896728.069, -- [4]
+								59460, -- [5]
+								"Тренировочный манекен покорителя подземелий", -- [6]
+								463, -- [7]
+								1, -- [8]
+								false, -- [9]
+								-1, -- [10]
+							}, -- [1]
+							{
+								false, -- [1]
+								203791, -- [2]
+								463, -- [3]
+								1534896728.069, -- [4]
+								59460, -- [5]
+								"Зёбинпаладин", -- [6]
+								true, -- [7]
+								0, -- [8]
+							}, -- [2]
+							{
+								false, -- [1]
+								143924, -- [2]
+								57, -- [3]
+								1534896728.162, -- [4]
+								44517, -- [5]
+								"Зёбинпаладин", -- [6]
+								nil, -- [7]
+								0, -- [8]
+							}, -- [3]
+							{
+								true, -- [1]
+								1, -- [2]
+								15320, -- [3]
+								1534896729.583, -- [4]
+								44517, -- [5]
+								"Тренировочный манекен покорителя подземелий", -- [6]
+								459, -- [7]
+								1, -- [8]
+								false, -- [9]
+								-1, -- [10]
+							}, -- [4]
+							{
+								false, -- [1]
+								203791, -- [2]
+								459, -- [3]
+								1534896729.583, -- [4]
+								44517, -- [5]
+								"Зёбинпаладин", -- [6]
+								true, -- [7]
+								0, -- [8]
+							}, -- [5]
+							{
+								true, -- [1]
+								1, -- [2]
+								16532, -- [3]
+								1534896731.089, -- [4]
+								29656, -- [5]
+								"Тренировочный манекен покорителя подземелий", -- [6]
+								495, -- [7]
+								1, -- [8]
+								false, -- [9]
+								-1, -- [10]
+							}, -- [6]
+							{
+								false, -- [1]
+								203791, -- [2]
+								495, -- [3]
+								1534896731.089, -- [4]
+								29656, -- [5]
+								"Зёбинпаладин", -- [6]
+								true, -- [7]
+								0, -- [8]
+							}, -- [7]
+							{
+								false, -- [1]
+								203791, -- [2]
+								367, -- [3]
+								1534896731.485, -- [4]
+								13619, -- [5]
+								"Зёбинпаладин", -- [6]
+								true, -- [7]
+								0, -- [8]
+							}, -- [8]
+							{
+								true, -- [1]
+								167381, -- [2]
+								12260, -- [3]
+								1534896731.485, -- [4]
+								1726, -- [5]
+								"Тренировочный манекен покорителя подземелий", -- [6]
+								367, -- [7]
+								1, -- [8]
+								false, -- [9]
+								-1, -- [10]
+							}, -- [9]
+							{
+								false, -- [1]
+								143924, -- [2]
+								1, -- [3]
+								1534896732.266, -- [4]
+								1727, -- [5]
+								"Зёбинпаладин", -- [6]
+								nil, -- [7]
+								0, -- [8]
+							}, -- [10]
+							{
+								true, -- [1]
+								1, -- [2]
+								9957, -- [3]
+								1534896732.545, -- [4]
+								1727, -- [5]
+								"Тренировочный манекен покорителя подземелий", -- [6]
+								298, -- [7]
+								1, -- [8]
+								false, -- [9]
+								7932, -- [10]
+							}, -- [11]
+							{
+								false, -- [1]
+								203791, -- [2]
+								298, -- [3]
+								1534896732.545, -- [4]
+								1727, -- [5]
+								"Зёбинпаладин", -- [6]
+								true, -- [7]
+								0, -- [8]
+							}, -- [12]
+							{
+								3, -- [1]
+								0, -- [2]
+								0, -- [3]
+								0, -- [4]
+								0, -- [5]
+								"Зёбинпаладин", -- [6]
+							}, -- [13]
+						}, -- [1]
+						1534896732.545, -- [2]
+						"Зёбинпаладин", -- [3]
+						"PALADIN", -- [4]
+						59460, -- [5]
+						"0m 4s", -- [6]
+						["dead_at"] = 4.58799999998882,
+						["dead"] = true,
+					}, -- [1]
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "Тренировочный манекен покорителя подземелий",
+				["combat_counter"] = 393,
+				["playing_solo"] = true,
+				["totals"] = {
+					3352.98665, -- [1]
+					2140, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 1,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = false,
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Зёбинпаладин"] = 2140.003432,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Зёбинпаладин"] = 3353.00574,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 570828.653,
+				["combat_id"] = 2,
+				["instance_type"] = "none",
+				["frags"] = {
+				},
+				["data_fim"] = "03:12:13",
+				["data_inicio"] = "03:12:08",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					3353, -- [1]
+					2140, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 1,
+					}, -- [4]
+				},
+				["start_time"] = 570824.065,
+				["TimeData"] = {
+				},
+				["pvp"] = true,
+			}, -- [3]
+			{
+				{
+					["combatId"] = 1,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.001013,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Тренировочный манекен"] = 60935,
+							},
+							["spec"] = 66,
+							["pets"] = {
+							},
+							["isTank"] = true,
+							["end_time"] = 1534896096,
+							["classe"] = "PALADIN",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 60935.001013,
+							["colocacao"] = 1,
+							["avoidance"] = {
+								["overall"] = {
+									["DODGE"] = 0,
+									["FULL_ABSORB_AMT"] = 0,
+									["BLOCKED_AMT"] = 0,
+									["BLOCKED_HITS"] = 0,
+									["FULL_ABSORBED"] = 0,
+									["ALL"] = 0,
+									["PARTIAL_ABSORBED"] = 0,
+									["PARRY"] = 0,
+									["PARTIAL_ABSORB_AMT"] = 0,
+									["ABSORB"] = 0,
+									["ABSORB_AMT"] = 0,
+									["FULL_HIT"] = 0,
+									["HITS"] = 0,
+									["FULL_HIT_AMT"] = 0,
+								},
+							},
+							["dps_started"] = false,
+							["total"] = 60935.001013,
+							["friendlyfire_total"] = 0,
+							["friendlyfire"] = {
+							},
+							["nome"] = "Зёбинпаладин",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 7,
+										["b_amt"] = 1,
+										["c_dmg"] = 12015,
+										["g_amt"] = 0,
+										["n_max"] = 894,
+										["targets"] = {
+											["Тренировочный манекен"] = 19063,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 7048,
+										["n_min"] = 867,
+										["g_dmg"] = 0,
+										["counter"] = 15,
+										["total"] = 19063,
+										["c_max"] = 1834,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 1255,
+										["n_amt"] = 8,
+										["r_amt"] = 0,
+										["c_min"] = 1255,
+									}, -- [1]
+									[53600] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 4998,
+										["g_amt"] = 0,
+										["n_max"] = 1470,
+										["targets"] = {
+											["Тренировочный манекен"] = 8918,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 3920,
+										["n_min"] = 1225,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 8918,
+										["c_max"] = 2499,
+										["id"] = 53600,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 3,
+										["r_amt"] = 0,
+										["c_min"] = 2499,
+									},
+									[275779] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 2271,
+										["targets"] = {
+											["Тренировочный манекен"] = 6813,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 6813,
+										["n_min"] = 2271,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 6813,
+										["c_max"] = 0,
+										["id"] = 275779,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 3,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[88263] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 226,
+										["targets"] = {
+											["Тренировочный манекен"] = 676,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 676,
+										["n_min"] = 225,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 676,
+										["c_max"] = 0,
+										["id"] = 88263,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 3,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[53595] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 2202,
+										["g_amt"] = 0,
+										["n_max"] = 539,
+										["targets"] = {
+											["Тренировочный манекен"] = 2741,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 539,
+										["n_min"] = 539,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 2741,
+										["c_max"] = 1101,
+										["id"] = 53595,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 1101,
+									},
+									[81297] = {
+										["c_amt"] = 16,
+										["b_amt"] = 0,
+										["c_dmg"] = 3902,
+										["g_amt"] = 0,
+										["n_max"] = 120,
+										["targets"] = {
+											["Тренировочный манекен"] = 13673,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 9771,
+										["n_min"] = 113,
+										["g_dmg"] = 0,
+										["counter"] = 98,
+										["total"] = 13673,
+										["c_max"] = 245,
+										["id"] = 81297,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 82,
+										["r_amt"] = 0,
+										["c_min"] = 231,
+									},
+									[31935] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 3663,
+										["g_amt"] = 0,
+										["n_max"] = 1796,
+										["targets"] = {
+											["Тренировочный манекен"] = 9051,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 5388,
+										["n_min"] = 1796,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 9051,
+										["c_max"] = 3663,
+										["id"] = 31935,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 3,
+										["r_amt"] = 0,
+										["c_min"] = 3663,
+									},
+								},
+							},
+							["grupo"] = true,
+							["on_hold"] = false,
+							["serial"] = "Player-1615-081BCCC7",
+							["last_dps"] = 1389.37026341807,
+							["custom"] = 0,
+							["last_event"] = 1534896089,
+							["damage_taken"] = 0.001013,
+							["start_time"] = 1534896052,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 1,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 1,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 1,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[31935] = {
+										["activedamt"] = 0,
+										["id"] = 31935,
+										["targets"] = {
+										},
+										["uptime"] = 6,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[204242] = {
+										["activedamt"] = 0,
+										["id"] = 204242,
+										["targets"] = {
+										},
+										["uptime"] = 37,
+										["appliedamt"] = 9,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["buff_uptime"] = 135,
+							["classe"] = "PALADIN",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[269083] = {
+										["activedamt"] = 1,
+										["id"] = 269083,
+										["targets"] = {
+										},
+										["uptime"] = 44,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[132403] = {
+										["activedamt"] = 3,
+										["id"] = 132403,
+										["targets"] = {
+										},
+										["uptime"] = 21,
+										["appliedamt"] = 3,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[275481] = {
+										["activedamt"] = 3,
+										["id"] = 275481,
+										["targets"] = {
+										},
+										["uptime"] = 12,
+										["appliedamt"] = 3,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[197561] = {
+										["activedamt"] = 2,
+										["id"] = 197561,
+										["targets"] = {
+										},
+										["uptime"] = 18,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[1044] = {
+										["activedamt"] = 1,
+										["id"] = 1044,
+										["targets"] = {
+										},
+										["uptime"] = 8,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[188370] = {
+										["activedamt"] = 5,
+										["id"] = 188370,
+										["targets"] = {
+										},
+										["uptime"] = 32,
+										["appliedamt"] = 5,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["debuff_uptime"] = 43,
+							["nome"] = "Зёбинпаладин",
+							["spec"] = 66,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[1044] = 1,
+								[26573] = 5,
+								[275779] = 3,
+								[31935] = 1,
+								[53595] = 3,
+								[53600] = 5,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["last_event"] = 1534896096,
+							["pets"] = {
+							},
+							["isTank"] = true,
+							["serial"] = "Player-1615-081BCCC7",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 1,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Зёбинпаладин"] = true,
+				},
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "Тренировочный манекен",
+				["combat_counter"] = 392,
+				["playing_solo"] = true,
+				["totals"] = {
+					60934.992115, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = false,
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Зёбинпаладин"] = 60935.001013,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 570192.241,
+				["combat_id"] = 1,
+				["instance_type"] = "none",
+				["frags"] = {
+				},
+				["data_fim"] = "03:01:36",
+				["data_inicio"] = "03:00:53",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					60935, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 570148.383,
+				["TimeData"] = {
+				},
+				["pvp"] = true,
+			}, -- [4]
 		},
 	},
-	["last_version"] = "v7.3.5.5572",
+	["last_version"] = "v8.0.1.6131",
 	["force_font_outline"] = "",
 	["tabela_instancias"] = {
 	},
@@ -15,6 +2456,10 @@ _detalhes_database = {
 		{
 			["segment"] = 0,
 			["sub_attribute"] = 1,
+			["horizontalSnap"] = false,
+			["verticalSnap"] = false,
+			["is_open"] = true,
+			["isLocked"] = true,
 			["sub_atributo_last"] = {
 				1, -- [1]
 				1, -- [2]
@@ -22,18 +2467,16 @@ _detalhes_database = {
 				1, -- [4]
 				1, -- [5]
 			},
-			["is_open"] = true,
-			["isLocked"] = true,
 			["snap"] = {
 			},
 			["mode"] = 2,
 			["attribute"] = 1,
 			["pos"] = {
 				["normal"] = {
-					["y"] = -344.605465739313,
-					["x"] = 662.482341427242,
-					["w"] = 239.931976318359,
-					["h"] = 172.734924316406,
+					["y"] = -380.430491324649,
+					["x"] = 739.572183618975,
+					["w"] = 236.101608276367,
+					["h"] = 167.372467041016,
 				},
 				["solo"] = {
 					["y"] = 1.99995885261551,
@@ -45,15 +2488,6 @@ _detalhes_database = {
 		}, -- [1]
 	},
 	["cached_talents"] = {
-		["Player-1615-081BCCC7"] = {
-			22484, -- [1]
-			21201, -- [2]
-			17601, -- [3]
-			22558, -- [4]
-			22594, -- [5]
-			21811, -- [6]
-			22433, -- [7]
-		},
 	},
 	["last_instance_id"] = 1712,
 	["announce_interrupts"] = {
@@ -65,13 +2499,13 @@ _detalhes_database = {
 	},
 	["last_instance_time"] = 1531654515,
 	["active_profile"] = "Зёба-Ревущий фьорд",
-	["last_realversion"] = 130,
+	["last_realversion"] = 132,
 	["ignore_nicktag"] = false,
 	["plugin_database"] = {
 		["DETAILS_PLUGIN_TINY_THREAT"] = {
 			["updatespeed"] = 1,
-			["animate"] = false,
 			["showamount"] = false,
+			["animate"] = false,
 			["useplayercolor"] = false,
 			["useclasscolors"] = false,
 			["author"] = "Details! Team",
@@ -104,8 +2538,8 @@ _detalhes_database = {
 			["annouce"] = true,
 			["dpshistory"] = {
 			},
-			["dps"] = 0,
 			["author"] = "Details! Team",
+			["dps"] = 0,
 			["level"] = 1,
 			["enabled"] = true,
 		},
@@ -197,10 +2631,6 @@ _detalhes_database = {
 			},
 			["main_frame_strata"] = "LOW",
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["font_size"] = 10,
-			["use_spark"] = true,
-			["x"] = 3.05175781250e-005,
-			["font_face"] = "Friz Quadrata TT",
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -212,7 +2642,11 @@ _detalhes_database = {
 				["update_speed"] = 0.05,
 				["attribute_type"] = 1,
 			},
+			["font_size"] = 10,
+			["x"] = 3.05175781250e-005,
+			["font_face"] = "Friz Quadrata TT",
 			["y"] = -1.525878906250e-005,
+			["use_spark"] = true,
 			["author"] = "Details! Team",
 			["main_frame_locked"] = false,
 			["arrow_anchor_y"] = 0,
@@ -224,7 +2658,7 @@ _detalhes_database = {
 	},
 	["last_encounter"] = "Аргус Порабощенный",
 	["nick_tag_cache"] = {
-		["nextreset"] = 1532728556,
+		["nextreset"] = 1536105627,
 		["last_version"] = 10,
 	},
 	["mythic_dungeon_currentsaved"] = {
@@ -238,8 +2672,8 @@ _detalhes_database = {
 		["dungeon_zone_id"] = 1458,
 		["previous_boss_killed_at"] = 1526574716,
 	},
-	["combat_counter"] = 309,
-	["combat_id"] = 0,
+	["combat_counter"] = 395,
+	["combat_id"] = 4,
 	["savedStyles"] = {
 	},
 	["announce_prepots"] = {
@@ -261,11 +2695,407 @@ _detalhes_database = {
 		{
 			["tipo"] = 2,
 			["_ActorTable"] = {
+				{
+					["flag_original"] = 1297,
+					["totalabsorbed"] = 0.025365,
+					["on_hold"] = false,
+					["damage_from"] = {
+						["Тренировочный манекен покорителя подземелий"] = true,
+					},
+					["targets"] = {
+						["Тренировочный манекен рейдера"] = 2144,
+						["Тренировочный манекен покорителя подземелий"] = 1209,
+						["Тренировочный манекен"] = 239661,
+					},
+					["pets"] = {
+					},
+					["friendlyfire_total"] = 0,
+					["end_time"] = 1534896096,
+					["classe"] = "PALADIN",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 243014.025365,
+					["isTank"] = true,
+					["last_event"] = 0,
+					["dps_started"] = false,
+					["total"] = 243014.025365,
+					["avoidance"] = {
+						["overall"] = {
+							["DODGE"] = 0,
+							["FULL_ABSORB_AMT"] = 0,
+							["BLOCKED_AMT"] = 0,
+							["BLOCKED_HITS"] = 0,
+							["FULL_ABSORBED"] = 0,
+							["ALL"] = 0,
+							["PARTIAL_ABSORBED"] = 0,
+							["PARRY"] = 0,
+							["PARTIAL_ABSORB_AMT"] = 0,
+							["ABSORB"] = 0,
+							["ABSORB_AMT"] = 0,
+							["FULL_HIT"] = 0,
+							["HITS"] = 0,
+							["FULL_HIT_AMT"] = 0,
+						},
+					},
+					["friendlyfire"] = {
+					},
+					["nome"] = "Зёбинпаладин",
+					["spec"] = 66,
+					["grupo"] = true,
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 17,
+								["b_amt"] = 1,
+								["c_dmg"] = 30412,
+								["g_amt"] = 1,
+								["n_max"] = 1045,
+								["targets"] = {
+									["Тренировочный манекен покорителя подземелий"] = 17,
+									["Тренировочный манекен"] = 69169,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 38757,
+								["n_min"] = 0,
+								["g_dmg"] = 17,
+								["counter"] = 64,
+								["total"] = 69186,
+								["c_max"] = 2186,
+								["a_amt"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["MISS"] = 1,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["PARRY"] = 1,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 1255,
+								["n_amt"] = 44,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+							[53600] = {
+								["c_amt"] = 6,
+								["b_amt"] = 1,
+								["c_dmg"] = 15992,
+								["g_amt"] = 0,
+								["n_max"] = 1470,
+								["targets"] = {
+									["Тренировочный манекен покорителя подземелий"] = 1192,
+									["Тренировочный манекен"] = 28046,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 13246,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 16,
+								["total"] = 29238,
+								["c_max"] = 2999,
+								["id"] = 53600,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 1029,
+								["n_amt"] = 10,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[53595] = {
+								["c_amt"] = 6,
+								["b_amt"] = 0,
+								["c_dmg"] = 6603,
+								["g_amt"] = 0,
+								["n_max"] = 540,
+								["targets"] = {
+									["Тренировочный манекен покорителя подземелий"] = 0,
+									["Тренировочный манекен"] = 10920,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 4317,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 15,
+								["total"] = 10920,
+								["c_max"] = 1101,
+								["id"] = 53595,
+								["r_dmg"] = 0,
+								["MISS"] = 1,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 8,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[275779] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 2272,
+								["targets"] = {
+									["Тренировочный манекен рейдера"] = 2144,
+									["Тренировочный манекен"] = 29524,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 31668,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 14,
+								["total"] = 31668,
+								["c_max"] = 0,
+								["id"] = 275779,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 14,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[31935] = {
+								["c_amt"] = 5,
+								["b_amt"] = 0,
+								["c_dmg"] = 18319,
+								["g_amt"] = 0,
+								["n_max"] = 1796,
+								["targets"] = {
+									["Тренировочный манекен"] = 41666,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 23347,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 18,
+								["total"] = 41666,
+								["c_max"] = 3664,
+								["id"] = 31935,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 13,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[157122] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Тренировочный манекен покорителя подземелий"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 157122,
+								["r_dmg"] = 0,
+								["MISS"] = 1,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[81297] = {
+								["c_amt"] = 95,
+								["b_amt"] = 0,
+								["c_dmg"] = 23188,
+								["g_amt"] = 0,
+								["n_max"] = 120,
+								["targets"] = {
+									["Тренировочный манекен покорителя подземелий"] = 0,
+									["Тренировочный манекен"] = 56239,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 33051,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 377,
+								["total"] = 56239,
+								["c_max"] = 293,
+								["id"] = 81297,
+								["r_dmg"] = 0,
+								["MISS"] = 5,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 277,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[88263] = {
+								["c_amt"] = 4,
+								["b_amt"] = 0,
+								["c_dmg"] = 1841,
+								["g_amt"] = 0,
+								["n_max"] = 226,
+								["targets"] = {
+									["Тренировочный манекен"] = 4097,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 2256,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 14,
+								["total"] = 4097,
+								["c_max"] = 461,
+								["id"] = 88263,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 10,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["serial"] = "Player-1615-081BCCC7",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1534895927,
+					["delay"] = 0,
+					["damage_taken"] = 69532.025365,
+				}, -- [1]
 			},
 		}, -- [1]
 		{
 			["tipo"] = 3,
 			["_ActorTable"] = {
+				{
+					["flag_original"] = 1297,
+					["healing_from"] = {
+						["Зёбинпаладин"] = true,
+					},
+					["pets"] = {
+					},
+					["iniciar_hps"] = false,
+					["classe"] = "PALADIN",
+					["totalover"] = 0.010569,
+					["total_without_pet"] = 4220.010569,
+					["total"] = 4220.010569,
+					["targets_absorbs"] = {
+						["Зёбинпаладин"] = 2082,
+					},
+					["heal_enemy"] = {
+					},
+					["on_hold"] = false,
+					["isTank"] = true,
+					["serial"] = "Player-1615-081BCCC7",
+					["totalabsorb"] = 2082.010569,
+					["last_hps"] = 0,
+					["targets"] = {
+						["Зёбинпаладин"] = 4220,
+					},
+					["totalover_without_pet"] = 0.010569,
+					["healing_taken"] = 4220.010569,
+					["fight_component"] = true,
+					["end_time"] = 1534896733,
+					["start_time"] = 1534896675,
+					["nome"] = "Зёбинпаладин",
+					["spells"] = {
+						["tipo"] = 3,
+						["_ActorTable"] = {
+							[203791] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 2082,
+								["targets_overheal"] = {
+								},
+								["n_max"] = 495,
+								["targets"] = {
+									["Зёбинпаладин"] = 2082,
+								},
+								["n_min"] = 0,
+								["counter"] = 5,
+								["overheal"] = 0,
+								["total"] = 2082,
+								["c_max"] = 0,
+								["id"] = 203791,
+								["targets_absorbs"] = {
+									["Зёбинпаладин"] = 2082,
+								},
+								["c_curado"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["n_curado"] = 2082,
+								["n_amt"] = 5,
+								["totaldenied"] = 0,
+								["m_healed"] = 0,
+								["absorbed"] = 0,
+							},
+							[143924] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+								},
+								["n_max"] = 230,
+								["targets"] = {
+									["Зёбинпаладин"] = 2138,
+								},
+								["n_min"] = 0,
+								["counter"] = 41,
+								["overheal"] = 0,
+								["total"] = 2138,
+								["c_max"] = 0,
+								["id"] = 143924,
+								["targets_absorbs"] = {
+								},
+								["c_curado"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["n_curado"] = 2138,
+								["n_amt"] = 41,
+								["totaldenied"] = 0,
+								["m_healed"] = 0,
+								["absorbed"] = 0,
+							},
+						},
+					},
+					["grupo"] = true,
+					["targets_overheal"] = {
+					},
+					["heal_enemy_amt"] = 0,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["spec"] = 66,
+					["totaldenied"] = 0.010569,
+					["delay"] = 0,
+					["tipo"] = 2,
+				}, -- [1]
 			},
 		}, -- [2]
 		{
@@ -276,6 +3106,218 @@ _detalhes_database = {
 		{
 			["tipo"] = 9,
 			["_ActorTable"] = {
+				{
+					["flag_original"] = 1047,
+					["debuff_uptime_spells"] = {
+						["tipo"] = 9,
+						["_ActorTable"] = {
+							[62124] = {
+								["refreshamt"] = 0,
+								["appliedamt"] = 0,
+								["activedamt"] = -1,
+								["uptime"] = 0,
+								["id"] = 62124,
+								["actived_at"] = 1534896926,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[31935] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 0,
+								["appliedamt"] = 9,
+								["id"] = 31935,
+								["uptime"] = 27,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[204242] = {
+								["refreshamt"] = 2,
+								["activedamt"] = 1,
+								["appliedamt"] = 45,
+								["id"] = 204242,
+								["uptime"] = 139,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[25771] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 0,
+								["appliedamt"] = 1,
+								["id"] = 25771,
+								["uptime"] = 30,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+						},
+					},
+					["cooldowns_defensive"] = 4.011207,
+					["buff_uptime"] = 492,
+					["classe"] = "PALADIN",
+					["cooldowns_defensive_targets"] = {
+						["Зёбинпаладин"] = 4,
+					},
+					["buff_uptime_spells"] = {
+						["tipo"] = 9,
+						["_ActorTable"] = {
+							[197561] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 9,
+								["appliedamt"] = 9,
+								["id"] = 197561,
+								["uptime"] = 39,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[1044] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 1044,
+								["uptime"] = 8,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[188370] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 24,
+								["appliedamt"] = 24,
+								["id"] = 188370,
+								["uptime"] = 125,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[31850] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 2,
+								["appliedamt"] = 2,
+								["id"] = 31850,
+								["uptime"] = 16,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[86659] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 86659,
+								["uptime"] = 8,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[31884] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 31884,
+								["uptime"] = 12,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[269083] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 4,
+								["appliedamt"] = 4,
+								["id"] = 269083,
+								["uptime"] = 166,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[642] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 642,
+								["uptime"] = 8,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[275481] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 12,
+								["appliedamt"] = 12,
+								["id"] = 275481,
+								["uptime"] = 40,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[132403] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 12,
+								["appliedamt"] = 12,
+								["id"] = 132403,
+								["uptime"] = 70,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+						},
+					},
+					["cooldowns_defensive_spells"] = {
+						["tipo"] = 9,
+						["_ActorTable"] = {
+							[31850] = {
+								["id"] = 31850,
+								["targets"] = {
+									["Зёбинпаладин"] = 2,
+								},
+								["counter"] = 2,
+							},
+							[86659] = {
+								["id"] = 86659,
+								["targets"] = {
+									["Зёбинпаладин"] = 1,
+								},
+								["counter"] = 1,
+							},
+							[642] = {
+								["id"] = 642,
+								["targets"] = {
+									["Зёбинпаладин"] = 1,
+								},
+								["counter"] = 1,
+							},
+						},
+					},
+					["debuff_uptime"] = 196,
+					["nome"] = "Зёбинпаладин",
+					["spec"] = 66,
+					["grupo"] = true,
+					["spell_cast"] = {
+						[31935] = 9,
+						[53595] = 15,
+						[26573] = 22,
+						[31850] = 2,
+						[86659] = 1,
+						[31884] = 1,
+						[53600] = 17,
+						[1044] = 1,
+						[275779] = 13,
+						[642] = 1,
+					},
+					["debuff_uptime_targets"] = {
+					},
+					["buff_uptime_targets"] = {
+					},
+					["tipo"] = 4,
+					["pets"] = {
+					},
+					["isTank"] = true,
+					["serial"] = "Player-1615-081BCCC7",
+					["last_event"] = 0,
+				}, -- [1]
 			},
 		}, -- [4]
 		{
@@ -289,10 +3331,10 @@ _detalhes_database = {
 		},
 		["alternate_power"] = {
 		},
-		["combat_counter"] = 304,
+		["combat_counter"] = 391,
 		["totals"] = {
-			0, -- [1]
-			0, -- [2]
+			312546.059741, -- [1]
+			4220.008348, -- [2]
 			{
 				0, -- [1]
 				[0] = 0,
@@ -303,36 +3345,17 @@ _detalhes_database = {
 			{
 				["buff_uptime"] = 0,
 				["ress"] = 0,
-				["cooldowns_defensive"] = 0,
-				["dispell"] = 0,
-				["interrupt"] = 0,
 				["debuff_uptime"] = 0,
+				["cooldowns_defensive"] = 4.009944,
+				["interrupt"] = 0,
+				["dispell"] = 0,
 				["cc_break"] = 0,
 				["dead"] = 0,
 			}, -- [4]
 			["frags_total"] = 0,
 			["voidzone_damage"] = 0,
 		},
-		["totals_grupo"] = {
-			0, -- [1]
-			0, -- [2]
-			{
-				0, -- [1]
-				[0] = 0,
-				["alternatepower"] = 0,
-				[3] = 0,
-				[6] = 0,
-			}, -- [3]
-			{
-				["buff_uptime"] = 0,
-				["ress"] = 0,
-				["cooldowns_defensive"] = 0,
-				["dispell"] = 0,
-				["interrupt"] = 0,
-				["debuff_uptime"] = 0,
-				["cc_break"] = 0,
-				["dead"] = 0,
-			}, -- [4]
+		["player_last_events"] = {
 		},
 		["frags_need_refresh"] = false,
 		["__call"] = {
@@ -342,39 +3365,83 @@ _detalhes_database = {
 				1, -- [1]
 				1, -- [2]
 			}, -- [1]
-			["damage_section"] = {
-			},
 			["heal_section"] = {
 			},
 			["heal"] = {
 			},
+			["damage_section"] = {
+			},
 			["damage"] = {
 			},
 		},
-		["hasSaved"] = true,
+		["end_time"] = 571086.329,
+		["data_inicio"] = "03:00:53",
 		["frags"] = {
 		},
-		["data_fim"] = 0,
-		["data_inicio"] = 0,
+		["data_fim"] = "03:16:31",
+		["overall_enemy_name"] = "-- x -- x --",
 		["CombatSkillCache"] = {
 		},
-		["player_last_events"] = {
+		["segments_added"] = {
+			{
+				["elapsed"] = 66.0779999999795,
+				["type"] = 0,
+				["name"] = "Тренировочный манекен",
+				["clock"] = "03:15:24",
+			}, -- [1]
+			{
+				["elapsed"] = 51.5429999999469,
+				["type"] = 0,
+				["name"] = "Тренировочный манекен",
+				["clock"] = "03:12:31",
+			}, -- [2]
+			{
+				["elapsed"] = 4.58799999998882,
+				["type"] = 0,
+				["name"] = "Тренировочный манекен покорителя подземелий",
+				["clock"] = "03:12:08",
+			}, -- [3]
+			{
+				["elapsed"] = 43.8580000000075,
+				["type"] = 0,
+				["name"] = "Тренировочный манекен",
+				["clock"] = "03:00:53",
+			}, -- [4]
 		},
-		["start_time"] = 0,
+		["start_time"] = 570920.262,
 		["TimeData"] = {
 			["Raid Damage Done"] = {
 			},
 		},
-		["overall_refreshed"] = true,
+		["totals_grupo"] = {
+			243014.017642, -- [1]
+			4220.008348, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				["alternatepower"] = 0,
+				[3] = 0,
+				[6] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["debuff_uptime"] = 0,
+				["cooldowns_defensive"] = 4.009944,
+				["interrupt"] = 0,
+				["dispell"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
+		},
 	},
 	["SoloTablesSaved"] = {
-		["LastSelected"] = "DETAILS_PLUGIN_DAMAGE_RANK",
 		["Mode"] = 1,
 	},
 	["character_data"] = {
-		["logons"] = 37,
+		["logons"] = 43,
 	},
-	["last_day"] = "17",
+	["last_day"] = "22",
 	["announce_cooldowns"] = {
 		["enabled"] = false,
 		["ignored_cooldowns"] = {

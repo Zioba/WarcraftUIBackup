@@ -3198,13 +3198,17 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Иллисанна Гребень Ворона",
 		},
-		[245627] = {
-			["school"] = 4,
+		[197546] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
+				["SPELL_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Нура, Матерь Пламени",
+			["source"] = "Иллисанна Гребень Ворона",
 		},
 		[244761] = {
 			["school"] = 4,
@@ -3374,12 +3378,13 @@ EncounterDetailsDB = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
 		},
-		[197165] = {
-			["school"] = 1,
+		[192050] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Гнев Азшары",
+			["source"] = "Змеикс",
 		},
 		[247923] = {
 			["school"] = 1,
@@ -3467,14 +3472,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ф'арг",
 		},
-		[197550] = {
-			["school"] = 64,
+		[245631] = {
+			["school"] = 4,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Король Волнобород",
+			["source"] = "Пламя Тайшалака",
 		},
 		[244736] = {
 			["school"] = 4,
@@ -3509,26 +3514,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Уларогг Скаломол",
 		},
-		[248317] = {
-			["school"] = 32,
+		[255478] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Аргус Порабощенный",
-		},
-		[249724] = {
-			["school"] = 4,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-		},
-		[245504] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Изголодавшийся ловец",
+			["source"] = "Констеллар-куратор",
 		},
 		[245632] = {
 			["school"] = 4,
@@ -3536,6 +3528,21 @@ EncounterDetailsDB = {
 				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Пламя Тайшалака",
+		},
+		[198446] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Сквернотопырь",
+		},
+		[249724] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
 		},
 		[244737] = {
 			["school"] = 4,
@@ -3601,12 +3608,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Дух земли",
 		},
-		[196657] = {
+		[258037] = {
 			["school"] = 32,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Темный разлом",
+			["source"] = "Модуль апокалипсиса",
 		},
 		[193716] = {
 			["school"] = 64,
@@ -3705,20 +3712,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Азара, Матерь Ночи",
 		},
-		[52042] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_PERIODIC_HEAL"] = true,
-			},
-			["source"] = "Тотем исцеляющего потока",
-		},
-		[247681] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Ловушки!",
-		},
 		[258039] = {
 			["school"] = 1,
 			["type"] = "DEBUFF",
@@ -3729,6 +3722,20 @@ EncounterDetailsDB = {
 				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Аргус Порабощенный",
+		},
+		[247681] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Ловушки!",
+		},
+		[52042] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_PERIODIC_HEAL"] = true,
+			},
+			["source"] = "Тотем исцеляющего потока",
 		},
 		[198833] = {
 			["school"] = 32,
@@ -4086,12 +4093,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Смотритель",
 		},
-		[258037] = {
+		[196657] = {
 			["school"] = 32,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Модуль апокалипсиса",
+			["source"] = "Темный разлом",
 		},
 		[253697] = {
 			["school"] = 1,
@@ -4127,22 +4134,20 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Пожиратель маны",
 		},
-		[198446] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
+		[245504] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Изголодавшийся ловец",
+		},
+		[248317] = {
+			["school"] = 32,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Сквернотопырь",
-		},
-		[255478] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Констеллар-куратор",
+			["source"] = "Аргус Порабощенный",
 		},
 		[235028] = {
 			["school"] = 2,
@@ -4162,14 +4167,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Констеллар-куратор",
 		},
-		[245631] = {
-			["school"] = 4,
+		[197550] = {
+			["school"] = 64,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Пламя Тайшалака",
+			["source"] = "Король Волнобород",
 		},
 		[250757] = {
 			["school"] = 1,
@@ -4213,13 +4218,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Хмуродроб Лютый",
 		},
-		[192050] = {
-			["school"] = 8,
+		[197165] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Змеикс",
+			["source"] = "Гнев Азшары",
 		},
 		[193055] = {
 			["school"] = 16,
@@ -4311,17 +4315,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Лишенный души боец авангарда",
 		},
-		[197546] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
+		[245627] = {
+			["school"] = 4,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
 				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Иллисанна Гребень Ворона",
+			["source"] = "Нура, Матерь Пламени",
 		},
 		[253061] = {
 			["school"] = 64,

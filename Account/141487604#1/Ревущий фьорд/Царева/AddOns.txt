@@ -1,0 +1,6 @@
+RaiderIO_DB_EU_H: disabled
+RaiderIO: disabled
+Azeroth Auto Pilot: disabled
+TomTom: enabled
+Details: enabled
+Easy_Obliterate: disabled

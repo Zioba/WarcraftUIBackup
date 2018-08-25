@@ -13,7 +13,7 @@ MasterPlanA: enabled
 WeakAurasModelPaths: enabled
 WeakAuras: enabled
 LegionTODOMini: disabled
-Easy_Obliterate: enabled
+Easy_Obliterate: disabled
 MythicPlusTimer: enabled
 ExRT: enabled
 RCLootCouncil: disabled
@@ -27,7 +27,7 @@ ZiobaToDo: disabled
 WoWTODONano: disabled
 RaiderIO_DB_EU_A: disabled
 LegionToDo: enabled
-RaiderIO: enabled
+RaiderIO: disabled
 DBM-Core: enabled
 epgp_lootmaster: disabled
 epgp_lootmaster_ml: disabled
@@ -37,7 +37,7 @@ OmniCC: enabled
 OmniCC_Config: enabled
 RaiderIO_DB_US_A: disabled
 RaiderIO_DB_US_H: disabled
-RaiderIO_DB_EU_H: enabled
+RaiderIO_DB_EU_H: disabled
 RaiderIO_DB_KR_A: disabled
 RaiderIO_DB_KR_H: disabled
 RaiderIO_DB_TW_A: disabled
@@ -116,3 +116,5 @@ Details_3DModelsPaths: disabled
 Details_Streamer: disabled
 Details_RaidCheck: disabled
 LootHelper: disabled
+Azeroth Auto Pilot: disabled
+Details: enabled
