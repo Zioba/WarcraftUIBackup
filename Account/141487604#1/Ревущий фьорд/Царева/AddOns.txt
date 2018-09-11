@@ -4,3 +4,11 @@ Azeroth Auto Pilot: disabled
 TomTom: enabled
 Details: enabled
 Easy_Obliterate: disabled
+TidyPlatesWidgets: disabled
+TidyPlates_Graphite: disabled
+TidyPlatesHub: disabled
+TidyPlates_Grey: disabled
+TidyPlates_Quatre: disabled
+TidyPlates_Neon: disabled
+DBM-Core: enabled
+RCLootCouncil: enabled

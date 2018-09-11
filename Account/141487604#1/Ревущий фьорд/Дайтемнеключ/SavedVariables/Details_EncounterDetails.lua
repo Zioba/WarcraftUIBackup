@@ -4174,13 +4174,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Làsh-Ysondre",
 		},
-		[202913] = {
-			["school"] = 1,
+		[227465] = {
+			["school"] = 64,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Тиратон Салтерил",
+			["source"] = "Смотритель",
 		},
 		[199460] = {
 			["school"] = 1,
@@ -4204,14 +4205,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Primarina-TheMaelstrom",
 		},
-		[227465] = {
-			["school"] = 64,
-			["type"] = "DEBUFF",
+		[225419] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Смотритель",
+			["source"] = "Страж Скверны - уничтожитель",
 		},
 		[5374] = {
 			["school"] = 1,
@@ -4942,12 +4941,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Капитан патруля Гердо",
 		},
-		[225419] = {
+		[202913] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Страж Скверны - уничтожитель",
+			["source"] = "Тиратон Салтерил",
 		},
 		[255641] = {
 			["school"] = 4,

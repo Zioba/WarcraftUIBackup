@@ -7,10 +7,42 @@ MasterPlanAG = {
 				["ti3"] = 127854,
 			},
 			["faction"] = "Horde",
-			["lastCacheTime"] = 1531603761,
-			["class"] = "DRUID",
-			["curRes"] = 573,
 			["curOil"] = 880,
+			["lastCacheTime"] = 1531603761,
+			["curRes"] = 573,
+			["class"] = "DRUID",
+		},
+		["Неполучилась"] = {
+			["faction"] = "Horde",
+			["class"] = "SHAMAN",
+		},
+		["Зёбинмаг"] = {
+			["class"] = "MAGE",
+			["faction"] = "Horde",
+		},
+		["Зёбинприст"] = {
+			["lastCacheTime"] = 1506647569,
+			["class"] = "PRIEST",
+			["curRes"] = 1116,
+			["faction"] = "Horde",
+		},
+		["Сашкинадашка"] = {
+			["class"] = "ROGUE",
+			["faction"] = "Alliance",
+		},
+		["Дайтемнеключ"] = {
+			["class"] = "WARLOCK",
+			["summary"] = {
+				["ti2"] = 122484,
+				["ti3"] = 128391,
+				["tt3"] = true,
+				["tt2"] = true,
+			},
+			["faction"] = "Horde",
+		},
+		["Зёбедам"] = {
+			["faction"] = "Horde",
+			["class"] = "DEMONHUNTER",
 		},
 		["Зёбинфейл"] = {
 			["summary"] = {
@@ -23,74 +55,46 @@ MasterPlanAG = {
 			["curRes"] = 125,
 			["lastCacheTime"] = 1530809929,
 		},
-		["Зёбинмаг"] = {
+		["Зёба"] = {
+			["curOil"] = 20405,
+			["summary"] = {
+				["lastOilTime"] = 1536429954,
+				["tt2"] = 1536156591,
+				["tt3"] = 1535879718,
+				["tt1"] = 1536432954,
+				["ti1"] = 118531,
+				["ti3"] = 127855,
+				["inProgress"] = {
+					[327] = 1536437218,
+				},
+				["ti2"] = 122486,
+			},
 			["faction"] = "Horde",
-			["class"] = "MAGE",
+			["cacheSize"] = 1000,
+			["class"] = "WARRIOR",
+			["curRes"] = 3680,
+			["lastCacheTime"] = 1536620726,
 		},
-		["Зёбинприст"] = {
-			["lastCacheTime"] = 1506647569,
-			["class"] = "PRIEST",
-			["curRes"] = 1116,
+		["Зёбинмонк"] = {
 			["faction"] = "Horde",
+			["class"] = "MONK",
+		},
+		["Василец"] = {
+			["faction"] = "Horde",
+			["curOil"] = 1410,
+			["class"] = "DEATHKNIGHT",
+			["curRes"] = 6059,
+			["lastCacheTime"] = 1473637614,
+		},
+		["Зёбиндру"] = {
+			["faction"] = "Alliance",
+			["class"] = "DRUID",
 		},
 		["Зёбинпаладин"] = {
 			["lastCacheTime"] = 1507312367,
 			["class"] = "PALADIN",
 			["curRes"] = 1075,
 			["faction"] = "Horde",
-		},
-		["Дайтемнеключ"] = {
-			["class"] = "WARLOCK",
-			["summary"] = {
-				["tt2"] = true,
-				["tt3"] = true,
-				["ti3"] = 128391,
-				["ti2"] = 122484,
-			},
-			["faction"] = "Horde",
-		},
-		["Зёбедам"] = {
-			["class"] = "DEMONHUNTER",
-			["faction"] = "Horde",
-		},
-		["Неполучилась"] = {
-			["class"] = "SHAMAN",
-			["faction"] = "Horde",
-		},
-		["Зёба"] = {
-			["class"] = "WARRIOR",
-			["summary"] = {
-				["tt2"] = 1533753881,
-				["tt3"] = 1533464609,
-				["tt1"] = 1533978475,
-				["ti1"] = 118531,
-				["ti3"] = 127855,
-				["ti2"] = 122486,
-			},
-			["faction"] = "Horde",
-			["cacheSize"] = 1000,
-			["lastCacheTime"] = 1534888526,
-			["curRes"] = 1184,
-			["curOil"] = 20705,
-		},
-		["Зёбинмонк"] = {
-			["class"] = "MONK",
-			["faction"] = "Horde",
-		},
-		["Василец"] = {
-			["curOil"] = 1410,
-			["class"] = "DEATHKNIGHT",
-			["lastCacheTime"] = 1473637614,
-			["curRes"] = 6059,
-			["faction"] = "Horde",
-		},
-		["Зёбиндру"] = {
-			["class"] = "DRUID",
-			["faction"] = "Alliance",
-		},
-		["Сашкинадашка"] = {
-			["faction"] = "Alliance",
-			["class"] = "ROGUE",
 		},
 		["Зёбинатор"] = {
 			["faction"] = "Horde",

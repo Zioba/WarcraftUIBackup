@@ -16,7 +16,7 @@ LegionTODOMini: disabled
 Easy_Obliterate: disabled
 MythicPlusTimer: enabled
 ExRT: enabled
-RCLootCouncil: disabled
+RCLootCouncil: enabled
 WeakAurasOptions: enabled
 WeakAurasTemplates: enabled
 HandyNotes_LegionRaresTreasures: disabled
@@ -47,12 +47,12 @@ ShadowedUnitFrames: enabled
 TellMeWhen: enabled
 TellMeWhen_Options: enabled
 TidyPlates: disabled
-TidyPlatesHub: enabled
-TidyPlatesWidgets: enabled
-TidyPlates_Graphite: enabled
-TidyPlates_Grey: enabled
-TidyPlates_Neon: enabled
-TidyPlates_Quatre: enabled
+TidyPlatesHub: disabled
+TidyPlatesWidgets: disabled
+TidyPlates_Graphite: disabled
+TidyPlates_Grey: disabled
+TidyPlates_Neon: disabled
+TidyPlates_Quatre: disabled
 TomTom: enabled
 WorldQuestGroupFinder: enabled
 WorldQuestsList: enabled

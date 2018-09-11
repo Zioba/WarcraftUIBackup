@@ -1,5 +1,5 @@
 ActionBarSaver: disabled
-RCLootCouncil: disabled
+RCLootCouncil: enabled
 CandyBuckets: disabled
 Easy_Obliterate: disabled
 epgp_lootmaster: disabled
@@ -29,12 +29,12 @@ ShadowedUnitFrames: enabled
 TellMeWhen: enabled
 TellMeWhen_Options: enabled
 TidyPlates: disabled
-TidyPlatesHub: enabled
-TidyPlatesWidgets: enabled
-TidyPlates_Graphite: enabled
-TidyPlates_Grey: enabled
-TidyPlates_Neon: enabled
-TidyPlates_Quatre: enabled
+TidyPlatesHub: disabled
+TidyPlatesWidgets: disabled
+TidyPlates_Graphite: disabled
+TidyPlates_Grey: disabled
+TidyPlates_Neon: disabled
+TidyPlates_Quatre: disabled
 TomTom: enabled
 WeakAuras: enabled
 WeakAurasModelPaths: enabled

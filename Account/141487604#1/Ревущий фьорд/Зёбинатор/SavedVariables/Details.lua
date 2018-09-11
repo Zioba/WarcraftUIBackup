@@ -7,9 +7,9 @@ _detalhes_database = {
 		["tabelas"] = {
 		},
 	},
-	["last_version"] = "v8.0.1.5985",
+	["last_version"] = "v8.0.1.6272",
 	["character_data"] = {
-		["logons"] = 18,
+		["logons"] = 20,
 	},
 	["tabela_instancias"] = {
 	},
@@ -17,6 +17,10 @@ _detalhes_database = {
 		{
 			["segment"] = 0,
 			["sub_attribute"] = 1,
+			["horizontalSnap"] = false,
+			["verticalSnap"] = false,
+			["is_open"] = true,
+			["isLocked"] = true,
 			["sub_atributo_last"] = {
 				1, -- [1]
 				1, -- [2]
@@ -24,18 +28,16 @@ _detalhes_database = {
 				1, -- [4]
 				1, -- [5]
 			},
-			["is_open"] = true,
-			["isLocked"] = true,
 			["snap"] = {
 			},
 			["mode"] = 2,
 			["attribute"] = 1,
 			["pos"] = {
 				["normal"] = {
-					["y"] = -334.065558431318,
-					["x"] = 767.49914229857,
-					["w"] = 239.931945800781,
-					["h"] = 172.734970092773,
+					["y"] = -380.430491324649,
+					["x"] = 739.572183618975,
+					["w"] = 236.101608276367,
+					["h"] = 167.372467041016,
 				},
 				["solo"] = {
 					["y"] = 1.99995885261551,
@@ -47,6 +49,15 @@ _detalhes_database = {
 		}, -- [1]
 	},
 	["cached_talents"] = {
+		["Player-1615-06D8CD6E"] = {
+			22268, -- [1]
+			22500, -- [2]
+			22291, -- [3]
+			22273, -- [4]
+			19357, -- [5]
+			19347, -- [6]
+			22441, -- [7]
+		},
 	},
 	["last_instance_id"] = 1712,
 	["announce_interrupts"] = {
@@ -58,13 +69,13 @@ _detalhes_database = {
 	},
 	["last_instance_time"] = 1531855375,
 	["active_profile"] = "Зёба-Ревущий фьорд",
-	["last_realversion"] = 131,
+	["last_realversion"] = 134,
 	["ignore_nicktag"] = false,
 	["plugin_database"] = {
 		["DETAILS_PLUGIN_TINY_THREAT"] = {
 			["updatespeed"] = 1,
 			["enabled"] = true,
-			["animate"] = false,
+			["showamount"] = false,
 			["useplayercolor"] = false,
 			["author"] = "Details! Team",
 			["useclasscolors"] = false,
@@ -73,7 +84,7 @@ _detalhes_database = {
 				1, -- [2]
 				1, -- [3]
 			},
-			["showamount"] = false,
+			["animate"] = false,
 		},
 		["DETAILS_PLUGIN_DAMAGE_RANK"] = {
 			["lasttry"] = {
@@ -82,9 +93,9 @@ _detalhes_database = {
 			["dpshistory"] = {
 			},
 			["enabled"] = true,
-			["dps"] = 0,
-			["level"] = 1,
 			["author"] = "Details! Team",
+			["level"] = 1,
+			["dps"] = 0,
 		},
 		["DETAILS_PLUGIN_VANGUARD"] = {
 			["enabled"] = true,
@@ -135,16 +146,16 @@ _detalhes_database = {
 			["realm_lastamt"] = 0,
 		},
 	},
+	["last_encounter"] = "Аргус Порабощенный",
+	["nick_tag_cache"] = {
+		["nextreset"] = 1537217364,
+		["last_version"] = 10,
+	},
 	["benchmark_db"] = {
 		["frame"] = {
 		},
 	},
-	["last_encounter"] = "Аргус Порабощенный",
-	["nick_tag_cache"] = {
-		["nextreset"] = 1532855810,
-		["last_version"] = 10,
-	},
-	["last_day"] = "22",
+	["last_day"] = "05",
 	["announce_firsthit"] = {
 		["enabled"] = true,
 		["channel"] = "SELF",
@@ -194,7 +205,7 @@ _detalhes_database = {
 		},
 		["alternate_power"] = {
 		},
-		["combat_counter"] = 53,
+		["combat_counter"] = 57,
 		["totals"] = {
 			0, -- [1]
 			0, -- [2]
@@ -202,21 +213,21 @@ _detalhes_database = {
 				0, -- [1]
 				[0] = 0,
 				["alternatepower"] = 0,
-				[3] = 0,
 				[6] = 0,
+				[3] = 0,
 			}, -- [3]
 			{
 				["buff_uptime"] = 0,
 				["ress"] = 0,
-				["debuff_uptime"] = 0,
-				["cooldowns_defensive"] = 0,
-				["interrupt"] = 0,
-				["dispell"] = 0,
-				["cc_break"] = 0,
 				["dead"] = 0,
+				["cc_break"] = 0,
+				["interrupt"] = 0,
+				["debuff_uptime"] = 0,
+				["dispell"] = 0,
+				["cooldowns_defensive"] = 0,
 			}, -- [4]
-			["frags_total"] = 0,
 			["voidzone_damage"] = 0,
+			["frags_total"] = 0,
 		},
 		["player_last_events"] = {
 		},
@@ -224,11 +235,30 @@ _detalhes_database = {
 		["__call"] = {
 		},
 		["data_inicio"] = 0,
-		["end_time"] = 1877.962,
+		["end_time"] = 507185.084,
+		["hasSaved"] = true,
 		["frags"] = {
 		},
 		["data_fim"] = 0,
+		["overall_refreshed"] = true,
 		["CombatSkillCache"] = {
+		},
+		["PhaseData"] = {
+			{
+				1, -- [1]
+				1, -- [2]
+			}, -- [1]
+			["damage"] = {
+			},
+			["heal_section"] = {
+			},
+			["heal"] = {
+			},
+			["damage_section"] = {
+			},
+		},
+		["start_time"] = 507185.084,
+		["TimeData"] = {
 		},
 		["totals_grupo"] = {
 			0, -- [1]
@@ -237,36 +267,19 @@ _detalhes_database = {
 				0, -- [1]
 				[0] = 0,
 				["alternatepower"] = 0,
-				[3] = 0,
 				[6] = 0,
+				[3] = 0,
 			}, -- [3]
 			{
 				["buff_uptime"] = 0,
 				["ress"] = 0,
-				["debuff_uptime"] = 0,
-				["cooldowns_defensive"] = 0,
-				["interrupt"] = 0,
-				["dispell"] = 0,
-				["cc_break"] = 0,
 				["dead"] = 0,
+				["cc_break"] = 0,
+				["interrupt"] = 0,
+				["debuff_uptime"] = 0,
+				["dispell"] = 0,
+				["cooldowns_defensive"] = 0,
 			}, -- [4]
-		},
-		["start_time"] = 1877.962,
-		["TimeData"] = {
-		},
-		["PhaseData"] = {
-			{
-				1, -- [1]
-				1, -- [2]
-			}, -- [1]
-			["heal_section"] = {
-			},
-			["heal"] = {
-			},
-			["damage_section"] = {
-			},
-			["damage"] = {
-			},
 		},
 	},
 	["mythic_dungeon_currentsaved"] = {
@@ -285,7 +298,7 @@ _detalhes_database = {
 		["channel"] = "SELF",
 		["reverse"] = false,
 	},
-	["combat_counter"] = 55,
+	["combat_counter"] = 61,
 	["announce_cooldowns"] = {
 		["ignored_cooldowns"] = {
 		},
@@ -302,7 +315,6 @@ _detalhes_database = {
 		["channel"] = "SELF",
 	},
 	["cached_specs"] = {
-		["Player-1615-0887CEB7"] = 255,
 		["Player-1615-06D8CD6E"] = 253,
 	},
 }

@@ -7,8 +7,10 @@ _detalhes_database = {
 		["tabelas"] = {
 		},
 	},
-	["combat_counter"] = 1058,
-	["force_font_outline"] = "",
+	["combat_counter"] = 1243,
+	["SoloTablesSaved"] = {
+		["Mode"] = 1,
+	},
 	["tabela_instancias"] = {
 	},
 	["local_instances_config"] = {
@@ -47,59 +49,14 @@ _detalhes_database = {
 		}, -- [1]
 	},
 	["cached_talents"] = {
-		["Player-1615-0868CDBB"] = {
-			22461, -- [1]
-			22443, -- [2]
-			22447, -- [3]
-			22467, -- [4]
-			22907, -- [5]
-			22449, -- [6]
-			21630, -- [7]
-		},
-		["Player-1615-047D7717"] = {
-			20185, -- [1]
-			19302, -- [2]
-			19771, -- [3]
-			23364, -- [4]
-			20175, -- [5]
-			23122, -- [6]
-			22105, -- [7]
-		},
 		["Player-1615-04E0AB42"] = {
-			22418, -- [1]
-			18571, -- [2]
-			22163, -- [3]
-			18577, -- [4]
-			22388, -- [5]
-			22423, -- [6]
-			22426, -- [7]
-		},
-		["Player-1615-03803E86"] = {
-			22386, -- [1]
-			18571, -- [2]
-			22159, -- [3]
-			18577, -- [4]
-			18580, -- [5]
-			21712, -- [6]
-			21193, -- [7]
-		},
-		["Player-1615-0828FC83"] = {
-			18574, -- [1]
-			18571, -- [2]
-			22160, -- [3]
-			18576, -- [4]
-			21710, -- [5]
-			22422, -- [6]
-			21651, -- [7]
-		},
-		["Player-1615-084DBC48"] = {
-			19234, -- [1]
-			22333, -- [2]
-			19240, -- [3]
-			22122, -- [4]
-			23036, -- [5]
-			22335, -- [6]
-			23183, -- [7]
+			18571, -- [1]
+			22163, -- [2]
+			22388, -- [3]
+			22418, -- [4]
+			22426, -- [5]
+			18577, -- [6]
+			22390, -- [7]
 		},
 	},
 	["last_instance_id"] = 1822,
@@ -116,7 +73,7 @@ _detalhes_database = {
 		["reverse"] = false,
 	},
 	["active_profile"] = "Зёба-Ревущий фьорд",
-	["last_realversion"] = 132,
+	["last_realversion"] = 134,
 	["benchmark_db"] = {
 		["frame"] = {
 		},
@@ -125,7 +82,7 @@ _detalhes_database = {
 		["DETAILS_PLUGIN_TINY_THREAT"] = {
 			["updatespeed"] = 1,
 			["enabled"] = true,
-			["animate"] = false,
+			["showamount"] = false,
 			["useplayercolor"] = false,
 			["author"] = "Details! Team",
 			["useclasscolors"] = false,
@@ -134,7 +91,7 @@ _detalhes_database = {
 				1, -- [2]
 				1, -- [3]
 			},
-			["showamount"] = false,
+			["animate"] = false,
 		},
 		["DETAILS_PLUGIN_ENCOUNTER_DETAILS"] = {
 			["enabled"] = true,
@@ -165,112 +122,20 @@ _detalhes_database = {
 		},
 	},
 	["nick_tag_cache"] = {
-		["Бромармаг"] = {
-			"Бромармаг", -- [1]
-			"Interface\\EncounterJournal\\UI-EJ-BOSS-Default", -- [2]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [3]
-			"Interface\\PetBattles\\Weather-ArcaneStorm", -- [4]
-			{
-				0.129609375, -- [1]
-				1, -- [2]
-				1, -- [3]
-				0, -- [4]
-			}, -- [5]
-			{
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			}, -- [6]
-			2, -- [7]
-		},
-		["Армеллина"] = {
-			"Армеллина", -- [1]
-			"Interface\\EncounterJournal\\UI-EJ-BOSS-Cyanigosa", -- [2]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [3]
-			"Interface\\PetBattles\\Weather-ArcaneStorm", -- [4]
-			{
-				0.129609375, -- [1]
-				1, -- [2]
-				1, -- [3]
-				0, -- [4]
-			}, -- [5]
-			{
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			}, -- [6]
-			2, -- [7]
-		},
-		["Скелетур"] = {
-			"Скелетур", -- [1]
-			"Interface\\EncounterJournal\\UI-EJ-BOSS-Default", -- [2]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [3]
-			"Interface\\PetBattles\\Weather-ArcaneStorm", -- [4]
-			{
-				0.129609375, -- [1]
-				1, -- [2]
-				1, -- [3]
-				0, -- [4]
-			}, -- [5]
-			{
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			}, -- [6]
-			2, -- [7]
-		},
-		["Мадве"] = {
-			"Мадве", -- [1]
-			"Interface\\EncounterJournal\\UI-EJ-BOSS-Asira Dawnslayer", -- [2]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [3]
-			"Interface\\PetBattles\\Weather-Moonlight", -- [4]
-			{
-				0.02765625, -- [1]
-				0.94359375, -- [2]
-				1, -- [3]
-				0, -- [4]
-			}, -- [5]
-			{
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			}, -- [6]
-			4, -- [7]
-		},
 		["last_version"] = 10,
-		["Некосмерти"] = {
-			"Afk", -- [1]
-			"Interface\\EncounterJournal\\UI-EJ-BOSS-Default", -- [2]
+		["Тычь"] = {
+			"Тычь", -- [1]
+			"Interface\\EncounterJournal\\UI-EJ-BOSS-Helix Gearbreaker", -- [2]
 			{
 				0, -- [1]
 				1, -- [2]
 				0, -- [3]
 				1, -- [4]
 			}, -- [3]
-			"Interface\\PetBattles\\Weather-ArcaneStorm", -- [4]
+			"Interface\\PetBattles\\Weather-BurntEarth", -- [4]
 			{
-				0.129609375, -- [1]
-				1, -- [2]
+				0.087890625, -- [1]
+				0.916015625, -- [2]
 				1, -- [3]
 				0, -- [4]
 			}, -- [5]
@@ -279,53 +144,7 @@ _detalhes_database = {
 				1, -- [2]
 				1, -- [3]
 			}, -- [6]
-			5, -- [7]
-		},
-		["Умко"] = {
-			"Meow", -- [1]
-			"Interface\\EncounterJournal\\UI-EJ-BOSS-TyrandeWhisperwind", -- [2]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [3]
-			"Interface\\PetBattles\\Weather-ArcaneStorm", -- [4]
-			{
-				0.129609375, -- [1]
-				1, -- [2]
-				1, -- [3]
-				0, -- [4]
-			}, -- [5]
-			{
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			}, -- [6]
-			3, -- [7]
-		},
-		["Ректас"] = {
-			"Microchelick", -- [1]
-			"Interface\\EncounterJournal\\UI-EJ-BOSS-Default", -- [2]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [3]
-			"Interface\\PetBattles\\Weather-ArcaneStorm", -- [4]
-			{
-				0.129609375, -- [1]
-				1, -- [2]
-				1, -- [3]
-				0, -- [4]
-			}, -- [5]
-			{
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			}, -- [6]
-			6, -- [7]
+			2, -- [7]
 		},
 		["Даээрр"] = {
 			"Даээрр", -- [1]
@@ -350,77 +169,9 @@ _detalhes_database = {
 			}, -- [6]
 			2, -- [7]
 		},
-		["Веи"] = {
-			"Gde Moy Dps", -- [1]
-			"Interface\\EncounterJournal\\UI-EJ-BOSS-Baron Silverlaine", -- [2]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [3]
-			"Interface\\PetBattles\\Weather-Rain", -- [4]
-			{
-				0.078125, -- [1]
-				0.970703125, -- [2]
-				1, -- [3]
-				0, -- [4]
-			}, -- [5]
-			{
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			}, -- [6]
-			4, -- [7]
-		},
-		["Сквизя"] = {
-			"Squizee", -- [1]
-			"", -- [2]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [3]
-			"", -- [4]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [5]
-			{
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			}, -- [6]
-			6, -- [7]
-		},
-		["Кассэл"] = {
-			"Kassel", -- [1]
-			"Interface\\EncounterJournal\\UI-EJ-BOSS-Asira Dawnslayer", -- [2]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [3]
-			"Interface\\PetBattles\\Weather-Blizzard", -- [4]
-			{
-				0.068704154, -- [1]
-				1, -- [2]
-				1, -- [3]
-				0, -- [4]
-			}, -- [5]
-			{
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			}, -- [6]
-			6, -- [7]
-		},
-		["Ремелиса"] = {
-			"Ремелиса", -- [1]
+		["nextreset"] = 1536616831,
+		["Десталосдх"] = {
+			"Десталосдх", -- [1]
 			"Interface\\EncounterJournal\\UI-EJ-BOSS-Default", -- [2]
 			{
 				0, -- [1]
@@ -432,76 +183,6 @@ _detalhes_database = {
 			{
 				0.129609375, -- [1]
 				1, -- [2]
-				1, -- [3]
-				0, -- [4]
-			}, -- [5]
-			{
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			}, -- [6]
-			3, -- [7]
-		},
-		["Эсеро"] = {
-			"Эсеро", -- [1]
-			"Interface\\EncounterJournal\\UI-EJ-BOSS-Renataki", -- [2]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [3]
-			"Interface\\PetBattles\\Weather-ArcaneStorm", -- [4]
-			{
-				0.129609375, -- [1]
-				1, -- [2]
-				1, -- [3]
-				0, -- [4]
-			}, -- [5]
-			{
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			}, -- [6]
-			2, -- [7]
-		},
-		["nextreset"] = 1535318968,
-		["Тычь"] = {
-			"Тычь", -- [1]
-			"Interface\\EncounterJournal\\UI-EJ-BOSS-Helix Gearbreaker", -- [2]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [3]
-			"Interface\\PetBattles\\Weather-BurntEarth", -- [4]
-			{
-				0.087890625, -- [1]
-				0.916015625, -- [2]
-				1, -- [3]
-				0, -- [4]
-			}, -- [5]
-			{
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			}, -- [6]
-			2, -- [7]
-		},
-		["Эндак"] = {
-			"Xapoh", -- [1]
-			"Interface\\EncounterJournal\\UI-EJ-BOSS-Brother Korloff", -- [2]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [3]
-			"Interface\\PetBattles\\Weather-Darkness", -- [4]
-			{
-				0.080078125, -- [1]
-				0.931640625, -- [2]
 				1, -- [3]
 				0, -- [4]
 			}, -- [5]
@@ -560,26 +241,16 @@ _detalhes_database = {
 		},
 	},
 	["ignore_nicktag"] = false,
-	["mythic_dungeon_currentsaved"] = {
-		["dungeon_name"] = "",
-		["started"] = false,
-		["segment_id"] = 0,
-		["ej_id"] = 0,
-		["started_at"] = 0,
-		["run_id"] = 0,
-		["level"] = 0,
-		["dungeon_zone_id"] = 0,
-		["previous_boss_killed_at"] = 0,
-	},
-	["last_version"] = "v8.0.1.6131",
-	["combat_id"] = 0,
-	["savedStyles"] = {
-	},
-	["last_instance_time"] = 1535049667,
 	["announce_firsthit"] = {
 		["enabled"] = true,
 		["channel"] = "SELF",
 	},
+	["last_version"] = "v8.0.1.6272",
+	["combat_id"] = 0,
+	["savedStyles"] = {
+	},
+	["last_instance_time"] = 1535049667,
+	["last_day"] = "05",
 	["announce_deaths"] = {
 		["enabled"] = false,
 		["last_hits"] = 1,
@@ -618,7 +289,7 @@ _detalhes_database = {
 		},
 		["alternate_power"] = {
 		},
-		["combat_counter"] = 1057,
+		["combat_counter"] = 1234,
 		["totals"] = {
 			0, -- [1]
 			0, -- [2]
@@ -632,10 +303,10 @@ _detalhes_database = {
 			{
 				["buff_uptime"] = 0,
 				["ress"] = 0,
-				["debuff_uptime"] = 0,
 				["cooldowns_defensive"] = 0,
-				["interrupt"] = 0,
 				["dispell"] = 0,
+				["interrupt"] = 0,
+				["debuff_uptime"] = 0,
 				["cc_break"] = 0,
 				["dead"] = 0,
 			}, -- [4]
@@ -655,10 +326,10 @@ _detalhes_database = {
 			{
 				["buff_uptime"] = 0,
 				["ress"] = 0,
-				["debuff_uptime"] = 0,
 				["cooldowns_defensive"] = 0,
-				["interrupt"] = 0,
 				["dispell"] = 0,
+				["interrupt"] = 0,
+				["debuff_uptime"] = 0,
 				["cc_break"] = 0,
 				["dead"] = 0,
 			}, -- [4]
@@ -666,41 +337,51 @@ _detalhes_database = {
 		["frags_need_refresh"] = false,
 		["__call"] = {
 		},
-		["data_inicio"] = 0,
-		["frags"] = {
-		},
-		["data_fim"] = 0,
-		["CombatSkillCache"] = {
-		},
 		["PhaseData"] = {
 			{
 				1, -- [1]
 				1, -- [2]
 			}, -- [1]
+			["damage_section"] = {
+			},
 			["heal_section"] = {
 			},
 			["heal"] = {
 			},
-			["damage_section"] = {
-			},
 			["damage"] = {
 			},
+		},
+		["hasSaved"] = true,
+		["frags"] = {
+		},
+		["data_fim"] = 0,
+		["data_inicio"] = 0,
+		["CombatSkillCache"] = {
+		},
+		["player_last_events"] = {
 		},
 		["start_time"] = 0,
 		["TimeData"] = {
 			["Raid Damage Done"] = {
 			},
 		},
-		["player_last_events"] = {
-		},
-	},
-	["SoloTablesSaved"] = {
-		["Mode"] = 1,
+		["overall_refreshed"] = true,
 	},
 	["character_data"] = {
-		["logons"] = 42,
+		["logons"] = 64,
 	},
-	["last_day"] = "23",
+	["force_font_outline"] = "",
+	["mythic_dungeon_currentsaved"] = {
+		["dungeon_name"] = "",
+		["started"] = false,
+		["segment_id"] = 0,
+		["ej_id"] = 0,
+		["started_at"] = 0,
+		["run_id"] = 0,
+		["level"] = 0,
+		["dungeon_zone_id"] = 0,
+		["previous_boss_killed_at"] = 0,
+	},
 	["announce_cooldowns"] = {
 		["ignored_cooldowns"] = {
 		},
