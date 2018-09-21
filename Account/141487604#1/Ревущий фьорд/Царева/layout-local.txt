@@ -1,8 +1,8 @@
 Version: 1
-Frame: DetailsPlayerDetailsWindow
+Frame: WeakAurasOptions
 FrameLevel: 1
-Anchor: CENTER
-X: 0
-Y: 0
-W: 790
-H: 454
+Anchor: RIGHT
+X: -134
+Y: 83
+W: 745
+H: 627

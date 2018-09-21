@@ -1,5 +1,7 @@
 
 EncounterDetailsDB = {
+	["emotes"] = {
+	},
 	["encounter_spells"] = {
 		[255418] = {
 			["school"] = 1,
@@ -159,12 +161,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Констеллар-куратор",
 		},
-		[114942] = {
-			["school"] = 8,
+		[258399] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_HEAL"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Тотем целительного прилива",
+			["source"] = "Аргус Порабощенный",
 		},
 		[256542] = {
 			["school"] = 1,
@@ -182,22 +184,20 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Констеллар-куратор",
 		},
-		[248165] = {
-			["school"] = 32,
+		[256544] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
 			},
 			["source"] = "Аргус Порабощенный",
 		},
-		[256396] = {
-			["school"] = 64,
+		[98021] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
+				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Модуль пересоздания",
+			["source"] = "Тотем духовной связи",
 		},
 		[248499] = {
 			["school"] = 1,
@@ -225,14 +225,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Kernhund",
 		},
-		[251815] = {
+		[255496] = {
 			["school"] = 1,
-			["type"] = "DEBUFF",
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Коса разрушения",
+			["source"] = "Констеллар-куратор",
 		},
 		[257299] = {
 			["school"] = 32,
@@ -274,13 +273,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Дух волка",
 		},
-		[255496] = {
+		[251815] = {
 			["school"] = 1,
-			["type"] = "BUFF",
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Констеллар-куратор",
+			["source"] = "Коса разрушения",
 		},
 		[250669] = {
 			["school"] = 32,
@@ -291,29 +291,29 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Аргус Порабощенный",
 		},
-		[98021] = {
-			["school"] = 8,
+		[256396] = {
+			["school"] = 64,
 			["token"] = {
-				["SPELL_HEAL"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Тотем духовной связи",
+			["source"] = "Модуль пересоздания",
 		},
-		[256544] = {
-			["school"] = 1,
+		[248165] = {
+			["school"] = 32,
 			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
 			},
 			["source"] = "Аргус Порабощенный",
 		},
-		[258399] = {
-			["school"] = 1,
+		[114942] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Аргус Порабощенный",
+			["source"] = "Тотем целительного прилива",
 		},
-	},
-	["emotes"] = {
 	},
 }

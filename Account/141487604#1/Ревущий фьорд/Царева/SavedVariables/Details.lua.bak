@@ -2,12 +2,1494 @@
 _detalhes_database = {
 	["savedbuffs"] = {
 	},
-	["mythic_dungeon_id"] = 0,
+	["mythic_dungeon_id"] = 1,
 	["tabela_historico"] = {
 		["tabelas"] = {
+			{
+				{
+					["combatId"] = 4,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.00471,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Эльфийский кролик"] = 560,
+							},
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["classe"] = "DRUID",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 560.00471,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1537499318,
+							["friendlyfire_total"] = 0,
+							["spec"] = 102,
+							["nome"] = "Царева",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[191037] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 560,
+										["targets"] = {
+											["Эльфийский кролик"] = 560,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 560,
+										["n_min"] = 560,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 560,
+										["c_max"] = 0,
+										["id"] = 191037,
+										["r_dmg"] = 0,
+										["spellschool"] = 72,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["total"] = 560.00471,
+							["serial"] = "Player-1615-04E0AB42",
+							["last_dps"] = 1772.16680384448,
+							["custom"] = 0,
+							["last_event"] = 1537499316,
+							["damage_taken"] = 0.00471,
+							["start_time"] = 1537499316,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 4,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 4,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 4,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 102,
+							["grupo"] = true,
+							["buff_uptime"] = 8,
+							["nome"] = "Царева",
+							["pets"] = {
+							},
+							["last_event"] = 1537499318,
+							["classe"] = "DRUID",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[24858] = {
+										["activedamt"] = 1,
+										["id"] = 24858,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[191034] = {
+										["activedamt"] = 1,
+										["id"] = 191034,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[227723] = {
+										["activedamt"] = 1,
+										["id"] = 227723,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[276207] = {
+										["activedamt"] = 1,
+										["id"] = 276207,
+										["targets"] = {
+										},
+										["actived_at"] = 1537499316,
+										["uptime"] = 0,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = true,
+										["counter"] = 0,
+									},
+									[186406] = {
+										["activedamt"] = 1,
+										["id"] = 186406,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-1615-04E0AB42",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 4,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Царева"] = true,
+				},
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "Эльфийский кролик",
+				["combat_counter"] = 1510,
+				["playing_solo"] = true,
+				["totals"] = {
+					559.996603, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Царева"] = 560.00471,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 444964.349,
+				["combat_id"] = 4,
+				["instance_type"] = "none",
+				["frags"] = {
+					["Эльфийский кролик"] = 1,
+				},
+				["data_fim"] = "06:08:38",
+				["data_inicio"] = "06:08:37",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					560, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 444963.097,
+				["TimeData"] = {
+				},
+				["pvp"] = true,
+			}, -- [1]
+			{
+				{
+					["combatId"] = 3,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.003327,
+							["spec"] = 102,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Тренировочный манекен покорителя подземелий"] = 1354,
+							},
+							["pets"] = {
+							},
+							["end_time"] = 1537499306,
+							["colocacao"] = 1,
+							["classe"] = "DRUID",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 1354.003327,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["total"] = 1354.003327,
+							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
+							["nome"] = "Царева",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[202497] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 1354,
+										["targets"] = {
+											["Тренировочный манекен покорителя подземелий"] = 1354,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1354,
+										["n_min"] = 1354,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 1354,
+										["c_max"] = 0,
+										["id"] = 202497,
+										["r_dmg"] = 0,
+										["spellschool"] = 72,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-1615-04E0AB42",
+							["last_dps"] = 1347.26699203356,
+							["custom"] = 0,
+							["last_event"] = 1537499305,
+							["damage_taken"] = 0.003327,
+							["start_time"] = 1537499305,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 3,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 3,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 3,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 102,
+							["grupo"] = true,
+							["buff_uptime"] = 3,
+							["nome"] = "Царева",
+							["pets"] = {
+							},
+							["last_event"] = 1537499306,
+							["classe"] = "DRUID",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[186406] = {
+										["activedamt"] = 1,
+										["id"] = 186406,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[24858] = {
+										["activedamt"] = 1,
+										["id"] = 24858,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[227723] = {
+										["activedamt"] = 1,
+										["id"] = 227723,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-1615-04E0AB42",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 3,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Царева"] = true,
+				},
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "Тренировочный манекен покорителя подземелий",
+				["combat_counter"] = 1509,
+				["totals"] = {
+					1353.99717, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = false,
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Царева"] = 1354.003327,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 444952.323,
+				["combat_id"] = 3,
+				["instance_type"] = "none",
+				["frags"] = {
+				},
+				["data_fim"] = "06:08:26",
+				["data_inicio"] = "06:08:25",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					1354, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 444951.318,
+				["TimeData"] = {
+				},
+				["pvp"] = true,
+			}, -- [2]
+			{
+				{
+					["combatId"] = 2,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.004381,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Тренировочный манекен покорителя подземелий"] = 62317,
+							},
+							["total"] = 62317.004381,
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["classe"] = "DRUID",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 62317.004381,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1537499305,
+							["friendlyfire_total"] = 0,
+							["spec"] = 102,
+							["nome"] = "Царева",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[190984] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 2256,
+										["targets"] = {
+											["Тренировочный манекен покорителя подземелий"] = 6768,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 6768,
+										["n_min"] = 2256,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 6768,
+										["c_max"] = 0,
+										["id"] = 190984,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 3,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[164812] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 3023,
+										["g_amt"] = 0,
+										["n_max"] = 756,
+										["targets"] = {
+											["Тренировочный манекен покорителя подземелий"] = 8600,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 5577,
+										["n_min"] = 287,
+										["g_dmg"] = 0,
+										["counter"] = 10,
+										["total"] = 8600,
+										["c_max"] = 1512,
+										["id"] = 164812,
+										["r_dmg"] = 0,
+										["spellschool"] = 64,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 8,
+										["r_amt"] = 0,
+										["c_min"] = 1511,
+									},
+									[78674] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 8424,
+										["targets"] = {
+											["Тренировочный манекен покорителя подземелий"] = 8424,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 8424,
+										["n_min"] = 8424,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 8424,
+										["c_max"] = 0,
+										["id"] = 78674,
+										["r_dmg"] = 0,
+										["spellschool"] = 72,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[279729] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 632,
+										["targets"] = {
+											["Тренировочный манекен покорителя подземелий"] = 2528,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 2528,
+										["n_min"] = 632,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 2528,
+										["c_max"] = 0,
+										["id"] = 279729,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[164815] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 677,
+										["targets"] = {
+											["Тренировочный манекен покорителя подземелий"] = 7873,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 7873,
+										["n_min"] = 555,
+										["g_dmg"] = 0,
+										["counter"] = 12,
+										["total"] = 7873,
+										["c_max"] = 0,
+										["id"] = 164815,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 12,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[194153] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 12031,
+										["g_amt"] = 0,
+										["n_max"] = 4523,
+										["targets"] = {
+											["Тренировочный манекен покорителя подземелий"] = 24062,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 12031,
+										["n_min"] = 1492,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 24062,
+										["c_max"] = 9046,
+										["id"] = 194153,
+										["r_dmg"] = 0,
+										["spellschool"] = 64,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["r_amt"] = 0,
+										["c_min"] = 2985,
+									},
+									[202497] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 2708,
+										["g_amt"] = 0,
+										["n_max"] = 1354,
+										["targets"] = {
+											["Тренировочный манекен покорителя подземелий"] = 4062,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1354,
+										["n_min"] = 1354,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 4062,
+										["c_max"] = 2708,
+										["id"] = 202497,
+										["r_dmg"] = 0,
+										["spellschool"] = 72,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 2708,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-1615-04E0AB42",
+							["last_dps"] = 4395.64113572303,
+							["custom"] = 0,
+							["last_event"] = 1537499305,
+							["damage_taken"] = 0.004381,
+							["start_time"] = 1537499289,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 2,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 2,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 2,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 102,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[190984] = 2,
+								[78674] = 1,
+								[194153] = 3,
+							},
+							["buff_uptime"] = 45,
+							["nome"] = "Царева",
+							["pets"] = {
+							},
+							["last_event"] = 1537499304,
+							["classe"] = "DRUID",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[24858] = {
+										["activedamt"] = 1,
+										["id"] = 24858,
+										["targets"] = {
+										},
+										["uptime"] = 15,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[164547] = {
+										["activedamt"] = 1,
+										["id"] = 164547,
+										["targets"] = {
+										},
+										["actived_at"] = 1537499289,
+										["uptime"] = 0,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = true,
+										["counter"] = 0,
+									},
+									[227723] = {
+										["activedamt"] = 1,
+										["id"] = 227723,
+										["targets"] = {
+										},
+										["uptime"] = 15,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[276207] = {
+										["activedamt"] = 1,
+										["id"] = 276207,
+										["targets"] = {
+										},
+										["actived_at"] = 1537499289,
+										["uptime"] = 0,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = true,
+										["counter"] = 0,
+									},
+									[186406] = {
+										["activedamt"] = 1,
+										["id"] = 186406,
+										["targets"] = {
+										},
+										["uptime"] = 15,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-1615-04E0AB42",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 2,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Царева"] = true,
+				},
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "Тренировочный манекен покорителя подземелий",
+				["combat_counter"] = 1508,
+				["playing_solo"] = true,
+				["totals"] = {
+					62316.996591, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = false,
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Царева"] = 61275.004381,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 444950.169,
+				["combat_id"] = 2,
+				["instance_type"] = "none",
+				["frags"] = {
+				},
+				["data_fim"] = "06:08:24",
+				["data_inicio"] = "06:08:09",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					62317, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 444935.992,
+				["TimeData"] = {
+				},
+				["pvp"] = true,
+			}, -- [3]
+			{
+				{
+					["combatId"] = 1,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.001734,
+							["total"] = 87794.001734,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Тренировочный манекен покорителя подземелий"] = 87794,
+							},
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["colocacao"] = 1,
+							["classe"] = "DRUID",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 87794.001734,
+							["friendlyfire_total"] = 0,
+							["dps_started"] = false,
+							["end_time"] = 1537499289,
+							["on_hold"] = false,
+							["spec"] = 102,
+							["nome"] = "Царева",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[190984] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 4512,
+										["g_amt"] = 0,
+										["n_max"] = 2256,
+										["targets"] = {
+											["Тренировочный манекен покорителя подземелий"] = 13536,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 9024,
+										["n_min"] = 2256,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 13536,
+										["c_max"] = 4512,
+										["id"] = 190984,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["r_amt"] = 0,
+										["c_min"] = 4512,
+									},
+									[164812] = {
+										["c_amt"] = 5,
+										["b_amt"] = 0,
+										["c_dmg"] = 7555,
+										["g_amt"] = 0,
+										["n_max"] = 812,
+										["targets"] = {
+											["Тренировочный манекен покорителя подземелий"] = 17489,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 9934,
+										["n_min"] = 755,
+										["g_dmg"] = 0,
+										["counter"] = 18,
+										["total"] = 17489,
+										["c_max"] = 1511,
+										["id"] = 164812,
+										["r_dmg"] = 0,
+										["spellschool"] = 64,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 13,
+										["r_amt"] = 0,
+										["c_min"] = 1511,
+									},
+									[78674] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 8424,
+										["targets"] = {
+											["Тренировочный манекен покорителя подземелий"] = 8424,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 8424,
+										["n_min"] = 8424,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 8424,
+										["c_max"] = 0,
+										["id"] = 78674,
+										["r_dmg"] = 0,
+										["spellschool"] = 72,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[279729] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 632,
+										["targets"] = {
+											["Тренировочный манекен покорителя подземелий"] = 1263,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1263,
+										["n_min"] = 631,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 1263,
+										["c_max"] = 0,
+										["id"] = 279729,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[164815] = {
+										["c_amt"] = 6,
+										["b_amt"] = 0,
+										["c_dmg"] = 8629,
+										["g_amt"] = 0,
+										["n_max"] = 933,
+										["targets"] = {
+											["Тренировочный манекен покорителя подземелий"] = 26467,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 17838,
+										["n_min"] = 676,
+										["g_dmg"] = 0,
+										["counter"] = 32,
+										["total"] = 26467,
+										["c_max"] = 1865,
+										["id"] = 164815,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 26,
+										["r_amt"] = 0,
+										["c_min"] = 1352,
+									},
+									[202497] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 1354,
+										["targets"] = {
+											["Тренировочный манекен покорителя подземелий"] = 4061,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 4061,
+										["n_min"] = 1353,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 4061,
+										["c_max"] = 0,
+										["id"] = 202497,
+										["r_dmg"] = 0,
+										["spellschool"] = 72,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 3,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[194153] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 9046,
+										["g_amt"] = 0,
+										["n_max"] = 4523,
+										["targets"] = {
+											["Тренировочный манекен покорителя подземелий"] = 16554,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 7508,
+										["n_min"] = 1492,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 16554,
+										["c_max"] = 9046,
+										["id"] = 194153,
+										["r_dmg"] = 0,
+										["spellschool"] = 64,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 3,
+										["r_amt"] = 0,
+										["c_min"] = 9046,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-1615-04E0AB42",
+							["last_dps"] = 3289.52009194639,
+							["custom"] = 0,
+							["last_event"] = 1537499288,
+							["damage_taken"] = 0.001734,
+							["start_time"] = 1537499261,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 1,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorb"] = 0.004871,
+							["last_hps"] = 0,
+							["healing_from"] = {
+							},
+							["targets"] = {
+							},
+							["targets_absorbs"] = {
+							},
+							["pets"] = {
+							},
+							["totalover_without_pet"] = 0.004871,
+							["targets_overheal"] = {
+								["Царева"] = 9785,
+							},
+							["heal_enemy_amt"] = 0,
+							["totalover"] = 9785.004871,
+							["total_without_pet"] = 0.004871,
+							["iniciar_hps"] = false,
+							["classe"] = "DRUID",
+							["end_time"] = 1537499287,
+							["total"] = 0.004871,
+							["healing_taken"] = 0.004871,
+							["start_time"] = 1537499286,
+							["nome"] = "Царева",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[276210] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Царева"] = 9785,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Царева"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 1,
+										["overheal"] = 9785,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 276210,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 0,
+										["n_amt"] = 1,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["spec"] = 102,
+							["heal_enemy"] = {
+							},
+							["serial"] = "Player-1615-04E0AB42",
+							["custom"] = 0,
+							["last_event"] = 1537499272,
+							["on_hold"] = false,
+							["totaldenied"] = 0.004871,
+							["delay"] = 1537499272,
+							["tipo"] = 2,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 1,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 1,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 102,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[190984] = 5,
+								[8921] = 1,
+								[93402] = 2,
+								[194153] = 2,
+								[78674] = 1,
+							},
+							["buff_uptime"] = 78,
+							["nome"] = "Царева",
+							["pets"] = {
+							},
+							["last_event"] = 1537499287,
+							["classe"] = "DRUID",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[276204] = {
+										["activedamt"] = 1,
+										["id"] = 276204,
+										["targets"] = {
+										},
+										["actived_at"] = 1537499261,
+										["uptime"] = 0,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = true,
+										["counter"] = 0,
+									},
+									[164547] = {
+										["activedamt"] = 0,
+										["id"] = 164547,
+										["targets"] = {
+										},
+										["uptime"] = 0,
+										["appliedamt"] = 0,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[227723] = {
+										["activedamt"] = 1,
+										["id"] = 227723,
+										["targets"] = {
+										},
+										["uptime"] = 26,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[186406] = {
+										["activedamt"] = 1,
+										["id"] = 186406,
+										["targets"] = {
+										},
+										["uptime"] = 26,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[24858] = {
+										["activedamt"] = 1,
+										["id"] = 24858,
+										["targets"] = {
+										},
+										["uptime"] = 26,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-1615-04E0AB42",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 1,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Царева"] = true,
+				},
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "Тренировочный манекен покорителя подземелий",
+				["combat_counter"] = 1507,
+				["playing_solo"] = true,
+				["totals"] = {
+					87793.994776, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = false,
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Царева"] = 0.004871,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Царева"] = 85010.001734,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 444933.964,
+				["combat_id"] = 1,
+				["instance_type"] = "none",
+				["frags"] = {
+				},
+				["data_fim"] = "06:08:07",
+				["data_inicio"] = "06:07:41",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					87794, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 444907.275,
+				["TimeData"] = {
+				},
+				["pvp"] = true,
+			}, -- [4]
 		},
 	},
-	["last_version"] = "v8.0.1.6272",
+	["last_version"] = "v8.0.1.6449",
 	["force_font_outline"] = "",
 	["tabela_instancias"] = {
 	},
@@ -18,7 +1500,7 @@ _detalhes_database = {
 			["horizontalSnap"] = false,
 			["verticalSnap"] = false,
 			["is_open"] = true,
-			["isLocked"] = true,
+			["isLocked"] = false,
 			["sub_atributo_last"] = {
 				1, -- [1]
 				1, -- [2]
@@ -33,8 +1515,8 @@ _detalhes_database = {
 			["pos"] = {
 				["normal"] = {
 					["y"] = -380.430491324649,
-					["x"] = 739.572183618975,
-					["w"] = 236.101608276367,
+					["x"] = 739.573640466551,
+					["w"] = 236.101486206055,
 					["h"] = 167.372467041016,
 				},
 				["solo"] = {
@@ -48,16 +1530,16 @@ _detalhes_database = {
 	},
 	["cached_talents"] = {
 		["Player-1615-04E0AB42"] = {
-			18571, -- [1]
-			22163, -- [2]
-			22388, -- [3]
-			22418, -- [4]
-			22426, -- [5]
+			22386, -- [1]
+			22157, -- [2]
+			21712, -- [3]
+			21648, -- [4]
+			19283, -- [5]
 			18577, -- [6]
-			22390, -- [7]
+			18580, -- [7]
 		},
 	},
-	["last_instance_id"] = 1822,
+	["last_instance_id"] = 1861,
 	["announce_interrupts"] = {
 		["enabled"] = false,
 		["whisper"] = "",
@@ -65,24 +1547,24 @@ _detalhes_database = {
 		["custom"] = "",
 		["next"] = "",
 	},
-	["last_instance_time"] = 1535049667,
+	["last_instance_time"] = 1537291800,
 	["active_profile"] = "Зёба-Ревущий фьорд",
 	["last_realversion"] = 134,
 	["ignore_nicktag"] = false,
 	["plugin_database"] = {
 		["DETAILS_PLUGIN_TINY_THREAT"] = {
 			["updatespeed"] = 1,
+			["enabled"] = false,
 			["showamount"] = false,
-			["animate"] = false,
 			["useplayercolor"] = false,
-			["useclasscolors"] = false,
 			["author"] = "Details! Team",
+			["useclasscolors"] = false,
 			["playercolor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 			},
-			["enabled"] = true,
+			["animate"] = false,
 		},
 		["DETAILS_PLUGIN_ENCOUNTER_DETAILS"] = {
 			["enabled"] = true,
@@ -91,79 +1573,32 @@ _detalhes_database = {
 			["max_emote_segments"] = 3,
 			["author"] = "Details! Team",
 			["window_scale"] = 1,
-			["hide_on_combat"] = false,
-			["show_icon"] = 5,
-			["opened"] = 0,
 			["encounter_timers_dbm"] = {
 			},
+			["show_icon"] = 5,
+			["opened"] = 0,
+			["hide_on_combat"] = false,
 		},
 		["DETAILS_PLUGIN_VANGUARD"] = {
 			["enabled"] = true,
-			["tank_block_texture"] = "Details Serenity",
 			["tank_block_color"] = {
 				0.24705882, -- [1]
 				0.0039215, -- [2]
 				0, -- [3]
 				0.8, -- [4]
 			},
+			["tank_block_texture"] = "Details Serenity",
 			["show_inc_bars"] = false,
 			["author"] = "Details! Team",
 			["first_run"] = false,
 			["tank_block_size"] = 150,
 		},
 	},
+	["last_encounter"] = "Зек'воз",
 	["nick_tag_cache"] = {
-		["nextreset"] = 1536616831,
-		["Тычь"] = {
-			"Тычь", -- [1]
-			"Interface\\EncounterJournal\\UI-EJ-BOSS-Helix Gearbreaker", -- [2]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [3]
-			"Interface\\PetBattles\\Weather-BurntEarth", -- [4]
-			{
-				0.087890625, -- [1]
-				0.916015625, -- [2]
-				1, -- [3]
-				0, -- [4]
-			}, -- [5]
-			{
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			}, -- [6]
-			2, -- [7]
-		},
-		["Даээрр"] = {
-			"Даээрр", -- [1]
-			"Interface\\EncounterJournal\\UI-EJ-BOSS-Isiset", -- [2]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [3]
-			"Interface\\PetBattles\\Weather-BurntEarth", -- [4]
-			{
-				0.087890625, -- [1]
-				0.916015625, -- [2]
-				1, -- [3]
-				0, -- [4]
-			}, -- [5]
-			{
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			}, -- [6]
-			2, -- [7]
-		},
-		["last_version"] = 10,
-		["Десталосдх"] = {
-			"Десталосдх", -- [1]
-			"Interface\\EncounterJournal\\UI-EJ-BOSS-Default", -- [2]
+		["Мюона"] = {
+			"Meow", -- [1]
+			"Interface\\EncounterJournal\\UI-EJ-BOSS-Instructor Malicia", -- [2]
 			{
 				0, -- [1]
 				1, -- [2]
@@ -183,6 +1618,191 @@ _detalhes_database = {
 				1, -- [3]
 			}, -- [6]
 			3, -- [7]
+		},
+		["Акирдна"] = {
+			"Andrika", -- [1]
+			"Interface\\EncounterJournal\\UI-EJ-BOSS-Default", -- [2]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [3]
+			"Interface\\PetBattles\\Weather-Windy", -- [4]
+			{
+				0.9453125, -- [1]
+				0.07421875, -- [2]
+				0.8203125, -- [3]
+				0, -- [4]
+			}, -- [5]
+			{
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+			}, -- [6]
+			3, -- [7]
+		},
+		["Хоукбил"] = {
+			"Хоукбил", -- [1]
+			"Interface\\EncounterJournal\\UI-EJ-BOSS-Kelidan the Breaker", -- [2]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [3]
+			"Interface\\PetBattles\\Weather-BurntEarth", -- [4]
+			{
+				0.087890625, -- [1]
+				0.916015625, -- [2]
+				1, -- [3]
+				0, -- [4]
+			}, -- [5]
+			{
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			}, -- [6]
+			2, -- [7]
+		},
+		["Веи"] = {
+			"Weiss", -- [1]
+			"Interface\\EncounterJournal\\UI-EJ-BOSS-Baron Silverlaine", -- [2]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [3]
+			"Interface\\PetBattles\\Weather-Rain", -- [4]
+			{
+				0.078125, -- [1]
+				0.970703125, -- [2]
+				1, -- [3]
+				0, -- [4]
+			}, -- [5]
+			{
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			}, -- [6]
+			5, -- [7]
+		},
+		["last_version"] = 10,
+		["Сквизя"] = {
+			"Lil Dozhd", -- [1]
+			"", -- [2]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [3]
+			"", -- [4]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [5]
+			{
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			}, -- [6]
+			7, -- [7]
+		},
+		["Умко"] = {
+			"Meow", -- [1]
+			"Interface\\EncounterJournal\\UI-EJ-BOSS-TyrandeWhisperwind", -- [2]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [3]
+			"Interface\\PetBattles\\Weather-ArcaneStorm", -- [4]
+			{
+				0.129609375, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+			}, -- [5]
+			{
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			}, -- [6]
+			3, -- [7]
+		},
+		["Имтизаль"] = {
+			"Brb", -- [1]
+			"", -- [2]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [3]
+			"", -- [4]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [5]
+			{
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			}, -- [6]
+			2, -- [7]
+		},
+		["Никеоо"] = {
+			"Macrochelick", -- [1]
+			"", -- [2]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [3]
+			"", -- [4]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [5]
+			{
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			}, -- [6]
+			2, -- [7]
+		},
+		["Доталошатало"] = {
+			"Unholydk", -- [1]
+			"", -- [2]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [3]
+			"", -- [4]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [5]
+			{
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			}, -- [6]
+			2, -- [7]
 		},
 		["Тычи"] = {
 			"Twichi", -- [1]
@@ -207,57 +1827,32 @@ _detalhes_database = {
 			}, -- [6]
 			6, -- [7]
 		},
-		["Веис"] = {
-			"Weiss", -- [1]
-			"Interface\\EncounterJournal\\UI-EJ-BOSS-Armsmaster Harlan", -- [2]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [3]
-			"Interface\\PetBattles\\Weather-Moonlight", -- [4]
-			{
-				0.94359375, -- [1]
-				0.02765625, -- [2]
-				1, -- [3]
-				0, -- [4]
-			}, -- [5]
-			{
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			}, -- [6]
-			10, -- [7]
-		},
+		["nextreset"] = 1538170115,
 	},
 	["benchmark_db"] = {
 		["frame"] = {
 		},
 	},
 	["mythic_dungeon_currentsaved"] = {
-		["dungeon_name"] = "",
+		["dungeon_name"] = "Святилище Штормов",
 		["started"] = false,
-		["segment_id"] = 0,
-		["ej_id"] = 0,
-		["started_at"] = 0,
-		["run_id"] = 0,
-		["level"] = 0,
-		["dungeon_zone_id"] = 0,
-		["previous_boss_killed_at"] = 0,
+		["segment_id"] = 3,
+		["ej_id"] = 1036,
+		["started_at"] = 1537092414.7,
+		["run_id"] = 1,
+		["level"] = 2,
+		["dungeon_zone_id"] = 1864,
+		["previous_boss_killed_at"] = 1537094129,
 	},
-	["combat_counter"] = 1241,
-	["combat_id"] = 0,
+	["last_day"] = "21",
+	["combat_id"] = 4,
 	["savedStyles"] = {
 	},
-	["announce_prepots"] = {
-		["enabled"] = true,
-		["channel"] = "SELF",
-		["reverse"] = false,
+	["character_data"] = {
+		["logons"] = 84,
 	},
-	["announce_firsthit"] = {
-		["enabled"] = true,
-		["channel"] = "SELF",
+	["SoloTablesSaved"] = {
+		["Mode"] = 1,
 	},
 	["announce_deaths"] = {
 		["enabled"] = false,
@@ -269,11 +1864,345 @@ _detalhes_database = {
 		{
 			["tipo"] = 2,
 			["_ActorTable"] = {
+				{
+					["flag_original"] = 1297,
+					["totalabsorbed"] = 0.020258,
+					["damage_from"] = {
+					},
+					["targets"] = {
+						["Эльфийский кролик"] = 560,
+						["Тренировочный манекен покорителя подземелий"] = 147639,
+					},
+					["pets"] = {
+					},
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 148199.020258,
+					["friendlyfire"] = {
+					},
+					["last_event"] = 0,
+					["dps_started"] = false,
+					["total"] = 148199.020258,
+					["classe"] = "DRUID",
+					["end_time"] = 1537499287,
+					["nome"] = "Царева",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							[191037] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 560,
+								["targets"] = {
+									["Эльфийский кролик"] = 560,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 560,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 560,
+								["c_max"] = 0,
+								["id"] = 191037,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 1,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[190984] = {
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 4512,
+								["g_amt"] = 0,
+								["n_max"] = 2256,
+								["targets"] = {
+									["Тренировочный манекен покорителя подземелий"] = 20304,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 15792,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 8,
+								["total"] = 20304,
+								["c_max"] = 4512,
+								["id"] = 190984,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 7,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[164812] = {
+								["c_amt"] = 7,
+								["b_amt"] = 0,
+								["c_dmg"] = 10578,
+								["g_amt"] = 0,
+								["n_max"] = 812,
+								["targets"] = {
+									["Тренировочный манекен покорителя подземелий"] = 24291,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 13713,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 25,
+								["total"] = 24291,
+								["c_max"] = 1512,
+								["id"] = 164812,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 18,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[78674] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 8424,
+								["targets"] = {
+									["Тренировочный манекен покорителя подземелий"] = 16848,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 16848,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 2,
+								["total"] = 16848,
+								["c_max"] = 0,
+								["id"] = 78674,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 2,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[194153] = {
+								["c_amt"] = 3,
+								["b_amt"] = 0,
+								["c_dmg"] = 21077,
+								["g_amt"] = 0,
+								["n_max"] = 4523,
+								["targets"] = {
+									["Тренировочный манекен покорителя подземелий"] = 40616,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 19539,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 10,
+								["total"] = 40616,
+								["c_max"] = 9046,
+								["id"] = 194153,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 7,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[164815] = {
+								["c_amt"] = 5,
+								["b_amt"] = 0,
+								["c_dmg"] = 7277,
+								["g_amt"] = 0,
+								["n_max"] = 933,
+								["targets"] = {
+									["Тренировочный манекен покорителя подземелий"] = 32312,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 25035,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 42,
+								["total"] = 32312,
+								["c_max"] = 1865,
+								["id"] = 164815,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 37,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[202497] = {
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 2708,
+								["g_amt"] = 0,
+								["n_max"] = 1354,
+								["targets"] = {
+									["Тренировочный манекен покорителя подземелий"] = 9477,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 6769,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 6,
+								["total"] = 9477,
+								["c_max"] = 2708,
+								["id"] = 202497,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 5,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[279729] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 632,
+								["targets"] = {
+									["Тренировочный манекен покорителя подземелий"] = 3791,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 3791,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 6,
+								["total"] = 3791,
+								["c_max"] = 0,
+								["id"] = 279729,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 6,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["grupo"] = true,
+					["on_hold"] = false,
+					["spec"] = 102,
+					["serial"] = "Player-1615-04E0AB42",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1537499240,
+					["delay"] = 0,
+					["damage_taken"] = 0.020258,
+				}, -- [1]
 			},
 		}, -- [1]
 		{
 			["tipo"] = 3,
 			["_ActorTable"] = {
+				{
+					["flag_original"] = 1297,
+					["totalabsorb"] = 0.012364,
+					["last_hps"] = 0,
+					["targets_overheal"] = {
+						["Царева"] = 9785,
+					},
+					["targets"] = {
+					},
+					["spells"] = {
+						["tipo"] = 3,
+						["_ActorTable"] = {
+							[276210] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+									["Царева"] = 9785,
+								},
+								["n_max"] = 0,
+								["targets"] = {
+									["Царева"] = 0,
+								},
+								["n_min"] = 0,
+								["counter"] = 1,
+								["overheal"] = 9785,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 276210,
+								["targets_absorbs"] = {
+								},
+								["c_curado"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["n_curado"] = 0,
+								["n_amt"] = 1,
+								["totaldenied"] = 0,
+								["m_healed"] = 0,
+								["absorbed"] = 0,
+							},
+						},
+					},
+					["pets"] = {
+					},
+					["totalover_without_pet"] = 0.012364,
+					["healing_from"] = {
+					},
+					["heal_enemy_amt"] = 0,
+					["totalover"] = 9785.012364,
+					["total_without_pet"] = 0.012364,
+					["end_time"] = 1537499287,
+					["iniciar_hps"] = false,
+					["classe"] = "DRUID",
+					["total"] = 0.012364,
+					["healing_taken"] = 0.012364,
+					["start_time"] = 1537499283,
+					["nome"] = "Царева",
+					["targets_absorbs"] = {
+					},
+					["grupo"] = true,
+					["spec"] = 102,
+					["heal_enemy"] = {
+					},
+					["serial"] = "Player-1615-04E0AB42",
+					["custom"] = 0,
+					["tipo"] = 2,
+					["on_hold"] = false,
+					["totaldenied"] = 0.012364,
+					["delay"] = 0,
+					["last_event"] = 0,
+				}, -- [1]
 			},
 		}, -- [2]
 		{
@@ -284,6 +2213,106 @@ _detalhes_database = {
 		{
 			["tipo"] = 9,
 			["_ActorTable"] = {
+				{
+					["flag_original"] = 1047,
+					["nome"] = "Царева",
+					["buff_uptime_targets"] = {
+					},
+					["spec"] = 102,
+					["grupo"] = true,
+					["pets"] = {
+					},
+					["classe"] = "DRUID",
+					["buff_uptime"] = 134,
+					["tipo"] = 4,
+					["spell_cast"] = {
+						[190984] = 7,
+						[8921] = 1,
+						[93402] = 2,
+						[194153] = 5,
+						[78674] = 2,
+					},
+					["buff_uptime_spells"] = {
+						["tipo"] = 9,
+						["_ActorTable"] = {
+							[276204] = {
+								["refreshamt"] = 0,
+								["appliedamt"] = 1,
+								["activedamt"] = 1,
+								["uptime"] = 0,
+								["id"] = 276204,
+								["actived_at"] = 1537499261,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[191034] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 191034,
+								["uptime"] = 2,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[164547] = {
+								["actived_at"] = 1537499289,
+								["refreshamt"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 164547,
+								["uptime"] = 0,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[227723] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 4,
+								["appliedamt"] = 4,
+								["id"] = 227723,
+								["uptime"] = 44,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[24858] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 4,
+								["appliedamt"] = 4,
+								["id"] = 24858,
+								["uptime"] = 44,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[276207] = {
+								["refreshamt"] = 0,
+								["appliedamt"] = 2,
+								["activedamt"] = 2,
+								["uptime"] = 0,
+								["id"] = 276207,
+								["actived_at"] = 3074998605,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[186406] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 4,
+								["appliedamt"] = 4,
+								["id"] = 186406,
+								["uptime"] = 44,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+						},
+					},
+					["serial"] = "Player-1615-04E0AB42",
+					["last_event"] = 0,
+				}, -- [1]
 			},
 		}, -- [4]
 		{
@@ -297,50 +2326,31 @@ _detalhes_database = {
 		},
 		["alternate_power"] = {
 		},
-		["combat_counter"] = 1234,
+		["combat_counter"] = 1506,
 		["totals"] = {
-			0, -- [1]
-			0, -- [2]
+			148199.029012, -- [1]
+			0.004871, -- [2]
 			{
 				0, -- [1]
 				[0] = 0,
 				["alternatepower"] = 0,
-				[6] = 0,
 				[3] = 0,
+				[6] = 0,
 			}, -- [3]
 			{
 				["buff_uptime"] = 0,
 				["ress"] = 0,
-				["dead"] = 0,
-				["cc_break"] = 0,
-				["interrupt"] = 0,
 				["debuff_uptime"] = 0,
-				["dispell"] = 0,
 				["cooldowns_defensive"] = 0,
+				["interrupt"] = 0,
+				["dispell"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
 			}, -- [4]
-			["voidzone_damage"] = 0,
 			["frags_total"] = 0,
+			["voidzone_damage"] = 0,
 		},
-		["totals_grupo"] = {
-			0, -- [1]
-			0, -- [2]
-			{
-				0, -- [1]
-				[0] = 0,
-				["alternatepower"] = 0,
-				[6] = 0,
-				[3] = 0,
-			}, -- [3]
-			{
-				["buff_uptime"] = 0,
-				["ress"] = 0,
-				["dead"] = 0,
-				["cc_break"] = 0,
-				["interrupt"] = 0,
-				["debuff_uptime"] = 0,
-				["dispell"] = 0,
-				["cooldowns_defensive"] = 0,
-			}, -- [4]
+		["player_last_events"] = {
 		},
 		["frags_need_refresh"] = false,
 		["__call"] = {
@@ -350,42 +2360,90 @@ _detalhes_database = {
 				1, -- [1]
 				1, -- [2]
 			}, -- [1]
-			["damage"] = {
-			},
 			["heal_section"] = {
 			},
 			["heal"] = {
 			},
 			["damage_section"] = {
 			},
+			["damage"] = {
+			},
 		},
-		["hasSaved"] = true,
+		["end_time"] = 444964.349,
+		["data_inicio"] = "06:07:41",
 		["frags"] = {
 		},
-		["data_fim"] = 0,
-		["overall_refreshed"] = true,
+		["data_fim"] = "06:08:38",
+		["overall_enemy_name"] = "-- x -- x --",
 		["CombatSkillCache"] = {
 		},
-		["player_last_events"] = {
+		["segments_added"] = {
+			{
+				["elapsed"] = 1.25199999997858,
+				["type"] = 0,
+				["name"] = "Эльфийский кролик",
+				["clock"] = "06:08:37",
+			}, -- [1]
+			{
+				["elapsed"] = 1.00500000000466,
+				["type"] = 0,
+				["name"] = "Тренировочный манекен покорителя подземелий",
+				["clock"] = "06:08:25",
+			}, -- [2]
+			{
+				["elapsed"] = 14.1769999999669,
+				["type"] = 0,
+				["name"] = "Тренировочный манекен покорителя подземелий",
+				["clock"] = "06:08:09",
+			}, -- [3]
+			{
+				["elapsed"] = 26.689000000013,
+				["type"] = 0,
+				["name"] = "Тренировочный манекен покорителя подземелий",
+				["clock"] = "06:07:41",
+			}, -- [4]
 		},
-		["start_time"] = 0,
+		["start_time"] = 444921.226,
 		["TimeData"] = {
 			["Raid Damage Done"] = {
 			},
 		},
-		["data_inicio"] = 0,
+		["totals_grupo"] = {
+			148199.014152, -- [1]
+			0.004871, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				["alternatepower"] = 0,
+				[3] = 0,
+				[6] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["debuff_uptime"] = 0,
+				["cooldowns_defensive"] = 0,
+				["interrupt"] = 0,
+				["dispell"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
+		},
 	},
-	["SoloTablesSaved"] = {
-		["Mode"] = 1,
+	["announce_firsthit"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
 	},
-	["character_data"] = {
-		["logons"] = 63,
+	["announce_prepots"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+		["reverse"] = false,
 	},
-	["last_day"] = "05",
+	["combat_counter"] = 1510,
 	["announce_cooldowns"] = {
-		["enabled"] = false,
 		["ignored_cooldowns"] = {
 		},
+		["enabled"] = false,
 		["custom"] = "",
 		["channel"] = "RAID",
 	},
@@ -398,6 +2456,6 @@ _detalhes_database = {
 		["channel"] = "SELF",
 	},
 	["cached_specs"] = {
-		["Player-1615-04E0AB42"] = 104,
+		["Player-1615-04E0AB42"] = 102,
 	},
 }

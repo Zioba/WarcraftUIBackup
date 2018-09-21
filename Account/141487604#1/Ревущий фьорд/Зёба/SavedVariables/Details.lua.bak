@@ -2,4322 +2,14 @@
 _detalhes_database = {
 	["savedbuffs"] = {
 	},
-	["mythic_dungeon_id"] = 24,
+	["mythic_dungeon_id"] = 35,
 	["tabela_historico"] = {
 		["tabelas"] = {
-			{
-				{
-					["combatId"] = 6,
-					["tipo"] = 2,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.00706,
-							["spec"] = 73,
-							["damage_from"] = {
-								["Порабощенный проклятием арбалетчик"] = true,
-								["Порабощенный проклятием солдат"] = true,
-								["Разъяренный дух"] = true,
-								["Плетеный охотник"] = true,
-							},
-							["targets"] = {
-							},
-							["pets"] = {
-							},
-							["on_hold"] = false,
-							["end_time"] = 1536622872,
-							["classe"] = "WARRIOR",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.00706,
-							["avoidance"] = {
-								["Порабощенный проклятием солдат"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 551,
-									["BLOCKED_HITS"] = 1,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 2,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 0,
-									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 2,
-									["HITS"] = 2,
-									["FULL_HIT_AMT"] = 2531,
-								},
-								["overall"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 551,
-									["BLOCKED_HITS"] = 1,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 11,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 0,
-									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 11,
-									["HITS"] = 7,
-									["FULL_HIT_AMT"] = 19674,
-								},
-								["Плетеный охотник"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 1,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 0,
-									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 1,
-									["HITS"] = 1,
-									["FULL_HIT_AMT"] = 1119,
-								},
-								["Порабощенный проклятием арбалетчик"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 2,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 0,
-									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 2,
-									["HITS"] = 0,
-									["FULL_HIT_AMT"] = 4951,
-								},
-								["Разъяренный дух"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 6,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 0,
-									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 6,
-									["HITS"] = 4,
-									["FULL_HIT_AMT"] = 11073,
-								},
-							},
-							["isTank"] = true,
-							["dps_started"] = false,
-							["total"] = 0.00706,
-							["friendlyfire"] = {
-							},
-							["friendlyfire_total"] = 0,
-							["nome"] = "Зёба",
-							["spells"] = {
-								["tipo"] = 2,
-								["_ActorTable"] = {
-								},
-							},
-							["grupo"] = true,
-							["serial"] = "Player-1615-04A78E52",
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["last_event"] = 0,
-							["damage_taken"] = 19674.00706,
-							["start_time"] = 1536622872,
-							["delay"] = 0,
-							["tipo"] = 1,
-						}, -- [1]
-					},
-				}, -- [1]
-				{
-					["combatId"] = 6,
-					["tipo"] = 3,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["targets_overheal"] = {
-								["Зёба"] = 2612,
-							},
-							["pets"] = {
-							},
-							["iniciar_hps"] = false,
-							["classe"] = "WARRIOR",
-							["totalover"] = 2612.007862,
-							["total_without_pet"] = 7965.007862,
-							["total"] = 7965.007862,
-							["targets_absorbs"] = {
-							},
-							["heal_enemy"] = {
-							},
-							["on_hold"] = false,
-							["isTank"] = true,
-							["serial"] = "Player-1615-04A78E52",
-							["totalabsorb"] = 0.007862,
-							["last_hps"] = 0,
-							["targets"] = {
-								["Зёба"] = 10577,
-							},
-							["totalover_without_pet"] = 0.007862,
-							["healing_taken"] = 10653.007862,
-							["fight_component"] = true,
-							["end_time"] = 1536622872,
-							["healing_from"] = {
-								["Зёба"] = true,
-								["Тотем исцеляющего потока <Krysdefoie-Hyjal>"] = true,
-							},
-							["nome"] = "Зёба",
-							["spells"] = {
-								["tipo"] = 3,
-								["_ActorTable"] = {
-									[270117] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Зёба"] = 2612,
-										},
-										["n_max"] = 2465,
-										["targets"] = {
-											["Зёба"] = 5133,
-										},
-										["n_min"] = 1119,
-										["counter"] = 3,
-										["overheal"] = 2612,
-										["total"] = 5133,
-										["c_max"] = 0,
-										["id"] = 270117,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 5133,
-										["n_amt"] = 3,
-										["totaldenied"] = 0,
-										["m_healed"] = 0,
-										["absorbed"] = 0,
-									},
-									[276205] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-										},
-										["n_max"] = 2832,
-										["targets"] = {
-											["Зёба"] = 2832,
-										},
-										["n_min"] = 2832,
-										["counter"] = 1,
-										["overheal"] = 0,
-										["total"] = 2832,
-										["c_max"] = 0,
-										["id"] = 276205,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 2832,
-										["n_amt"] = 1,
-										["totaldenied"] = 0,
-										["m_healed"] = 0,
-										["absorbed"] = 0,
-									},
-								},
-							},
-							["grupo"] = true,
-							["heal_enemy_amt"] = 0,
-							["start_time"] = 1536622853,
-							["custom"] = 0,
-							["tipo"] = 2,
-							["spec"] = 73,
-							["totaldenied"] = 0.007862,
-							["delay"] = 1536622834,
-							["last_event"] = 1536622864,
-						}, -- [1]
-					},
-				}, -- [2]
-				{
-					["combatId"] = 6,
-					["tipo"] = 7,
-					["_ActorTable"] = {
-						{
-							["received"] = 18.006041,
-							["resource"] = 0.006041,
-							["targets"] = {
-								["Зёба"] = 18,
-							},
-							["pets"] = {
-							},
-							["powertype"] = 0,
-							["classe"] = "WARRIOR",
-							["fight_component"] = true,
-							["total"] = 18.006041,
-							["nome"] = "Зёба",
-							["spec"] = 73,
-							["grupo"] = true,
-							["spells"] = {
-								["tipo"] = 7,
-								["_ActorTable"] = {
-									[195707] = {
-										["id"] = 195707,
-										["total"] = 18,
-										["targets"] = {
-											["Зёба"] = 18,
-										},
-										["counter"] = 6,
-									},
-								},
-							},
-							["flag_original"] = 1297,
-							["last_event"] = 1536622861,
-							["alternatepower"] = 0.006041,
-							["isTank"] = true,
-							["serial"] = "Player-1615-04A78E52",
-							["tipo"] = 3,
-						}, -- [1]
-					},
-				}, -- [3]
-				{
-					["combatId"] = 6,
-					["tipo"] = 9,
-					["_ActorTable"] = {
-						{
-							["fight_component"] = true,
-							["flag_original"] = 1047,
-							["buff_uptime_targets"] = {
-							},
-							["spec"] = 73,
-							["grupo"] = true,
-							["nome"] = "Зёба",
-							["buff_uptime"] = 368,
-							["pets"] = {
-							},
-							["buff_uptime_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[32216] = {
-										["activedamt"] = 1,
-										["id"] = 32216,
-										["targets"] = {
-										},
-										["uptime"] = 4,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[264408] = {
-										["activedamt"] = 1,
-										["id"] = 264408,
-										["targets"] = {
-										},
-										["uptime"] = 38,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[143625] = {
-										["activedamt"] = 1,
-										["id"] = 143625,
-										["targets"] = {
-										},
-										["uptime"] = 38,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[256459] = {
-										["activedamt"] = 1,
-										["id"] = 256459,
-										["targets"] = {
-										},
-										["uptime"] = 38,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[276205] = {
-										["activedamt"] = 1,
-										["id"] = 276205,
-										["targets"] = {
-										},
-										["uptime"] = 8,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[202602] = {
-										["activedamt"] = 5,
-										["id"] = 202602,
-										["targets"] = {
-										},
-										["uptime"] = 17,
-										["appliedamt"] = 5,
-										["refreshamt"] = 2,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[127176] = {
-										["activedamt"] = 1,
-										["id"] = 127176,
-										["targets"] = {
-										},
-										["uptime"] = 38,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[281240] = {
-										["activedamt"] = 1,
-										["id"] = 281240,
-										["targets"] = {
-										},
-										["uptime"] = 38,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[276204] = {
-										["activedamt"] = 1,
-										["id"] = 276204,
-										["targets"] = {
-										},
-										["uptime"] = 30,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[269413] = {
-										["activedamt"] = 1,
-										["id"] = 269413,
-										["targets"] = {
-										},
-										["uptime"] = 38,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[275867] = {
-										["activedamt"] = 1,
-										["id"] = 275867,
-										["targets"] = {
-										},
-										["uptime"] = 5,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[269083] = {
-										["activedamt"] = 1,
-										["id"] = 269083,
-										["targets"] = {
-										},
-										["uptime"] = 38,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[6673] = {
-										["activedamt"] = 1,
-										["id"] = 6673,
-										["targets"] = {
-										},
-										["uptime"] = 38,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-								},
-							},
-							["tipo"] = 4,
-							["classe"] = "WARRIOR",
-							["isTank"] = true,
-							["serial"] = "Player-1615-04A78E52",
-							["last_event"] = 1536622872,
-						}, -- [1]
-					},
-				}, -- [4]
-				{
-					["combatId"] = 6,
-					["tipo"] = 2,
-					["_ActorTable"] = {
-					},
-				}, -- [5]
-				["raid_roster"] = {
-					["Зёба"] = true,
-				},
-				["overall_added"] = true,
-				["last_events_tables"] = {
-				},
-				["alternate_power"] = {
-				},
-				["enemy"] = "Плетеный охотник",
-				["combat_counter"] = 9664,
-				["playing_solo"] = true,
-				["totals"] = {
-					-0.0940690000240963, -- [1]
-					7964.96112, -- [2]
-					{
-						0, -- [1]
-						[0] = 17.9602389999999,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = -0.0152559999999999,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-					["frags_total"] = 0,
-					["voidzone_damage"] = 0,
-				},
-				["player_last_events"] = {
-				},
-				["frags_need_refresh"] = true,
-				["__call"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Зёба"] = 7965.007862,
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-					["damage"] = {
-						{
-							["Зёба"] = 0.00706,
-						}, -- [1]
-					},
-				},
-				["end_time"] = 25370.882,
-				["combat_id"] = 6,
-				["instance_type"] = "none",
-				["frags"] = {
-					["Дымчатый волк"] = 1,
-					["Порабощенный проклятием солдат"] = 2,
-					["Проклинательница из ковена"] = 1,
-					["Раскладка-Корольлич"] = 1,
-				},
-				["data_fim"] = "02:41:13",
-				["data_inicio"] = "02:40:35",
-				["CombatSkillCache"] = {
-				},
-				["totals_grupo"] = {
-					0, -- [1]
-					7965, -- [2]
-					{
-						0, -- [1]
-						[0] = 18,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-				},
-				["start_time"] = 25333.471,
-				["contra"] = "Плетеный охотник",
-				["TimeData"] = {
-				},
-			}, -- [1]
-			{
-				{
-					["combatId"] = 5,
-					["tipo"] = 2,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.007409,
-							["damage_from"] = {
-								["Невермор"] = true,
-							},
-							["targets"] = {
-								["Невермор"] = 252758,
-								["Крыса-добытчица"] = 9949,
-							},
-							["spec"] = 73,
-							["pets"] = {
-							},
-							["isTank"] = true,
-							["end_time"] = 1536622818,
-							["classe"] = "WARRIOR",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 262707.007409,
-							["colocacao"] = 1,
-							["avoidance"] = {
-								["overall"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 5397,
-									["BLOCKED_HITS"] = 8,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 20,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 5,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 0,
-									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 20,
-									["HITS"] = 13,
-									["FULL_HIT_AMT"] = 18174,
-								},
-								["Невермор"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 5397,
-									["BLOCKED_HITS"] = 8,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 20,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 5,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 0,
-									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 20,
-									["HITS"] = 13,
-									["FULL_HIT_AMT"] = 18174,
-								},
-							},
-							["dps_started"] = false,
-							["total"] = 262707.007409,
-							["friendlyfire_total"] = 0,
-							["friendlyfire"] = {
-							},
-							["nome"] = "Зёба",
-							["spells"] = {
-								["tipo"] = 2,
-								["_ActorTable"] = {
-									{
-										["c_amt"] = 5,
-										["b_amt"] = 1,
-										["c_dmg"] = 24962,
-										["g_amt"] = 0,
-										["n_max"] = 3106,
-										["targets"] = {
-											["Невермор"] = 64799,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 39837,
-										["n_min"] = 2092,
-										["g_dmg"] = 0,
-										["counter"] = 20,
-										["total"] = 64799,
-										["c_max"] = 6184,
-										["id"] = 1,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 2092,
-										["n_amt"] = 15,
-										["r_amt"] = 0,
-										["c_min"] = 4472,
-									}, -- [1]
-									[6572] = {
-										["c_amt"] = 2,
-										["b_amt"] = 0,
-										["c_dmg"] = 14098,
-										["g_amt"] = 0,
-										["n_max"] = 3543,
-										["targets"] = {
-											["Невермор"] = 34509,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 20411,
-										["n_min"] = 2492,
-										["g_dmg"] = 0,
-										["counter"] = 9,
-										["total"] = 34509,
-										["c_max"] = 7085,
-										["id"] = 6572,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 7,
-										["r_amt"] = 0,
-										["c_min"] = 7013,
-									},
-									[115767] = {
-										["c_amt"] = 2,
-										["b_amt"] = 0,
-										["c_dmg"] = 4790,
-										["g_amt"] = 0,
-										["n_max"] = 1300,
-										["targets"] = {
-											["Невермор"] = 18056,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 13266,
-										["n_min"] = 1086,
-										["g_dmg"] = 0,
-										["counter"] = 13,
-										["total"] = 18056,
-										["c_max"] = 2574,
-										["id"] = 115767,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 11,
-										["r_amt"] = 0,
-										["c_min"] = 2216,
-									},
-									[269031] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 1074,
-										["targets"] = {
-											["Невермор"] = 2148,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 2148,
-										["n_min"] = 1074,
-										["g_dmg"] = 0,
-										["counter"] = 2,
-										["total"] = 2148,
-										["c_max"] = 0,
-										["id"] = 269031,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 2,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[6343] = {
-										["c_amt"] = 2,
-										["b_amt"] = 0,
-										["c_dmg"] = 22381,
-										["g_amt"] = 0,
-										["n_max"] = 9949,
-										["targets"] = {
-											["Невермор"] = 64314,
-											["Крыса-добытчица"] = 9949,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 51882,
-										["n_min"] = 2925,
-										["g_dmg"] = 0,
-										["counter"] = 10,
-										["total"] = 74263,
-										["c_max"] = 16470,
-										["id"] = 6343,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 8,
-										["r_amt"] = 0,
-										["c_min"] = 5911,
-									},
-									[20243] = {
-										["c_amt"] = 2,
-										["b_amt"] = 0,
-										["c_dmg"] = 8701,
-										["g_amt"] = 0,
-										["n_max"] = 2061,
-										["targets"] = {
-											["Невермор"] = 10762,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 2061,
-										["n_min"] = 2061,
-										["g_dmg"] = 0,
-										["counter"] = 3,
-										["total"] = 10762,
-										["c_max"] = 5045,
-										["id"] = 20243,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
-										["c_min"] = 3656,
-									},
-									[23922] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 8481,
-										["targets"] = {
-											["Невермор"] = 58170,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 58170,
-										["n_min"] = 4848,
-										["g_dmg"] = 0,
-										["counter"] = 9,
-										["total"] = 58170,
-										["c_max"] = 0,
-										["id"] = 23922,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 9,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-								},
-							},
-							["grupo"] = true,
-							["on_hold"] = false,
-							["serial"] = "Player-1615-04A78E52",
-							["last_dps"] = 5898.49134242663,
-							["custom"] = 0,
-							["last_event"] = 1536622817,
-							["damage_taken"] = 18174.007409,
-							["start_time"] = 1536622775,
-							["delay"] = 0,
-							["tipo"] = 1,
-						}, -- [1]
-					},
-				}, -- [1]
-				{
-					["combatId"] = 5,
-					["tipo"] = 3,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["targets_overheal"] = {
-								["Зёба"] = 25241,
-							},
-							["pets"] = {
-							},
-							["iniciar_hps"] = false,
-							["classe"] = "WARRIOR",
-							["totalover"] = 25241.004966,
-							["total_without_pet"] = 18414.004966,
-							["total"] = 18414.004966,
-							["targets_absorbs"] = {
-							},
-							["heal_enemy"] = {
-							},
-							["on_hold"] = false,
-							["isTank"] = true,
-							["serial"] = "Player-1615-04A78E52",
-							["totalabsorb"] = 0.004966,
-							["last_hps"] = 0,
-							["targets"] = {
-								["Зёба"] = 35161,
-							},
-							["totalover_without_pet"] = 0.004966,
-							["healing_taken"] = 18414.004966,
-							["fight_component"] = true,
-							["end_time"] = 1536622818,
-							["healing_from"] = {
-								["Зёба"] = true,
-							},
-							["nome"] = "Зёба",
-							["spells"] = {
-								["tipo"] = 3,
-								["_ActorTable"] = {
-									[276211] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Зёба"] = 6808,
-										},
-										["n_max"] = 4516,
-										["targets"] = {
-											["Зёба"] = 4516,
-										},
-										["n_min"] = 4516,
-										["counter"] = 1,
-										["overheal"] = 6808,
-										["total"] = 4516,
-										["c_max"] = 0,
-										["id"] = 276211,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 4516,
-										["n_amt"] = 1,
-										["totaldenied"] = 0,
-										["m_healed"] = 0,
-										["absorbed"] = 0,
-									},
-									[276206] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Зёба"] = 8494,
-										},
-										["n_max"] = 0,
-										["targets"] = {
-											["Зёба"] = 0,
-										},
-										["n_min"] = 0,
-										["counter"] = 2,
-										["overheal"] = 8494,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 276206,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 0,
-										["n_amt"] = 2,
-										["totaldenied"] = 0,
-										["m_healed"] = 0,
-										["absorbed"] = 0,
-									},
-									[143924] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Зёба"] = 107,
-										},
-										["n_max"] = 217,
-										["targets"] = {
-											["Зёба"] = 2044,
-										},
-										["n_min"] = 52,
-										["counter"] = 16,
-										["overheal"] = 107,
-										["total"] = 2044,
-										["c_max"] = 0,
-										["id"] = 143924,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 2044,
-										["n_amt"] = 16,
-										["totaldenied"] = 0,
-										["m_healed"] = 0,
-										["absorbed"] = 0,
-									},
-									[270117] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Зёба"] = 9832,
-										},
-										["n_max"] = 3098,
-										["targets"] = {
-											["Зёба"] = 11854,
-										},
-										["n_min"] = 798,
-										["counter"] = 7,
-										["overheal"] = 9832,
-										["total"] = 11854,
-										["c_max"] = 0,
-										["id"] = 270117,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 11854,
-										["n_amt"] = 7,
-										["totaldenied"] = 0,
-										["m_healed"] = 0,
-										["absorbed"] = 0,
-									},
-								},
-							},
-							["grupo"] = true,
-							["heal_enemy_amt"] = 0,
-							["start_time"] = 1536622773,
-							["custom"] = 0,
-							["tipo"] = 2,
-							["spec"] = 73,
-							["totaldenied"] = 0.004966,
-							["delay"] = 0,
-							["last_event"] = 1536622816,
-						}, -- [1]
-					},
-				}, -- [2]
-				{
-					["combatId"] = 5,
-					["tipo"] = 7,
-					["_ActorTable"] = {
-						{
-							["received"] = 315.004467,
-							["resource"] = 0.004467,
-							["targets"] = {
-								["Зёба"] = 315,
-							},
-							["pets"] = {
-							},
-							["powertype"] = 0,
-							["classe"] = "WARRIOR",
-							["fight_component"] = true,
-							["total"] = 315.004467,
-							["nome"] = "Зёба",
-							["spec"] = 73,
-							["grupo"] = true,
-							["spells"] = {
-								["tipo"] = 7,
-								["_ActorTable"] = {
-									[1160] = {
-										["id"] = 1160,
-										["total"] = 80,
-										["targets"] = {
-											["Зёба"] = 80,
-										},
-										["counter"] = 2,
-									},
-									[6343] = {
-										["id"] = 6343,
-										["total"] = 44,
-										["targets"] = {
-											["Зёба"] = 44,
-										},
-										["counter"] = 9,
-									},
-									[107574] = {
-										["id"] = 107574,
-										["total"] = 20,
-										["targets"] = {
-											["Зёба"] = 20,
-										},
-										["counter"] = 1,
-									},
-									[195707] = {
-										["id"] = 195707,
-										["total"] = 36,
-										["targets"] = {
-											["Зёба"] = 36,
-										},
-										["counter"] = 13,
-									},
-									[23922] = {
-										["id"] = 23922,
-										["total"] = 135,
-										["targets"] = {
-											["Зёба"] = 135,
-										},
-										["counter"] = 9,
-									},
-								},
-							},
-							["flag_original"] = 1297,
-							["last_event"] = 1536622816,
-							["alternatepower"] = 0.004467,
-							["isTank"] = true,
-							["serial"] = "Player-1615-04A78E52",
-							["tipo"] = 3,
-						}, -- [1]
-					},
-				}, -- [3]
-				{
-					["combatId"] = 5,
-					["tipo"] = 9,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1047,
-							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[199042] = {
-										["activedamt"] = 0,
-										["id"] = 199042,
-										["targets"] = {
-										},
-										["uptime"] = 10,
-										["appliedamt"] = 9,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[115767] = {
-										["activedamt"] = 0,
-										["id"] = 115767,
-										["targets"] = {
-										},
-										["uptime"] = 35,
-										["appliedamt"] = 1,
-										["refreshamt"] = 10,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[1160] = {
-										["activedamt"] = 0,
-										["id"] = 1160,
-										["targets"] = {
-										},
-										["uptime"] = 26,
-										["appliedamt"] = 1,
-										["refreshamt"] = 1,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[6343] = {
-										["activedamt"] = 0,
-										["id"] = 6343,
-										["targets"] = {
-										},
-										["uptime"] = 36,
-										["appliedamt"] = 2,
-										["refreshamt"] = 7,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-								},
-							},
-							["buff_uptime"] = 541,
-							["classe"] = "WARRIOR",
-							["interrupt_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[6552] = {
-										["id"] = 6552,
-										["interrompeu_oque"] = {
-											[269797] = 1,
-										},
-										["targets"] = {
-											["Невермор"] = 1,
-										},
-										["counter"] = 1,
-									},
-								},
-							},
-							["buff_uptime_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[143625] = {
-										["activedamt"] = 1,
-										["id"] = 143625,
-										["targets"] = {
-										},
-										["uptime"] = 45,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[276207] = {
-										["activedamt"] = 1,
-										["id"] = 276207,
-										["targets"] = {
-										},
-										["uptime"] = 7,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[275867] = {
-										["activedamt"] = 4,
-										["id"] = 275867,
-										["targets"] = {
-										},
-										["uptime"] = 27,
-										["appliedamt"] = 4,
-										["refreshamt"] = 4,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[6673] = {
-										["activedamt"] = 1,
-										["id"] = 6673,
-										["targets"] = {
-										},
-										["uptime"] = 45,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[256459] = {
-										["activedamt"] = 1,
-										["id"] = 256459,
-										["targets"] = {
-										},
-										["uptime"] = 45,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[269413] = {
-										["activedamt"] = 1,
-										["id"] = 269413,
-										["targets"] = {
-										},
-										["uptime"] = 45,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[107574] = {
-										["activedamt"] = 1,
-										["id"] = 107574,
-										["targets"] = {
-										},
-										["uptime"] = 20,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[281240] = {
-										["activedamt"] = 1,
-										["id"] = 281240,
-										["targets"] = {
-										},
-										["uptime"] = 45,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[5302] = {
-										["activedamt"] = 3,
-										["id"] = 5302,
-										["targets"] = {
-										},
-										["uptime"] = 10,
-										["appliedamt"] = 3,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[276211] = {
-										["activedamt"] = 1,
-										["id"] = 276211,
-										["targets"] = {
-										},
-										["uptime"] = 4,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[264408] = {
-										["activedamt"] = 1,
-										["id"] = 264408,
-										["targets"] = {
-										},
-										["uptime"] = 45,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[276206] = {
-										["activedamt"] = 1,
-										["id"] = 276206,
-										["targets"] = {
-										},
-										["uptime"] = 34,
-										["appliedamt"] = 1,
-										["refreshamt"] = 1,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[271103] = {
-										["activedamt"] = 1,
-										["id"] = 271103,
-										["targets"] = {
-										},
-										["uptime"] = 5,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[170347] = {
-										["activedamt"] = 1,
-										["id"] = 170347,
-										["targets"] = {
-										},
-										["actived_at"] = 1536622773,
-										["uptime"] = 0,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = true,
-										["counter"] = 0,
-									},
-									[271559] = {
-										["activedamt"] = 1,
-										["id"] = 271559,
-										["targets"] = {
-										},
-										["uptime"] = 10,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[32216] = {
-										["activedamt"] = 1,
-										["id"] = 32216,
-										["targets"] = {
-										},
-										["uptime"] = 1,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[202602] = {
-										["activedamt"] = 1,
-										["id"] = 202602,
-										["targets"] = {
-										},
-										["uptime"] = 45,
-										["appliedamt"] = 1,
-										["refreshamt"] = 1,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[269083] = {
-										["activedamt"] = 1,
-										["id"] = 269083,
-										["targets"] = {
-										},
-										["uptime"] = 45,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[278124] = {
-										["activedamt"] = 1,
-										["id"] = 278124,
-										["targets"] = {
-										},
-										["uptime"] = 39,
-										["appliedamt"] = 1,
-										["refreshamt"] = 8,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[132404] = {
-										["activedamt"] = 4,
-										["id"] = 132404,
-										["targets"] = {
-										},
-										["uptime"] = 24,
-										["appliedamt"] = 4,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-								},
-							},
-							["interrompeu_oque"] = {
-								[269797] = 1,
-							},
-							["fight_component"] = true,
-							["debuff_uptime"] = 107,
-							["interrupt_targets"] = {
-								["Невермор"] = 1,
-							},
-							["interrupt"] = 1.008186,
-							["nome"] = "Зёба",
-							["spec"] = 73,
-							["grupo"] = true,
-							["spell_cast"] = {
-								[20243] = 3,
-								[1160] = 2,
-								[6572] = 9,
-								[6343] = 9,
-								[107574] = 1,
-								[2565] = 4,
-								[6552] = 2,
-								[23922] = 9,
-							},
-							["debuff_uptime_targets"] = {
-							},
-							["buff_uptime_targets"] = {
-							},
-							["last_event"] = 1536622818,
-							["pets"] = {
-							},
-							["isTank"] = true,
-							["serial"] = "Player-1615-04A78E52",
-							["tipo"] = 4,
-						}, -- [1]
-					},
-				}, -- [4]
-				{
-					["combatId"] = 5,
-					["tipo"] = 2,
-					["_ActorTable"] = {
-					},
-				}, -- [5]
-				["raid_roster"] = {
-					["Зёба"] = true,
-				},
-				["overall_added"] = true,
-				["last_events_tables"] = {
-				},
-				["alternate_power"] = {
-				},
-				["enemy"] = "Невермор",
-				["combat_counter"] = 9663,
-				["playing_solo"] = true,
-				["totals"] = {
-					262706.987887, -- [1]
-					18413.997315, -- [2]
-					{
-						4, -- [1]
-						[0] = 310.992989,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0.99262,
-						["dispell"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-					["frags_total"] = 0,
-					["voidzone_damage"] = 0,
-				},
-				["player_last_events"] = {
-				},
-				["frags_need_refresh"] = true,
-				["__call"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Зёба"] = 18414.004966,
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-					["damage"] = {
-						{
-							["Зёба"] = 262707.007409,
-						}, -- [1]
-					},
-				},
-				["end_time"] = 25316.874,
-				["combat_id"] = 5,
-				["instance_type"] = "none",
-				["frags"] = {
-					["Крыса-добытчица"] = 1,
-					["Невермор"] = 1,
-				},
-				["data_fim"] = "02:40:19",
-				["data_inicio"] = "02:39:34",
-				["CombatSkillCache"] = {
-				},
-				["totals_grupo"] = {
-					262707, -- [1]
-					18414, -- [2]
-					{
-						4, -- [1]
-						[0] = 311,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 1,
-						["dispell"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-				},
-				["start_time"] = 25272.336,
-				["contra"] = "Невермор",
-				["TimeData"] = {
-				},
-			}, -- [2]
-			{
-				{
-					["combatId"] = 4,
-					["tipo"] = 2,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.002194,
-							["damage_from"] = {
-								["Ядовитый ткач"] = true,
-							},
-							["targets"] = {
-							},
-							["pets"] = {
-							},
-							["spec"] = 73,
-							["isTank"] = true,
-							["friendlyfire_total"] = 0,
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.002194,
-							["end_time"] = 1536622700,
-							["avoidance"] = {
-								["overall"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 1,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 0,
-									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 1,
-									["HITS"] = 1,
-									["FULL_HIT_AMT"] = 1397,
-								},
-								["Ядовитый ткач"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 1,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 0,
-									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 1,
-									["HITS"] = 1,
-									["FULL_HIT_AMT"] = 1397,
-								},
-							},
-							["dps_started"] = false,
-							["total"] = 0.002194,
-							["classe"] = "WARRIOR",
-							["friendlyfire"] = {
-							},
-							["nome"] = "Зёба",
-							["spells"] = {
-								["tipo"] = 2,
-								["_ActorTable"] = {
-								},
-							},
-							["grupo"] = true,
-							["on_hold"] = false,
-							["serial"] = "Player-1615-04A78E52",
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["tipo"] = 1,
-							["damage_taken"] = 1397.002194,
-							["start_time"] = 1536622700,
-							["delay"] = 0,
-							["last_event"] = 0,
-						}, -- [1]
-					},
-				}, -- [1]
-				{
-					["combatId"] = 4,
-					["tipo"] = 3,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["targets_overheal"] = {
-								["Зёба"] = 7362,
-							},
-							["pets"] = {
-							},
-							["iniciar_hps"] = false,
-							["classe"] = "WARRIOR",
-							["totalover"] = 7362.007868,
-							["total_without_pet"] = 1397.007868,
-							["total"] = 1397.007868,
-							["targets_absorbs"] = {
-							},
-							["heal_enemy"] = {
-							},
-							["on_hold"] = false,
-							["isTank"] = true,
-							["serial"] = "Player-1615-04A78E52",
-							["totalabsorb"] = 0.007868,
-							["last_hps"] = 0,
-							["targets"] = {
-								["Зёба"] = 3098,
-							},
-							["totalover_without_pet"] = 0.007868,
-							["healing_taken"] = 1397.007868,
-							["fight_component"] = true,
-							["end_time"] = 1536622700,
-							["healing_from"] = {
-								["Зёба"] = true,
-							},
-							["nome"] = "Зёба",
-							["spells"] = {
-								["tipo"] = 3,
-								["_ActorTable"] = {
-									[270117] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Зёба"] = 1701,
-										},
-										["n_max"] = 1397,
-										["targets"] = {
-											["Зёба"] = 1397,
-										},
-										["n_min"] = 1397,
-										["counter"] = 1,
-										["overheal"] = 1701,
-										["total"] = 1397,
-										["c_max"] = 0,
-										["id"] = 270117,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 1397,
-										["n_amt"] = 1,
-										["totaldenied"] = 0,
-										["m_healed"] = 0,
-										["absorbed"] = 0,
-									},
-									[276207] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Зёба"] = 5661,
-										},
-										["n_max"] = 0,
-										["targets"] = {
-											["Зёба"] = 0,
-										},
-										["n_min"] = 0,
-										["counter"] = 1,
-										["overheal"] = 5661,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 276207,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 0,
-										["n_amt"] = 1,
-										["totaldenied"] = 0,
-										["m_healed"] = 0,
-										["absorbed"] = 0,
-									},
-								},
-							},
-							["grupo"] = true,
-							["heal_enemy_amt"] = 0,
-							["start_time"] = 1536622689,
-							["custom"] = 0,
-							["tipo"] = 2,
-							["spec"] = 73,
-							["totaldenied"] = 0.007868,
-							["delay"] = 0,
-							["last_event"] = 1536622692,
-						}, -- [1]
-					},
-				}, -- [2]
-				{
-					["combatId"] = 4,
-					["tipo"] = 7,
-					["_ActorTable"] = {
-						{
-							["received"] = 3.004786,
-							["resource"] = 0.004786,
-							["targets"] = {
-								["Зёба"] = 3,
-							},
-							["pets"] = {
-							},
-							["powertype"] = 0,
-							["classe"] = "WARRIOR",
-							["fight_component"] = true,
-							["total"] = 3.004786,
-							["nome"] = "Зёба",
-							["spec"] = 73,
-							["grupo"] = true,
-							["spells"] = {
-								["tipo"] = 7,
-								["_ActorTable"] = {
-									[195707] = {
-										["id"] = 195707,
-										["total"] = 3,
-										["targets"] = {
-											["Зёба"] = 3,
-										},
-										["counter"] = 1,
-									},
-								},
-							},
-							["flag_original"] = 1297,
-							["last_event"] = 1536622689,
-							["alternatepower"] = 0.004786,
-							["isTank"] = true,
-							["serial"] = "Player-1615-04A78E52",
-							["tipo"] = 3,
-						}, -- [1]
-					},
-				}, -- [3]
-				{
-					["combatId"] = 4,
-					["tipo"] = 9,
-					["_ActorTable"] = {
-						{
-							["fight_component"] = true,
-							["flag_original"] = 1047,
-							["buff_uptime_targets"] = {
-							},
-							["spec"] = 73,
-							["grupo"] = true,
-							["nome"] = "Зёба",
-							["buff_uptime"] = 101,
-							["pets"] = {
-							},
-							["buff_uptime_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[170347] = {
-										["activedamt"] = 1,
-										["id"] = 170347,
-										["targets"] = {
-										},
-										["uptime"] = 11,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[264408] = {
-										["activedamt"] = 1,
-										["id"] = 264408,
-										["targets"] = {
-										},
-										["uptime"] = 11,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[143625] = {
-										["activedamt"] = 1,
-										["id"] = 143625,
-										["targets"] = {
-										},
-										["uptime"] = 11,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[256459] = {
-										["activedamt"] = 1,
-										["id"] = 256459,
-										["targets"] = {
-										},
-										["uptime"] = 11,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[276207] = {
-										["activedamt"] = 1,
-										["id"] = 276207,
-										["targets"] = {
-										},
-										["uptime"] = 8,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[281240] = {
-										["activedamt"] = 1,
-										["id"] = 281240,
-										["targets"] = {
-										},
-										["uptime"] = 11,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[276204] = {
-										["activedamt"] = 1,
-										["id"] = 276204,
-										["targets"] = {
-										},
-										["uptime"] = 3,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[269413] = {
-										["activedamt"] = 1,
-										["id"] = 269413,
-										["targets"] = {
-										},
-										["uptime"] = 11,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[202602] = {
-										["activedamt"] = 1,
-										["id"] = 202602,
-										["targets"] = {
-										},
-										["uptime"] = 2,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[269083] = {
-										["activedamt"] = 1,
-										["id"] = 269083,
-										["targets"] = {
-										},
-										["uptime"] = 11,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[6673] = {
-										["activedamt"] = 1,
-										["id"] = 6673,
-										["targets"] = {
-										},
-										["uptime"] = 11,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-								},
-							},
-							["tipo"] = 4,
-							["classe"] = "WARRIOR",
-							["isTank"] = true,
-							["serial"] = "Player-1615-04A78E52",
-							["last_event"] = 1536622700,
-						}, -- [1]
-					},
-				}, -- [4]
-				{
-					["combatId"] = 4,
-					["tipo"] = 2,
-					["_ActorTable"] = {
-					},
-				}, -- [5]
-				["raid_roster"] = {
-					["Зёба"] = true,
-				},
-				["overall_added"] = true,
-				["last_events_tables"] = {
-				},
-				["alternate_power"] = {
-				},
-				["enemy"] = "Ядовитый ткач",
-				["combat_counter"] = 9662,
-				["playing_solo"] = true,
-				["totals"] = {
-					-0.0360259999989719, -- [1]
-					1397, -- [2]
-					{
-						0, -- [1]
-						[0] = -2.023258,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 5,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-					["frags_total"] = 0,
-					["voidzone_damage"] = 0,
-				},
-				["player_last_events"] = {
-				},
-				["frags_need_refresh"] = false,
-				["__call"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Зёба"] = 1397.007868,
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-					["damage"] = {
-						{
-							["Зёба"] = 0.002194,
-						}, -- [1]
-					},
-				},
-				["end_time"] = 25199.387,
-				["combat_id"] = 4,
-				["instance_type"] = "none",
-				["frags"] = {
-				},
-				["data_fim"] = "02:38:21",
-				["data_inicio"] = "02:38:10",
-				["CombatSkillCache"] = {
-				},
-				["totals_grupo"] = {
-					0, -- [1]
-					1397, -- [2]
-					{
-						0, -- [1]
-						[0] = 3,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-				},
-				["start_time"] = 25188.384,
-				["contra"] = "Ядовитый ткач",
-				["TimeData"] = {
-				},
-			}, -- [3]
-			{
-				{
-					["combatId"] = 3,
-					["tipo"] = 2,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.003155,
-							["damage_from"] = {
-								["Ученик жрецов моря"] = true,
-								["Сердитый морской лев"] = true,
-								["Скованный элементаль"] = true,
-								["Усиленный элементаль"] = true,
-							},
-							["targets"] = {
-								["Ученик жрецов моря"] = 2590,
-								["Сердитый морской лев"] = 111607,
-							},
-							["spec"] = 73,
-							["pets"] = {
-							},
-							["friendlyfire"] = {
-							},
-							["colocacao"] = 1,
-							["classe"] = "WARRIOR",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 114197.003155,
-							["avoidance"] = {
-								["Ученик жрецов моря"] = {
-									["DODGE"] = 1,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 20,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 0,
-									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 20,
-									["HITS"] = 5,
-									["FULL_HIT_AMT"] = 92880,
-								},
-								["overall"] = {
-									["DODGE"] = 1,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 4007,
-									["BLOCKED_HITS"] = 6,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 40,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 3,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 0,
-									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 40,
-									["HITS"] = 16,
-									["FULL_HIT_AMT"] = 167457,
-								},
-								["Усиленный элементаль"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 5,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 0,
-									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 5,
-									["HITS"] = 3,
-									["FULL_HIT_AMT"] = 40948,
-								},
-								["Сердитый морской лев"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 3203,
-									["BLOCKED_HITS"] = 5,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 11,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 3,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 0,
-									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 11,
-									["HITS"] = 7,
-									["FULL_HIT_AMT"] = 14810,
-								},
-								["Скованный элементаль"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 804,
-									["BLOCKED_HITS"] = 1,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 4,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 0,
-									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 4,
-									["HITS"] = 1,
-									["FULL_HIT_AMT"] = 18819,
-								},
-							},
-							["isTank"] = true,
-							["dps_started"] = false,
-							["end_time"] = 1536622563,
-							["friendlyfire_total"] = 0,
-							["total"] = 114197.003155,
-							["nome"] = "Зёба",
-							["spells"] = {
-								["tipo"] = 2,
-								["_ActorTable"] = {
-									{
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 7134,
-										["g_amt"] = 0,
-										["n_max"] = 3442,
-										["targets"] = {
-											["Сердитый морской лев"] = 17191,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 10057,
-										["n_min"] = 3266,
-										["g_dmg"] = 0,
-										["counter"] = 4,
-										["total"] = 17191,
-										["c_max"] = 7134,
-										["id"] = 1,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 3,
-										["r_amt"] = 0,
-										["c_min"] = 7134,
-									}, -- [1]
-									[269031] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 1256,
-										["targets"] = {
-											["Ученик жрецов моря"] = 1256,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 1256,
-										["n_min"] = 1256,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 1256,
-										["c_max"] = 0,
-										["id"] = 269031,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[46968] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 852,
-										["g_amt"] = 0,
-										["n_max"] = 445,
-										["targets"] = {
-											["Ученик жрецов моря"] = 1334,
-											["Сердитый морской лев"] = 1270,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 1752,
-										["n_min"] = 418,
-										["g_dmg"] = 0,
-										["counter"] = 5,
-										["total"] = 2604,
-										["c_max"] = 852,
-										["id"] = 46968,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 4,
-										["r_amt"] = 0,
-										["c_min"] = 852,
-									},
-									[6343] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 18458,
-										["g_amt"] = 0,
-										["n_max"] = 9215,
-										["targets"] = {
-											["Сердитый морской лев"] = 63532,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 45074,
-										["n_min"] = 8798,
-										["g_dmg"] = 0,
-										["counter"] = 6,
-										["total"] = 63532,
-										["c_max"] = 18458,
-										["id"] = 6343,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 5,
-										["r_amt"] = 0,
-										["c_min"] = 18458,
-									},
-									[115767] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 1443,
-										["targets"] = {
-											["Сердитый морской лев"] = 4301,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 4301,
-										["n_min"] = 1428,
-										["g_dmg"] = 0,
-										["counter"] = 3,
-										["total"] = 4301,
-										["c_max"] = 0,
-										["id"] = 115767,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 3,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[20243] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 5831,
-										["g_amt"] = 0,
-										["n_max"] = 0,
-										["targets"] = {
-											["Сердитый морской лев"] = 5831,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 0,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 5831,
-										["c_max"] = 5831,
-										["id"] = 20243,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 0,
-										["r_amt"] = 0,
-										["c_min"] = 5831,
-									},
-									[6572] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 3972,
-										["targets"] = {
-											["Сердитый морской лев"] = 19482,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 19482,
-										["n_min"] = 3858,
-										["g_dmg"] = 0,
-										["counter"] = 5,
-										["total"] = 19482,
-										["c_max"] = 0,
-										["id"] = 6572,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 5,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-								},
-							},
-							["grupo"] = true,
-							["on_hold"] = false,
-							["serial"] = "Player-1615-04A78E52",
-							["last_dps"] = 1848.41623079903,
-							["custom"] = 0,
-							["last_event"] = 1536622563,
-							["damage_taken"] = 167457.003155,
-							["start_time"] = 1536622555,
-							["delay"] = 1536622535,
-							["tipo"] = 1,
-						}, -- [1]
-					},
-				}, -- [1]
-				{
-					["combatId"] = 3,
-					["tipo"] = 3,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["targets_overheal"] = {
-								["Зёба"] = 23962,
-							},
-							["pets"] = {
-							},
-							["iniciar_hps"] = false,
-							["classe"] = "WARRIOR",
-							["totalover"] = 23962.001561,
-							["total_without_pet"] = 30432.001561,
-							["total"] = 30432.001561,
-							["targets_absorbs"] = {
-							},
-							["heal_enemy"] = {
-							},
-							["on_hold"] = false,
-							["isTank"] = true,
-							["serial"] = "Player-1615-04A78E52",
-							["totalabsorb"] = 0.001561,
-							["last_hps"] = 0,
-							["targets"] = {
-								["Зёба"] = 37409,
-							},
-							["totalover_without_pet"] = 0.001561,
-							["healing_taken"] = 162114.001561,
-							["fight_component"] = true,
-							["end_time"] = 1536622563,
-							["healing_from"] = {
-								["Зёба"] = true,
-								["[*] Азерит"] = true,
-							},
-							["nome"] = "Зёба",
-							["spells"] = {
-								["tipo"] = 3,
-								["_ActorTable"] = {
-									[276211] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Зёба"] = 11324,
-										},
-										["n_max"] = 0,
-										["targets"] = {
-											["Зёба"] = 0,
-										},
-										["n_min"] = 0,
-										["counter"] = 1,
-										["overheal"] = 11324,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 276211,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 0,
-										["n_amt"] = 1,
-										["totaldenied"] = 0,
-										["m_healed"] = 0,
-										["absorbed"] = 0,
-									},
-									[276207] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Зёба"] = 5661,
-										},
-										["n_max"] = 5661,
-										["targets"] = {
-											["Зёба"] = 5661,
-										},
-										["n_min"] = 5661,
-										["counter"] = 2,
-										["overheal"] = 5661,
-										["total"] = 5661,
-										["c_max"] = 0,
-										["id"] = 276207,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 5661,
-										["n_amt"] = 2,
-										["totaldenied"] = 0,
-										["m_healed"] = 0,
-										["absorbed"] = 0,
-									},
-									[143924] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-										},
-										["n_max"] = 225,
-										["targets"] = {
-											["Зёба"] = 521,
-										},
-										["n_min"] = 26,
-										["counter"] = 4,
-										["overheal"] = 0,
-										["total"] = 521,
-										["c_max"] = 0,
-										["id"] = 143924,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 521,
-										["n_amt"] = 4,
-										["totaldenied"] = 0,
-										["m_healed"] = 0,
-										["absorbed"] = 0,
-									},
-									[270117] = {
-										["c_amt"] = 2,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Зёба"] = 6977,
-										},
-										["n_max"] = 3098,
-										["targets"] = {
-											["Зёба"] = 24250,
-										},
-										["n_min"] = 2220,
-										["counter"] = 8,
-										["overheal"] = 6977,
-										["total"] = 24250,
-										["c_max"] = 6320,
-										["id"] = 270117,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 7091,
-										["m_crit"] = 0,
-										["c_min"] = 771,
-										["m_amt"] = 0,
-										["n_curado"] = 17159,
-										["n_amt"] = 6,
-										["totaldenied"] = 0,
-										["m_healed"] = 0,
-										["absorbed"] = 0,
-									},
-								},
-							},
-							["grupo"] = true,
-							["heal_enemy_amt"] = 0,
-							["start_time"] = 1536622511,
-							["custom"] = 0,
-							["tipo"] = 2,
-							["spec"] = 73,
-							["totaldenied"] = 0.001561,
-							["delay"] = 1536622539,
-							["last_event"] = 1536622560,
-						}, -- [1]
-					},
-				}, -- [2]
-				{
-					["combatId"] = 3,
-					["tipo"] = 7,
-					["_ActorTable"] = {
-						{
-							["received"] = 121.001877,
-							["resource"] = 0.001877,
-							["targets"] = {
-								["Зёба"] = 121,
-							},
-							["pets"] = {
-							},
-							["powertype"] = 0,
-							["classe"] = "WARRIOR",
-							["fight_component"] = true,
-							["total"] = 121.001877,
-							["nome"] = "Зёба",
-							["spec"] = 73,
-							["grupo"] = true,
-							["spells"] = {
-								["tipo"] = 7,
-								["_ActorTable"] = {
-									[107574] = {
-										["id"] = 107574,
-										["total"] = 20,
-										["targets"] = {
-											["Зёба"] = 20,
-										},
-										["counter"] = 1,
-									},
-									[6343] = {
-										["id"] = 6343,
-										["total"] = 10,
-										["targets"] = {
-											["Зёба"] = 10,
-										},
-										["counter"] = 2,
-									},
-									[195707] = {
-										["id"] = 195707,
-										["total"] = 51,
-										["targets"] = {
-											["Зёба"] = 51,
-										},
-										["counter"] = 17,
-									},
-									[1160] = {
-										["id"] = 1160,
-										["total"] = 40,
-										["targets"] = {
-											["Зёба"] = 40,
-										},
-										["counter"] = 1,
-									},
-								},
-							},
-							["flag_original"] = 1297,
-							["last_event"] = 1536622560,
-							["alternatepower"] = 0.001877,
-							["isTank"] = true,
-							["serial"] = "Player-1615-04A78E52",
-							["tipo"] = 3,
-						}, -- [1]
-					},
-				}, -- [3]
-				{
-					["combatId"] = 3,
-					["tipo"] = 9,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1047,
-							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[1160] = {
-										["activedamt"] = 0,
-										["id"] = 1160,
-										["targets"] = {
-										},
-										["uptime"] = 9,
-										["appliedamt"] = 2,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[199042] = {
-										["activedamt"] = 0,
-										["id"] = 199042,
-										["targets"] = {
-										},
-										["uptime"] = 4,
-										["appliedamt"] = 6,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[6343] = {
-										["activedamt"] = 0,
-										["id"] = 6343,
-										["targets"] = {
-										},
-										["uptime"] = 8,
-										["appliedamt"] = 2,
-										["refreshamt"] = 4,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[5246] = {
-										["activedamt"] = 0,
-										["id"] = 5246,
-										["targets"] = {
-										},
-										["uptime"] = 8,
-										["appliedamt"] = 2,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[132168] = {
-										["activedamt"] = 0,
-										["id"] = 132168,
-										["targets"] = {
-										},
-										["uptime"] = 4,
-										["appliedamt"] = 5,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[115767] = {
-										["activedamt"] = 0,
-										["id"] = 115767,
-										["targets"] = {
-										},
-										["uptime"] = 6,
-										["appliedamt"] = 2,
-										["refreshamt"] = 3,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-								},
-							},
-							["dispell"] = 2.003649,
-							["buff_uptime"] = 593,
-							["cc_done_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[132168] = {
-										["id"] = 132168,
-										["targets"] = {
-											["Ученик жрецов моря"] = 3,
-											["Сердитый морской лев"] = 2,
-										},
-										["counter"] = 5,
-									},
-									[5246] = {
-										["id"] = 5246,
-										["targets"] = {
-											["Скованный элементаль"] = 1,
-											["Коралловый щелкун"] = 1,
-										},
-										["counter"] = 2,
-									},
-								},
-							},
-							["classe"] = "WARRIOR",
-							["dispell_targets"] = {
-								["Зёба"] = 2,
-							},
-							["buff_uptime_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[143625] = {
-										["activedamt"] = 1,
-										["id"] = 143625,
-										["targets"] = {
-										},
-										["uptime"] = 62,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[275765] = {
-										["activedamt"] = 1,
-										["id"] = 275765,
-										["targets"] = {
-										},
-										["uptime"] = 62,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[276207] = {
-										["activedamt"] = 2,
-										["id"] = 276207,
-										["targets"] = {
-										},
-										["uptime"] = 40,
-										["appliedamt"] = 2,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[275867] = {
-										["activedamt"] = 2,
-										["id"] = 275867,
-										["targets"] = {
-										},
-										["uptime"] = 13,
-										["appliedamt"] = 2,
-										["refreshamt"] = 4,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[6673] = {
-										["activedamt"] = 1,
-										["id"] = 6673,
-										["targets"] = {
-										},
-										["uptime"] = 62,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[256459] = {
-										["activedamt"] = 1,
-										["id"] = 256459,
-										["targets"] = {
-										},
-										["uptime"] = 62,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[269413] = {
-										["activedamt"] = 1,
-										["id"] = 269413,
-										["targets"] = {
-										},
-										["uptime"] = 62,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[107574] = {
-										["activedamt"] = 1,
-										["id"] = 107574,
-										["targets"] = {
-										},
-										["uptime"] = 11,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[5302] = {
-										["activedamt"] = 3,
-										["id"] = 5302,
-										["targets"] = {
-										},
-										["uptime"] = 11,
-										["appliedamt"] = 3,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[23920] = {
-										["activedamt"] = 1,
-										["id"] = 23920,
-										["targets"] = {
-										},
-										["uptime"] = 1,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[276211] = {
-										["activedamt"] = 1,
-										["id"] = 276211,
-										["targets"] = {
-										},
-										["uptime"] = 17,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[264408] = {
-										["activedamt"] = 1,
-										["id"] = 264408,
-										["targets"] = {
-										},
-										["uptime"] = 62,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[276204] = {
-										["activedamt"] = 1,
-										["id"] = 276204,
-										["targets"] = {
-										},
-										["uptime"] = 5,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[32216] = {
-										["activedamt"] = 1,
-										["id"] = 32216,
-										["targets"] = {
-										},
-										["uptime"] = 3,
-										["appliedamt"] = 1,
-										["refreshamt"] = 1,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[202602] = {
-										["activedamt"] = 4,
-										["id"] = 202602,
-										["targets"] = {
-										},
-										["uptime"] = 49,
-										["appliedamt"] = 4,
-										["refreshamt"] = 6,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[269083] = {
-										["activedamt"] = 1,
-										["id"] = 269083,
-										["targets"] = {
-										},
-										["uptime"] = 62,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[132404] = {
-										["activedamt"] = 1,
-										["id"] = 132404,
-										["targets"] = {
-										},
-										["uptime"] = 6,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[271559] = {
-										["activedamt"] = 1,
-										["id"] = 271559,
-										["targets"] = {
-										},
-										["uptime"] = 3,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-								},
-							},
-							["dispell_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[107574] = {
-										["dispell"] = 2,
-										["id"] = 107574,
-										["dispell_oque"] = {
-											[185728] = 2,
-										},
-										["targets"] = {
-											["Зёба"] = 2,
-										},
-										["counter"] = 0,
-									},
-								},
-							},
-							["dispell_oque"] = {
-								[185728] = 2,
-							},
-							["fight_component"] = true,
-							["debuff_uptime"] = 39,
-							["debuff_uptime_targets"] = {
-							},
-							["cc_done"] = 7.002583,
-							["nome"] = "Зёба",
-							["spec"] = 73,
-							["grupo"] = true,
-							["spell_cast"] = {
-								[6572] = 3,
-								[1160] = 1,
-								[20243] = 1,
-								[46968] = 2,
-								[5246] = 1,
-								[23920] = 1,
-								[107574] = 1,
-								[2565] = 1,
-								[6343] = 3,
-								[52174] = 1,
-							},
-							["cc_done_targets"] = {
-								["Ученик жрецов моря"] = 3,
-								["Сердитый морской лев"] = 2,
-								["Скованный элементаль"] = 1,
-								["Коралловый щелкун"] = 1,
-							},
-							["buff_uptime_targets"] = {
-							},
-							["last_event"] = 1536622563,
-							["pets"] = {
-							},
-							["isTank"] = true,
-							["serial"] = "Player-1615-04A78E52",
-							["tipo"] = 4,
-						}, -- [1]
-					},
-				}, -- [4]
-				{
-					["combatId"] = 3,
-					["tipo"] = 2,
-					["_ActorTable"] = {
-					},
-				}, -- [5]
-				["raid_roster"] = {
-					["Зёба"] = true,
-				},
-				["overall_added"] = true,
-				["last_events_tables"] = {
-				},
-				["alternate_power"] = {
-				},
-				["enemy"] = "Ученик жрецов моря",
-				["combat_counter"] = 9661,
-				["playing_solo"] = true,
-				["totals"] = {
-					114196.935895, -- [1]
-					30431.986747, -- [2]
-					{
-						0, -- [1]
-						[0] = 121,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 2,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-					["frags_total"] = 0,
-					["voidzone_damage"] = 0,
-				},
-				["player_last_events"] = {
-					["Деники"] = {
-						{
-							true, -- [1]
-							124255, -- [2]
-							804, -- [3]
-							1536622576.811, -- [4]
-							0, -- [5]
-							"Деники", -- [6]
-							nil, -- [7]
-							1, -- [8]
-							true, -- [9]
-							-1, -- [10]
-						}, -- [1]
-						{
-							true, -- [1]
-							124255, -- [2]
-							804, -- [3]
-							1536622577.211, -- [4]
-							0, -- [5]
-							"Деники", -- [6]
-							nil, -- [7]
-							1, -- [8]
-							true, -- [9]
-							-1, -- [10]
-						}, -- [2]
-						{
-							true, -- [1]
-							124255, -- [2]
-							804, -- [3]
-							1536622577.711, -- [4]
-							0, -- [5]
-							"Деники", -- [6]
-							nil, -- [7]
-							1, -- [8]
-							true, -- [9]
-							-1, -- [10]
-						}, -- [3]
-						{
-							true, -- [1]
-							124255, -- [2]
-							804, -- [3]
-							1536622578.278, -- [4]
-							0, -- [5]
-							"Деники", -- [6]
-							nil, -- [7]
-							1, -- [8]
-							true, -- [9]
-							-1, -- [10]
-						}, -- [4]
-						{
-							true, -- [1]
-							124255, -- [2]
-							804, -- [3]
-							1536622578.811, -- [4]
-							0, -- [5]
-							"Деники", -- [6]
-							nil, -- [7]
-							1, -- [8]
-							true, -- [9]
-							-1, -- [10]
-						}, -- [5]
-						{
-							true, -- [1]
-							124255, -- [2]
-							804, -- [3]
-							1536622579.245, -- [4]
-							0, -- [5]
-							"Деники", -- [6]
-							nil, -- [7]
-							1, -- [8]
-							true, -- [9]
-							-1, -- [10]
-						}, -- [6]
-						{
-							true, -- [1]
-							124255, -- [2]
-							804, -- [3]
-							1536622579.745, -- [4]
-							0, -- [5]
-							"Деники", -- [6]
-							nil, -- [7]
-							1, -- [8]
-							true, -- [9]
-							-1, -- [10]
-						}, -- [7]
-						{
-							true, -- [1]
-							124255, -- [2]
-							804, -- [3]
-							1536622580.278, -- [4]
-							0, -- [5]
-							"Деники", -- [6]
-							nil, -- [7]
-							1, -- [8]
-							true, -- [9]
-							-1, -- [10]
-						}, -- [8]
-						{
-						}, -- [9]
-						{
-						}, -- [10]
-						{
-						}, -- [11]
-						{
-						}, -- [12]
-						{
-						}, -- [13]
-						{
-						}, -- [14]
-						{
-						}, -- [15]
-						{
-						}, -- [16]
-						{
-						}, -- [17]
-						{
-						}, -- [18]
-						{
-						}, -- [19]
-						{
-						}, -- [20]
-						{
-						}, -- [21]
-						{
-						}, -- [22]
-						{
-						}, -- [23]
-						{
-						}, -- [24]
-						{
-						}, -- [25]
-						{
-						}, -- [26]
-						{
-						}, -- [27]
-						{
-						}, -- [28]
-						{
-						}, -- [29]
-						{
-						}, -- [30]
-						{
-						}, -- [31]
-						{
-						}, -- [32]
-						["n"] = 9,
-					},
-				},
-				["frags_need_refresh"] = true,
-				["__call"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Зёба"] = 30432.001561,
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-					["damage"] = {
-						{
-							["Зёба"] = 114197.003155,
-						}, -- [1]
-					},
-				},
-				["end_time"] = 25062.205,
-				["combat_id"] = 3,
-				["instance_type"] = "none",
-				["frags"] = {
-					["Сердитый морской лев"] = 2,
-				},
-				["data_fim"] = "02:36:04",
-				["data_inicio"] = "02:35:02",
-				["CombatSkillCache"] = {
-				},
-				["totals_grupo"] = {
-					114197, -- [1]
-					30432, -- [2]
-					{
-						0, -- [1]
-						[0] = 121,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 2,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-				},
-				["start_time"] = 25000.424,
-				["contra"] = "Ученик жрецов моря",
-				["TimeData"] = {
-				},
-			}, -- [4]
-			{
-				{
-					["combatId"] = 2,
-					["tipo"] = 2,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.004724,
-							["damage_from"] = {
-								["Перенастроенный уборочный голем"] = true,
-								["Лоялист дома Штормсонгов"] = true,
-								["Скованный элементаль"] = true,
-							},
-							["targets"] = {
-							},
-							["pets"] = {
-							},
-							["spec"] = 73,
-							["isTank"] = true,
-							["friendlyfire_total"] = 0,
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.004724,
-							["end_time"] = 1536622473,
-							["avoidance"] = {
-								["Скованный элементаль"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 2,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 0,
-									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 2,
-									["HITS"] = 0,
-									["FULL_HIT_AMT"] = 10358,
-								},
-								["Перенастроенный уборочный голем"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 1183,
-									["BLOCKED_HITS"] = 1,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 1,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 0,
-									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 1,
-									["HITS"] = 1,
-									["FULL_HIT_AMT"] = 262,
-								},
-								["overall"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 1183,
-									["BLOCKED_HITS"] = 1,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 4,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 0,
-									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 4,
-									["HITS"] = 2,
-									["FULL_HIT_AMT"] = 12189,
-								},
-								["Лоялист дома Штормсонгов"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 1,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 0,
-									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 1,
-									["HITS"] = 1,
-									["FULL_HIT_AMT"] = 1569,
-								},
-							},
-							["dps_started"] = false,
-							["total"] = 0.004724,
-							["classe"] = "WARRIOR",
-							["friendlyfire"] = {
-							},
-							["nome"] = "Зёба",
-							["spells"] = {
-								["tipo"] = 2,
-								["_ActorTable"] = {
-								},
-							},
-							["grupo"] = true,
-							["on_hold"] = false,
-							["serial"] = "Player-1615-04A78E52",
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["tipo"] = 1,
-							["damage_taken"] = 12189.004724,
-							["start_time"] = 1536622473,
-							["delay"] = 0,
-							["last_event"] = 0,
-						}, -- [1]
-					},
-				}, -- [1]
-				{
-					["combatId"] = 2,
-					["tipo"] = 3,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["targets_overheal"] = {
-							},
-							["pets"] = {
-							},
-							["iniciar_hps"] = false,
-							["classe"] = "WARRIOR",
-							["totalover"] = 0.00265,
-							["total_without_pet"] = 13274.00265,
-							["total"] = 13274.00265,
-							["targets_absorbs"] = {
-							},
-							["heal_enemy"] = {
-							},
-							["on_hold"] = false,
-							["isTank"] = true,
-							["serial"] = "Player-1615-04A78E52",
-							["totalabsorb"] = 0.00265,
-							["last_hps"] = 0,
-							["targets"] = {
-								["Зёба"] = 13274,
-							},
-							["totalover_without_pet"] = 0.00265,
-							["healing_taken"] = 55238.00265,
-							["fight_component"] = true,
-							["end_time"] = 1536622473,
-							["healing_from"] = {
-								["Зёба"] = true,
-								["[*] Азерит"] = true,
-							},
-							["nome"] = "Зёба",
-							["spells"] = {
-								["tipo"] = 3,
-								["_ActorTable"] = {
-									[270117] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-										},
-										["n_max"] = 3098,
-										["targets"] = {
-											["Зёба"] = 6196,
-										},
-										["n_min"] = 3098,
-										["counter"] = 2,
-										["overheal"] = 0,
-										["total"] = 6196,
-										["c_max"] = 0,
-										["id"] = 270117,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 6196,
-										["n_amt"] = 2,
-										["totaldenied"] = 0,
-										["m_healed"] = 0,
-										["absorbed"] = 0,
-									},
-									[276208] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-										},
-										["n_max"] = 7078,
-										["targets"] = {
-											["Зёба"] = 7078,
-										},
-										["n_min"] = 7078,
-										["counter"] = 1,
-										["overheal"] = 0,
-										["total"] = 7078,
-										["c_max"] = 0,
-										["id"] = 276208,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 7078,
-										["n_amt"] = 1,
-										["totaldenied"] = 0,
-										["m_healed"] = 0,
-										["absorbed"] = 0,
-									},
-								},
-							},
-							["grupo"] = true,
-							["heal_enemy_amt"] = 0,
-							["start_time"] = 1536622461,
-							["custom"] = 0,
-							["tipo"] = 2,
-							["spec"] = 73,
-							["totaldenied"] = 0.00265,
-							["delay"] = 1536622463,
-							["last_event"] = 1536622463,
-						}, -- [1]
-					},
-				}, -- [2]
-				{
-					["combatId"] = 2,
-					["tipo"] = 7,
-					["_ActorTable"] = {
-						{
-							["received"] = 3.005787,
-							["resource"] = 0.005787,
-							["targets"] = {
-								["Зёба"] = 3,
-							},
-							["pets"] = {
-							},
-							["powertype"] = 0,
-							["classe"] = "WARRIOR",
-							["fight_component"] = true,
-							["total"] = 3.005787,
-							["nome"] = "Зёба",
-							["spec"] = 73,
-							["grupo"] = true,
-							["spells"] = {
-								["tipo"] = 7,
-								["_ActorTable"] = {
-									[195707] = {
-										["id"] = 195707,
-										["total"] = 3,
-										["targets"] = {
-											["Зёба"] = 3,
-										},
-										["counter"] = 1,
-									},
-								},
-							},
-							["flag_original"] = 1297,
-							["last_event"] = 1536622452,
-							["alternatepower"] = 0.005787,
-							["isTank"] = true,
-							["serial"] = "Player-1615-04A78E52",
-							["tipo"] = 3,
-						}, -- [1]
-					},
-				}, -- [3]
-				{
-					["combatId"] = 2,
-					["tipo"] = 9,
-					["_ActorTable"] = {
-						{
-							["fight_component"] = true,
-							["flag_original"] = 1047,
-							["buff_uptime_targets"] = {
-							},
-							["nome"] = "Зёба",
-							["spec"] = 73,
-							["grupo"] = true,
-							["spell_cast"] = {
-								[52174] = 1,
-							},
-							["buff_uptime"] = 166,
-							["pets"] = {
-							},
-							["buff_uptime_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[264408] = {
-										["activedamt"] = 1,
-										["id"] = 264408,
-										["targets"] = {
-										},
-										["uptime"] = 21,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[143625] = {
-										["activedamt"] = 1,
-										["id"] = 143625,
-										["targets"] = {
-										},
-										["uptime"] = 21,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[275765] = {
-										["activedamt"] = 0,
-										["id"] = 275765,
-										["targets"] = {
-										},
-										["uptime"] = 0,
-										["appliedamt"] = 0,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[256459] = {
-										["activedamt"] = 1,
-										["id"] = 256459,
-										["targets"] = {
-										},
-										["uptime"] = 21,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[276208] = {
-										["activedamt"] = 1,
-										["id"] = 276208,
-										["targets"] = {
-										},
-										["uptime"] = 18,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[202602] = {
-										["activedamt"] = 3,
-										["id"] = 202602,
-										["targets"] = {
-										},
-										["uptime"] = 5,
-										["appliedamt"] = 3,
-										["refreshamt"] = 1,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[171850] = {
-										["activedamt"] = 1,
-										["id"] = 171850,
-										["targets"] = {
-										},
-										["actived_at"] = 1536622452,
-										["uptime"] = 0,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = true,
-										["counter"] = 0,
-									},
-									[281240] = {
-										["activedamt"] = 1,
-										["id"] = 281240,
-										["targets"] = {
-										},
-										["uptime"] = 9,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[276204] = {
-										["activedamt"] = 1,
-										["id"] = 276204,
-										["targets"] = {
-										},
-										["uptime"] = 3,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[269413] = {
-										["activedamt"] = 1,
-										["id"] = 269413,
-										["targets"] = {
-										},
-										["uptime"] = 21,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[275867] = {
-										["activedamt"] = 1,
-										["id"] = 275867,
-										["targets"] = {
-										},
-										["uptime"] = 5,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[6673] = {
-										["activedamt"] = 1,
-										["id"] = 6673,
-										["targets"] = {
-										},
-										["uptime"] = 21,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[269083] = {
-										["activedamt"] = 1,
-										["id"] = 269083,
-										["targets"] = {
-										},
-										["uptime"] = 21,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-								},
-							},
-							["classe"] = "WARRIOR",
-							["last_event"] = 1536622473,
-							["isTank"] = true,
-							["serial"] = "Player-1615-04A78E52",
-							["tipo"] = 4,
-						}, -- [1]
-					},
-				}, -- [4]
-				{
-					["combatId"] = 2,
-					["tipo"] = 2,
-					["_ActorTable"] = {
-					},
-				}, -- [5]
-				["raid_roster"] = {
-					["Зёба"] = true,
-				},
-				["overall_added"] = true,
-				["last_events_tables"] = {
-				},
-				["alternate_power"] = {
-				},
-				["enemy"] = "Перенастроенный уборочный голем",
-				["combat_counter"] = 9660,
-				["playing_solo"] = true,
-				["totals"] = {
-					-0.012088000001313, -- [1]
-					13273.991913, -- [2]
-					{
-						0, -- [1]
-						[0] = 3,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-					["frags_total"] = 0,
-					["voidzone_damage"] = 0,
-				},
-				["player_last_events"] = {
-				},
-				["frags_need_refresh"] = false,
-				["__call"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Зёба"] = 13274.00265,
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-					["damage"] = {
-						{
-							["Зёба"] = 0.004724,
-						}, -- [1]
-					},
-				},
-				["end_time"] = 24971.647,
-				["combat_id"] = 2,
-				["instance_type"] = "none",
-				["frags"] = {
-				},
-				["data_fim"] = "02:34:33",
-				["data_inicio"] = "02:34:13",
-				["CombatSkillCache"] = {
-				},
-				["totals_grupo"] = {
-					0, -- [1]
-					13274, -- [2]
-					{
-						0, -- [1]
-						[0] = 3,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-				},
-				["start_time"] = 24951.173,
-				["contra"] = "Перенастроенный уборочный голем",
-				["TimeData"] = {
-				},
-			}, -- [5]
-			{
-				{
-					["combatId"] = 1,
-					["tipo"] = 2,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.002809,
-							["damage_from"] = {
-								["Охранница \"Кипящих Ключей\""] = true,
-								["Мир (падение)"] = true,
-							},
-							["targets"] = {
-							},
-							["pets"] = {
-							},
-							["spec"] = 73,
-							["isTank"] = true,
-							["friendlyfire_total"] = 0,
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.002809,
-							["end_time"] = 1536622267,
-							["avoidance"] = {
-								["Охранница \"Кипящих Ключей\""] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 2,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 0,
-									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 2,
-									["HITS"] = 0,
-									["FULL_HIT_AMT"] = 2507,
-								},
-								["overall"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 5,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 0,
-									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 5,
-									["HITS"] = 0,
-									["FULL_HIT_AMT"] = 59355,
-								},
-								["Мир (падение)"] = {
-									["DODGE"] = 0,
-									["FULL_ABSORB_AMT"] = 0,
-									["BLOCKED_AMT"] = 0,
-									["BLOCKED_HITS"] = 0,
-									["FULL_ABSORBED"] = 0,
-									["ALL"] = 3,
-									["PARTIAL_ABSORBED"] = 0,
-									["PARRY"] = 0,
-									["PARTIAL_ABSORB_AMT"] = 0,
-									["ABSORB"] = 0,
-									["ABSORB_AMT"] = 0,
-									["FULL_HIT"] = 3,
-									["HITS"] = 0,
-									["FULL_HIT_AMT"] = 56848,
-								},
-							},
-							["dps_started"] = false,
-							["total"] = 0.002809,
-							["classe"] = "WARRIOR",
-							["friendlyfire"] = {
-							},
-							["nome"] = "Зёба",
-							["spells"] = {
-								["tipo"] = 2,
-								["_ActorTable"] = {
-								},
-							},
-							["grupo"] = true,
-							["on_hold"] = false,
-							["serial"] = "Player-1615-04A78E52",
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["tipo"] = 1,
-							["damage_taken"] = 59355.002809,
-							["start_time"] = 1536622267,
-							["delay"] = 0,
-							["last_event"] = 0,
-						}, -- [1]
-					},
-				}, -- [1]
-				{
-					["combatId"] = 1,
-					["tipo"] = 3,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["targets_overheal"] = {
-								["Зёба"] = 6268,
-							},
-							["pets"] = {
-							},
-							["iniciar_hps"] = false,
-							["classe"] = "WARRIOR",
-							["totalover"] = 6268.001239,
-							["total_without_pet"] = 10987.001239,
-							["total"] = 10987.001239,
-							["targets_absorbs"] = {
-							},
-							["heal_enemy"] = {
-							},
-							["on_hold"] = false,
-							["isTank"] = true,
-							["serial"] = "Player-1615-04A78E52",
-							["totalabsorb"] = 0.001239,
-							["last_hps"] = 0,
-							["targets"] = {
-								["Зёба"] = 17255,
-							},
-							["totalover_without_pet"] = 0.001239,
-							["healing_taken"] = 10987.001239,
-							["fight_component"] = true,
-							["end_time"] = 1536622267,
-							["healing_from"] = {
-								["Зёба"] = true,
-							},
-							["nome"] = "Зёба",
-							["spells"] = {
-								["tipo"] = 3,
-								["_ActorTable"] = {
-									[276211] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Зёба"] = 4570,
-										},
-										["n_max"] = 6755,
-										["targets"] = {
-											["Зёба"] = 6755,
-										},
-										["n_min"] = 6755,
-										["counter"] = 1,
-										["overheal"] = 4570,
-										["total"] = 6755,
-										["c_max"] = 0,
-										["id"] = 276211,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 6755,
-										["n_amt"] = 1,
-										["totaldenied"] = 0,
-										["m_healed"] = 0,
-										["absorbed"] = 0,
-									},
-									[270117] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-										},
-										["n_max"] = 3098,
-										["targets"] = {
-											["Зёба"] = 3098,
-										},
-										["n_min"] = 3098,
-										["counter"] = 1,
-										["overheal"] = 0,
-										["total"] = 3098,
-										["c_max"] = 0,
-										["id"] = 270117,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 3098,
-										["n_amt"] = 1,
-										["totaldenied"] = 0,
-										["m_healed"] = 0,
-										["absorbed"] = 0,
-									},
-									[276205] = {
-										["c_amt"] = 0,
-										["totalabsorb"] = 0,
-										["targets_overheal"] = {
-											["Зёба"] = 1698,
-										},
-										["n_max"] = 1134,
-										["targets"] = {
-											["Зёба"] = 1134,
-										},
-										["n_min"] = 1134,
-										["counter"] = 1,
-										["overheal"] = 1698,
-										["total"] = 1134,
-										["c_max"] = 0,
-										["id"] = 276205,
-										["targets_absorbs"] = {
-										},
-										["c_curado"] = 0,
-										["m_crit"] = 0,
-										["c_min"] = 0,
-										["m_amt"] = 0,
-										["n_curado"] = 1134,
-										["n_amt"] = 1,
-										["totaldenied"] = 0,
-										["m_healed"] = 0,
-										["absorbed"] = 0,
-									},
-								},
-							},
-							["grupo"] = true,
-							["heal_enemy_amt"] = 0,
-							["start_time"] = 1536622260,
-							["custom"] = 0,
-							["tipo"] = 2,
-							["spec"] = 73,
-							["totaldenied"] = 0.001239,
-							["delay"] = 1536622246,
-							["last_event"] = 1536622261,
-						}, -- [1]
-					},
-				}, -- [2]
-				{
-					["combatId"] = 1,
-					["tipo"] = 7,
-					["_ActorTable"] = {
-					},
-				}, -- [3]
-				{
-					["combatId"] = 1,
-					["tipo"] = 9,
-					["_ActorTable"] = {
-						{
-							["fight_component"] = true,
-							["flag_original"] = 1047,
-							["buff_uptime_targets"] = {
-							},
-							["spec"] = 73,
-							["grupo"] = true,
-							["nome"] = "Зёба",
-							["buff_uptime"] = 185,
-							["pets"] = {
-							},
-							["buff_uptime_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[276205] = {
-										["activedamt"] = 1,
-										["id"] = 276205,
-										["targets"] = {
-										},
-										["uptime"] = 6,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[264408] = {
-										["activedamt"] = 1,
-										["id"] = 264408,
-										["targets"] = {
-										},
-										["uptime"] = 22,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[143625] = {
-										["activedamt"] = 1,
-										["id"] = 143625,
-										["targets"] = {
-										},
-										["uptime"] = 22,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[256459] = {
-										["activedamt"] = 1,
-										["id"] = 256459,
-										["targets"] = {
-										},
-										["uptime"] = 22,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[202602] = {
-										["activedamt"] = 2,
-										["id"] = 202602,
-										["targets"] = {
-										},
-										["uptime"] = 9,
-										["appliedamt"] = 2,
-										["refreshamt"] = 2,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[276211] = {
-										["activedamt"] = 1,
-										["id"] = 276211,
-										["targets"] = {
-										},
-										["uptime"] = 15,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[281240] = {
-										["activedamt"] = 1,
-										["id"] = 281240,
-										["targets"] = {
-										},
-										["uptime"] = 22,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[276204] = {
-										["activedamt"] = 1,
-										["id"] = 276204,
-										["targets"] = {
-										},
-										["uptime"] = 1,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[269413] = {
-										["activedamt"] = 1,
-										["id"] = 269413,
-										["targets"] = {
-										},
-										["uptime"] = 22,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[92155] = {
-										["activedamt"] = 1,
-										["id"] = 92155,
-										["targets"] = {
-										},
-										["actived_at"] = 1536622245,
-										["uptime"] = 0,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = true,
-										["counter"] = 0,
-									},
-									[6673] = {
-										["activedamt"] = 1,
-										["id"] = 6673,
-										["targets"] = {
-										},
-										["uptime"] = 22,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[269083] = {
-										["activedamt"] = 1,
-										["id"] = 269083,
-										["targets"] = {
-										},
-										["uptime"] = 22,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-								},
-							},
-							["tipo"] = 4,
-							["classe"] = "WARRIOR",
-							["isTank"] = true,
-							["serial"] = "Player-1615-04A78E52",
-							["last_event"] = 1536622267,
-						}, -- [1]
-					},
-				}, -- [4]
-				{
-					["combatId"] = 1,
-					["tipo"] = 2,
-					["_ActorTable"] = {
-					},
-				}, -- [5]
-				["raid_roster"] = {
-					["Зёба"] = true,
-				},
-				["overall_added"] = true,
-				["last_events_tables"] = {
-				},
-				["alternate_power"] = {
-				},
-				["enemy"] = "Охранница \"Кипящих Ключей\"",
-				["combat_counter"] = 9659,
-				["playing_solo"] = true,
-				["totals"] = {
-					-0.0403899999982688, -- [1]
-					10986.998955, -- [2]
-					{
-						0, -- [1]
-						[0] = -0.00738299999999992,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-					["frags_total"] = 0,
-					["voidzone_damage"] = 0,
-				},
-				["player_last_events"] = {
-					["Зёба"] = {
-						{
-							true, -- [1]
-							3, -- [2]
-							12643, -- [3]
-							1536622429.173, -- [4]
-							165217, -- [5]
-							"Мир (падение)", -- [6]
-							nil, -- [7]
-							3, -- [8]
-							false, -- [9]
-							-1, -- [10]
-						}, -- [1]
-						{
-							true, -- [1]
-							3, -- [2]
-							41574, -- [3]
-							1536622444.606, -- [4]
-							136286, -- [5]
-							"Мир (падение)", -- [6]
-							nil, -- [7]
-							3, -- [8]
-							false, -- [9]
-							-1, -- [10]
-						}, -- [2]
-						{
-							true, -- [1]
-							3, -- [2]
-							2631, -- [3]
-							1536622448.734, -- [4]
-							137285, -- [5]
-							"Мир (падение)", -- [6]
-							nil, -- [7]
-							3, -- [8]
-							false, -- [9]
-							-1, -- [10]
-						}, -- [3]
-						{
-						}, -- [4]
-						{
-						}, -- [5]
-						{
-						}, -- [6]
-						{
-						}, -- [7]
-						{
-						}, -- [8]
-						{
-						}, -- [9]
-						{
-						}, -- [10]
-						{
-						}, -- [11]
-						{
-						}, -- [12]
-						{
-						}, -- [13]
-						{
-						}, -- [14]
-						{
-						}, -- [15]
-						{
-						}, -- [16]
-						{
-						}, -- [17]
-						{
-						}, -- [18]
-						{
-						}, -- [19]
-						{
-						}, -- [20]
-						{
-						}, -- [21]
-						{
-						}, -- [22]
-						{
-						}, -- [23]
-						{
-						}, -- [24]
-						{
-						}, -- [25]
-						{
-						}, -- [26]
-						{
-						}, -- [27]
-						{
-						}, -- [28]
-						{
-						}, -- [29]
-						{
-						}, -- [30]
-						{
-						}, -- [31]
-						{
-						}, -- [32]
-						["n"] = 4,
-					},
-				},
-				["frags_need_refresh"] = false,
-				["__call"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Зёба"] = 10987.001239,
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-					["damage"] = {
-						{
-							["Зёба"] = 0.002809,
-						}, -- [1]
-					},
-				},
-				["end_time"] = 24766.224,
-				["combat_id"] = 1,
-				["instance_type"] = "none",
-				["frags"] = {
-				},
-				["data_fim"] = "02:31:08",
-				["data_inicio"] = "02:30:46",
-				["CombatSkillCache"] = {
-				},
-				["totals_grupo"] = {
-					0, -- [1]
-					10987, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-				},
-				["start_time"] = 24744.316,
-				["contra"] = "Охранница \"Кипящих Ключей\"",
-				["TimeData"] = {
-				},
-			}, -- [6]
 		},
 	},
-	["combat_counter"] = 9664,
+	["combat_counter"] = 11354,
 	["character_data"] = {
-		["logons"] = 379,
+		["logons"] = 435,
 	},
 	["tabela_instancias"] = {
 	},
@@ -4328,12 +20,12 @@ _detalhes_database = {
 			["horizontalSnap"] = false,
 			["verticalSnap"] = false,
 			["is_open"] = true,
-			["isLocked"] = true,
+			["isLocked"] = false,
 			["sub_atributo_last"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
-				5, -- [4]
+				3, -- [4]
 				1, -- [5]
 			},
 			["snap"] = {
@@ -4343,8 +35,8 @@ _detalhes_database = {
 			["pos"] = {
 				["normal"] = {
 					["y"] = -380.430491324649,
-					["x"] = 739.572183618975,
-					["w"] = 236.101608276367,
+					["x"] = 739.573640466551,
+					["w"] = 236.101486206055,
 					["h"] = 167.372467041016,
 				},
 				["solo"] = {
@@ -4357,62 +49,220 @@ _detalhes_database = {
 		}, -- [1]
 	},
 	["cached_talents"] = {
-		["Player-1603-0A8FFB72"] = {
-			23128, -- [1]
-			22121, -- [2]
-			19238, -- [3]
-			19239, -- [4]
-			22118, -- [5]
-			22125, -- [6]
-			22115, -- [7]
-		},
-		["Player-1615-088ADA37"] = {
-			19271, -- [1]
-			23164, -- [2]
-			22144, -- [3]
-			22145, -- [4]
-			21675, -- [5]
-			23190, -- [6]
-			22358, -- [7]
-		},
-		["Player-1623-01440FA5"] = {
-			22355, -- [1]
-			22150, -- [2]
-			19260, -- [3]
-			23090, -- [4]
-			22149, -- [5]
-			22351, -- [6]
-			21970, -- [7]
-		},
-		["Player-1614-08C586C3"] = {
+		["Player-1615-08B074E4"] = {
 			22291, -- [1]
 			22290, -- [2]
-			19347, -- [3]
-			22347, -- [4]
+			23100, -- [3]
+			22269, -- [4]
 			22276, -- [5]
-			22002, -- [6]
+			19357, -- [6]
 			22273, -- [7]
 		},
-		["Player-1925-0AA5C31B"] = {
-			19264, -- [1]
-			22492, -- [2]
-			19275, -- [3]
-			22323, -- [4]
-			22144, -- [5]
-			21971, -- [6]
-			22359, -- [7]
+		["Player-1615-082F80F0"] = {
+		},
+		["Player-1615-0818ADE3"] = {
+		},
+		["Player-1615-084CDEE4"] = {
+			22338, -- [1]
+			22332, -- [2]
+			19239, -- [3]
+			22122, -- [4]
+			23037, -- [5]
+			22344, -- [6]
+			21186, -- [7]
+		},
+		["Player-1615-089C9BC0"] = {
+			22338, -- [1]
+			22332, -- [2]
+			19239, -- [3]
+			22122, -- [4]
+			23037, -- [5]
+			22344, -- [6]
+			21186, -- [7]
+		},
+		["Player-1615-062FDB6D"] = {
+			23141, -- [1]
+			22089, -- [2]
+			19280, -- [3]
+			19292, -- [4]
+			19288, -- [5]
+			23159, -- [6]
+			19293, -- [7]
+		},
+		["Player-1615-08C0A858"] = {
+		},
+		["Player-1615-067ED40E"] = {
+			22291, -- [1]
+			22290, -- [2]
+			19348, -- [3]
+			22269, -- [4]
+			22276, -- [5]
+			19357, -- [6]
+			22273, -- [7]
+		},
+		["Player-1615-08293BD5"] = {
+			22018, -- [1]
+			22019, -- [2]
+			22517, -- [3]
+			22523, -- [4]
+			23373, -- [5]
+			22535, -- [6]
+			22537, -- [7]
+		},
+		["Player-1615-082AF847"] = {
+			20185, -- [1]
+			19818, -- [2]
+			22167, -- [3]
+			19995, -- [4]
+			20173, -- [5]
+			22101, -- [6]
+			22169, -- [7]
+		},
+		["Player-1615-06C63767"] = {
+			22291, -- [1]
+			22290, -- [2]
+			19348, -- [3]
+			22269, -- [4]
+			22276, -- [5]
+			19357, -- [6]
+			22273, -- [7]
+		},
+		["Player-1615-047D33FD"] = {
+			22018, -- [1]
+			22019, -- [2]
+			22515, -- [3]
+			22523, -- [4]
+			23373, -- [5]
+			22535, -- [6]
+			22537, -- [7]
+		},
+		["Player-1615-0755CF9A"] = {
+			22329, -- [1]
+			19758, -- [2]
+			19755, -- [3]
+			19761, -- [4]
+			22330, -- [5]
+			19763, -- [6]
+			22976, -- [7]
+		},
+		["Player-1615-08CF9837"] = {
+			21854, -- [1]
+			22799, -- [2]
+			22909, -- [3]
+			21865, -- [4]
+			21867, -- [5]
+			21869, -- [6]
+			21900, -- [7]
+		},
+		["Player-1615-08B3604C"] = {
+			22312, -- [1]
+			19758, -- [2]
+			22487, -- [3]
+			19761, -- [4]
+			22327, -- [5]
+			19763, -- [6]
+			23145, -- [7]
+		},
+		["Player-1615-0755A019"] = {
+			22457, -- [1]
+			23073, -- [2]
+			22444, -- [3]
+			22469, -- [4]
+			22446, -- [5]
+			23176, -- [6]
+			21634, -- [7]
+		},
+		["Player-1615-0888968D"] = {
+			23106, -- [1]
+			19818, -- [2]
+			19992, -- [3]
+			19995, -- [4]
+			20175, -- [5]
+			20184, -- [6]
+			22106, -- [7]
+		},
+		["Player-1615-08CA4861"] = {
+			18574, -- [1]
+			19283, -- [2]
+			22160, -- [3]
+			18577, -- [4]
+			22421, -- [5]
+			21716, -- [6]
+			22404, -- [7]
+		},
+		["Player-1615-08732CA9"] = {
+			23156, -- [1]
+			23143, -- [2]
+			22038, -- [3]
+			22047, -- [4]
+			23144, -- [5]
+			23148, -- [6]
+			19280, -- [7]
+		},
+		["Player-1615-0765C966"] = {
+		},
+		["Player-1615-08AB3C01"] = {
+			22291, -- [1]
+			22290, -- [2]
+			19348, -- [3]
+			22269, -- [4]
+			22276, -- [5]
+			19357, -- [6]
+			22273, -- [7]
+		},
+		["Player-1615-0760FE17"] = {
+			22119, -- [1]
+			19236, -- [2]
+			19239, -- [3]
+			22122, -- [4]
+			22115, -- [5]
+			23128, -- [6]
+			23075, -- [7]
+		},
+		["Player-1615-03F2E865"] = {
+		},
+		["Player-1615-064089B7"] = {
+			23141, -- [1]
+			22089, -- [2]
+			19280, -- [3]
+			19292, -- [4]
+			19288, -- [5]
+			23159, -- [6]
+			19293, -- [7]
+		},
+		["Player-1615-07983E7B"] = {
+			21854, -- [1]
+			22799, -- [2]
+			22909, -- [3]
+			21865, -- [4]
+			21867, -- [5]
+			21869, -- [6]
+			21900, -- [7]
+		},
+		["Player-1615-08377E9F"] = {
+		},
+		["Player-1615-08C3F0D3"] = {
 		},
 		["Player-1615-04A78E52"] = {
-			22631, -- [1]
+			23261, -- [1]
 			22373, -- [2]
 			15760, -- [3]
-			22488, -- [4]
-			21204, -- [5]
-			22395, -- [6]
+			21204, -- [4]
+			22395, -- [5]
+			22631, -- [6]
 			22626, -- [7]
 		},
+		["Player-1615-08BC4C5E"] = {
+			20185, -- [1]
+			19818, -- [2]
+			22166, -- [3]
+			19995, -- [4]
+			20173, -- [5]
+			22101, -- [6]
+			22169, -- [7]
+		},
 	},
-	["last_instance_id"] = 1841,
+	["last_instance_id"] = 1861,
 	["announce_interrupts"] = {
 		["enabled"] = false,
 		["whisper"] = "",
@@ -4546,12 +396,7 @@ _detalhes_database = {
 			["point"] = "CENTER",
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["row_color"] = {
-				0.1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				0.4, -- [4]
-			},
+			["main_frame_strata"] = "LOW",
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -4559,7 +404,7 @@ _detalhes_database = {
 				0, -- [3]
 				0.2, -- [4]
 			},
-			["main_frame_strata"] = "LOW",
+			["author"] = "Details! Team",
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
 			["per_second"] = {
 				["enabled"] = false,
@@ -4577,27 +422,34 @@ _detalhes_database = {
 			["font_face"] = "Friz Quadrata TT",
 			["y"] = -1.525878906250e-005,
 			["use_spark"] = true,
-			["author"] = "Details! Team",
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
 			["main_frame_locked"] = false,
 			["arrow_anchor_y"] = 0,
 		},
 	},
+	["ignore_nicktag"] = false,
+	["last_encounter"] = "Вектис",
 	["nick_tag_cache"] = {
-		["Доталошатало"] = {
-			"Unholydk", -- [1]
-			"", -- [2]
+		["Тычь"] = {
+			"Тычь", -- [1]
+			"Interface\\EncounterJournal\\UI-EJ-BOSS-Helix Gearbreaker", -- [2]
 			{
 				0, -- [1]
 				1, -- [2]
 				0, -- [3]
 				1, -- [4]
 			}, -- [3]
-			"", -- [4]
+			"Interface\\PetBattles\\Weather-BurntEarth", -- [4]
 			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
+				0.087890625, -- [1]
+				0.916015625, -- [2]
+				1, -- [3]
+				0, -- [4]
 			}, -- [5]
 			{
 				1, -- [1]
@@ -4606,9 +458,9 @@ _detalhes_database = {
 			}, -- [6]
 			2, -- [7]
 		},
-		["Ректас"] = {
-			"Microchelick", -- [1]
-			"Interface\\EncounterJournal\\UI-EJ-BOSS-Default", -- [2]
+		["Армеллина"] = {
+			"Армеллина", -- [1]
+			"Interface\\EncounterJournal\\UI-EJ-BOSS-Cyanigosa", -- [2]
 			{
 				0, -- [1]
 				1, -- [2]
@@ -4627,7 +479,7 @@ _detalhes_database = {
 				1, -- [2]
 				1, -- [3]
 			}, -- [6]
-			6, -- [7]
+			2, -- [7]
 		},
 		["Скелетур"] = {
 			"Скелетур", -- [1]
@@ -4642,29 +494,6 @@ _detalhes_database = {
 			{
 				0.129609375, -- [1]
 				1, -- [2]
-				1, -- [3]
-				0, -- [4]
-			}, -- [5]
-			{
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			}, -- [6]
-			2, -- [7]
-		},
-		["Хоукбил"] = {
-			"Хоукбил", -- [1]
-			"Interface\\EncounterJournal\\UI-EJ-BOSS-Kelidan the Breaker", -- [2]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [3]
-			"Interface\\PetBattles\\Weather-BurntEarth", -- [4]
-			{
-				0.087890625, -- [1]
-				0.916015625, -- [2]
 				1, -- [3]
 				0, -- [4]
 			}, -- [5]
@@ -4698,7 +527,52 @@ _detalhes_database = {
 			}, -- [6]
 			10, -- [7]
 		},
-		["last_version"] = 10,
+		["Имтизаль"] = {
+			"Brb", -- [1]
+			"", -- [2]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [3]
+			"", -- [4]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [5]
+			{
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			}, -- [6]
+			2, -- [7]
+		},
+		["Некосмерти"] = {
+			"Chiilpls", -- [1]
+			"Interface\\EncounterJournal\\UI-EJ-BOSS-Default", -- [2]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [3]
+			"Interface\\PetBattles\\Weather-ArcaneStorm", -- [4]
+			{
+				0.129609375, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+			}, -- [5]
+			{
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			}, -- [6]
+			6, -- [7]
+		},
 		["Даээрр"] = {
 			"Worsthunteu", -- [1]
 			"Interface\\EncounterJournal\\UI-EJ-BOSS-Lady Anacondra", -- [2]
@@ -4721,6 +595,237 @@ _detalhes_database = {
 				1, -- [3]
 			}, -- [6]
 			4, -- [7]
+		},
+		["Никеоо"] = {
+			"Macrochelick", -- [1]
+			"", -- [2]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [3]
+			"", -- [4]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [5]
+			{
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			}, -- [6]
+			2, -- [7]
+		},
+		["Этоиллюзия"] = {
+			"Этоиллюзия", -- [1]
+			"Interface\\EncounterJournal\\UI-EJ-BOSS-Grand Magus Telestra", -- [2]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [3]
+			"Interface\\PetBattles\\Weather-ArcaneStorm", -- [4]
+			{
+				0.129609375, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+			}, -- [5]
+			{
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			}, -- [6]
+			2, -- [7]
+		},
+		["Умко"] = {
+			"Meow", -- [1]
+			"Interface\\EncounterJournal\\UI-EJ-BOSS-TyrandeWhisperwind", -- [2]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [3]
+			"Interface\\PetBattles\\Weather-ArcaneStorm", -- [4]
+			{
+				0.129609375, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+			}, -- [5]
+			{
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			}, -- [6]
+			3, -- [7]
+		},
+		["Кьярру"] = {
+			"Кьярру", -- [1]
+			"Interface\\EncounterJournal\\UI-EJ-BOSS-Asira Dawnslayer", -- [2]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [3]
+			"Interface\\PetBattles\\Weather-ArcaneStorm", -- [4]
+			{
+				0.129609375, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+			}, -- [5]
+			{
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			}, -- [6]
+			2, -- [7]
+		},
+		["Мюона"] = {
+			"Meow", -- [1]
+			"Interface\\EncounterJournal\\UI-EJ-BOSS-Instructor Malicia", -- [2]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [3]
+			"Interface\\PetBattles\\Weather-ArcaneStorm", -- [4]
+			{
+				0.129609375, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+			}, -- [5]
+			{
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			}, -- [6]
+			3, -- [7]
+		},
+		["Акирдна"] = {
+			"Andrika", -- [1]
+			"Interface\\EncounterJournal\\UI-EJ-BOSS-Default", -- [2]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [3]
+			"Interface\\PetBattles\\Weather-Windy", -- [4]
+			{
+				0.9453125, -- [1]
+				0.07421875, -- [2]
+				0.8203125, -- [3]
+				0, -- [4]
+			}, -- [5]
+			{
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+			}, -- [6]
+			3, -- [7]
+		},
+		["Веи"] = {
+			"Weiss", -- [1]
+			"Interface\\EncounterJournal\\UI-EJ-BOSS-Baron Silverlaine", -- [2]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [3]
+			"Interface\\PetBattles\\Weather-Rain", -- [4]
+			{
+				0.078125, -- [1]
+				0.970703125, -- [2]
+				1, -- [3]
+				0, -- [4]
+			}, -- [5]
+			{
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			}, -- [6]
+			5, -- [7]
+		},
+		["Ректас"] = {
+			"Microchelick", -- [1]
+			"Interface\\EncounterJournal\\UI-EJ-BOSS-Default", -- [2]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [3]
+			"Interface\\PetBattles\\Weather-ArcaneStorm", -- [4]
+			{
+				0.129609375, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+			}, -- [5]
+			{
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			}, -- [6]
+			6, -- [7]
+		},
+		["Бромармаг"] = {
+			"Bromar", -- [1]
+			"Interface\\EncounterJournal\\UI-EJ-BOSS-Default", -- [2]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [3]
+			"Interface\\PetBattles\\Weather-ArcaneStorm", -- [4]
+			{
+				0.129609375, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+			}, -- [5]
+			{
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			}, -- [6]
+			5, -- [7]
+		},
+		["last_version"] = 10,
+		["Моаси"] = {
+			"Meow", -- [1]
+			"Interface\\EncounterJournal\\UI-EJ-BOSS-Asira Dawnslayer", -- [2]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [3]
+			"Interface\\PetBattles\\Weather-Blizzard", -- [4]
+			{
+				0.068704154, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+			}, -- [5]
+			{
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			}, -- [6]
+			3, -- [7]
 		},
 		["Сквизя"] = {
 			"Lil Dozhd", -- [1]
@@ -4745,10 +850,55 @@ _detalhes_database = {
 			}, -- [6]
 			7, -- [7]
 		},
-		["nextreset"] = 1537775023,
-		["Тычь"] = {
-			"Тычь", -- [1]
-			"Interface\\EncounterJournal\\UI-EJ-BOSS-Helix Gearbreaker", -- [2]
+		["Кассэл"] = {
+			"Kassel", -- [1]
+			"Interface\\EncounterJournal\\UI-EJ-BOSS-Asira Dawnslayer", -- [2]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [3]
+			"Interface\\PetBattles\\Weather-Blizzard", -- [4]
+			{
+				0.068704154, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+			}, -- [5]
+			{
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			}, -- [6]
+			6, -- [7]
+		},
+		["Ремелиса"] = {
+			"Ремелиса", -- [1]
+			"Interface\\EncounterJournal\\UI-EJ-BOSS-Default", -- [2]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [3]
+			"Interface\\PetBattles\\Weather-ArcaneStorm", -- [4]
+			{
+				0.129609375, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+			}, -- [5]
+			{
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			}, -- [6]
+			3, -- [7]
+		},
+		["Макисе"] = {
+			"Fallen", -- [1]
+			"Interface\\EncounterJournal\\UI-EJ-BOSS-Nethermancer Sepethrea", -- [2]
 			{
 				0, -- [1]
 				1, -- [2]
@@ -4761,6 +911,75 @@ _detalhes_database = {
 				0.916015625, -- [2]
 				1, -- [3]
 				0, -- [4]
+			}, -- [5]
+			{
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			}, -- [6]
+			3, -- [7]
+		},
+		["Даркнэсх"] = {
+			"Darknesx", -- [1]
+			"", -- [2]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [3]
+			"", -- [4]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [5]
+			{
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			}, -- [6]
+			2, -- [7]
+		},
+		["Хоукбил"] = {
+			"Хоукбил", -- [1]
+			"Interface\\EncounterJournal\\UI-EJ-BOSS-Kelidan the Breaker", -- [2]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [3]
+			"Interface\\PetBattles\\Weather-BurntEarth", -- [4]
+			{
+				0.087890625, -- [1]
+				0.916015625, -- [2]
+				1, -- [3]
+				0, -- [4]
+			}, -- [5]
+			{
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			}, -- [6]
+			2, -- [7]
+		},
+		["Доталошатало"] = {
+			"Unholydk", -- [1]
+			"", -- [2]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [3]
+			"", -- [4]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
 			}, -- [5]
 			{
 				1, -- [1]
@@ -4792,38 +1011,14 @@ _detalhes_database = {
 			}, -- [6]
 			6, -- [7]
 		},
-		["Умко"] = {
-			"Meow", -- [1]
-			"Interface\\EncounterJournal\\UI-EJ-BOSS-TyrandeWhisperwind", -- [2]
-			{
-				0, -- [1]
-				1, -- [2]
-				0, -- [3]
-				1, -- [4]
-			}, -- [3]
-			"Interface\\PetBattles\\Weather-ArcaneStorm", -- [4]
-			{
-				0.129609375, -- [1]
-				1, -- [2]
-				1, -- [3]
-				0, -- [4]
-			}, -- [5]
-			{
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-			}, -- [6]
-			3, -- [7]
-		},
+		["nextreset"] = 1537775023,
 	},
-	["ignore_nicktag"] = false,
-	["last_encounter"] = "Вектис",
-	["last_day"] = "11",
+	["last_day"] = "21",
 	["announce_firsthit"] = {
 		["enabled"] = true,
 		["channel"] = "SELF",
 	},
-	["combat_id"] = 6,
+	["combat_id"] = 0,
 	["savedStyles"] = {
 	},
 	["SoloTablesSaved"] = {
@@ -4840,1097 +1035,21 @@ _detalhes_database = {
 		{
 			["tipo"] = 2,
 			["_ActorTable"] = {
-				{
-					["flag_original"] = 1297,
-					["totalabsorbed"] = 0.029699,
-					["damage_from"] = {
-						["Перенастроенный уборочный голем"] = true,
-						["Скованный элементаль"] = true,
-						["Усиленный элементаль"] = true,
-						["Охранница \"Кипящих Ключей\""] = true,
-						["Сердитый морской лев"] = true,
-						["Разъяренный дух"] = true,
-						["Ученик жрецов моря"] = true,
-						["Порабощенный проклятием солдат"] = true,
-						["Плетеный охотник"] = true,
-						["Порабощенный проклятием арбалетчик"] = true,
-						["Невермор"] = true,
-						["Лоялист дома Штормсонгов"] = true,
-						["Ядовитый ткач"] = true,
-					},
-					["targets"] = {
-						["Ученик жрецов моря"] = 2590,
-						["Крыса-добытчица"] = 9949,
-						["Сердитый морской лев"] = 111607,
-						["Невермор"] = 252758,
-					},
-					["pets"] = {
-					},
-					["on_hold"] = false,
-					["last_event"] = 0,
-					["classe"] = "WARRIOR",
-					["raid_targets"] = {
-					},
-					["total_without_pet"] = 376904.029699,
-					["end_time"] = 1536622268,
-					["isTank"] = true,
-					["dps_started"] = false,
-					["total"] = 376904.029699,
-					["friendlyfire_total"] = 0,
-					["avoidance"] = {
-						["overall"] = {
-							["DODGE"] = 0,
-							["FULL_ABSORB_AMT"] = 0,
-							["BLOCKED_AMT"] = 0,
-							["BLOCKED_HITS"] = 0,
-							["FULL_ABSORBED"] = 0,
-							["ALL"] = 0,
-							["PARTIAL_ABSORBED"] = 0,
-							["PARRY"] = 0,
-							["PARTIAL_ABSORB_AMT"] = 0,
-							["ABSORB"] = 0,
-							["ABSORB_AMT"] = 0,
-							["FULL_HIT"] = 0,
-							["HITS"] = 0,
-							["FULL_HIT_AMT"] = 0,
-						},
-					},
-					["nome"] = "Зёба",
-					["spells"] = {
-						["tipo"] = 2,
-						["_ActorTable"] = {
-							{
-								["c_amt"] = 6,
-								["b_amt"] = 1,
-								["c_dmg"] = 32096,
-								["g_amt"] = 0,
-								["n_max"] = 3442,
-								["targets"] = {
-									["Сердитый морской лев"] = 17191,
-									["Невермор"] = 64799,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 49894,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 24,
-								["total"] = 81990,
-								["c_max"] = 7134,
-								["id"] = 1,
-								["r_dmg"] = 0,
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["a_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 2092,
-								["n_amt"] = 18,
-								["r_amt"] = 0,
-								["c_min"] = 0,
-							}, -- [1]
-							[23922] = {
-								["c_amt"] = 0,
-								["b_amt"] = 0,
-								["c_dmg"] = 0,
-								["g_amt"] = 0,
-								["n_max"] = 8481,
-								["targets"] = {
-									["Невермор"] = 58170,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 58170,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 9,
-								["total"] = 58170,
-								["c_max"] = 0,
-								["id"] = 23922,
-								["r_dmg"] = 0,
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["a_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 9,
-								["r_amt"] = 0,
-								["c_min"] = 0,
-							},
-							[269031] = {
-								["c_amt"] = 0,
-								["b_amt"] = 0,
-								["c_dmg"] = 0,
-								["g_amt"] = 0,
-								["n_max"] = 1256,
-								["targets"] = {
-									["Ученик жрецов моря"] = 1256,
-									["Невермор"] = 2148,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 3404,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 3,
-								["total"] = 3404,
-								["c_max"] = 0,
-								["id"] = 269031,
-								["r_dmg"] = 0,
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["a_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 3,
-								["r_amt"] = 0,
-								["c_min"] = 0,
-							},
-							[46968] = {
-								["c_amt"] = 1,
-								["b_amt"] = 0,
-								["c_dmg"] = 852,
-								["g_amt"] = 0,
-								["n_max"] = 445,
-								["targets"] = {
-									["Ученик жрецов моря"] = 1334,
-									["Сердитый морской лев"] = 1270,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 1752,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 5,
-								["total"] = 2604,
-								["c_max"] = 852,
-								["id"] = 46968,
-								["r_dmg"] = 0,
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["a_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 4,
-								["r_amt"] = 0,
-								["c_min"] = 0,
-							},
-							[6572] = {
-								["c_amt"] = 2,
-								["b_amt"] = 0,
-								["c_dmg"] = 14098,
-								["g_amt"] = 0,
-								["n_max"] = 3972,
-								["targets"] = {
-									["Сердитый морской лев"] = 19482,
-									["Невермор"] = 34509,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 39893,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 14,
-								["total"] = 53991,
-								["c_max"] = 7085,
-								["id"] = 6572,
-								["r_dmg"] = 0,
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["a_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 12,
-								["r_amt"] = 0,
-								["c_min"] = 0,
-							},
-							[6343] = {
-								["c_amt"] = 3,
-								["b_amt"] = 0,
-								["c_dmg"] = 40839,
-								["g_amt"] = 0,
-								["n_max"] = 9949,
-								["targets"] = {
-									["Крыса-добытчица"] = 9949,
-									["Невермор"] = 64314,
-									["Сердитый морской лев"] = 63532,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 96956,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 16,
-								["total"] = 137795,
-								["c_max"] = 18458,
-								["id"] = 6343,
-								["r_dmg"] = 0,
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["a_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 13,
-								["r_amt"] = 0,
-								["c_min"] = 0,
-							},
-							[20243] = {
-								["c_amt"] = 3,
-								["b_amt"] = 0,
-								["c_dmg"] = 14532,
-								["g_amt"] = 0,
-								["n_max"] = 2061,
-								["targets"] = {
-									["Сердитый морской лев"] = 5831,
-									["Невермор"] = 10762,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 2061,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 4,
-								["total"] = 16593,
-								["c_max"] = 5831,
-								["id"] = 20243,
-								["r_dmg"] = 0,
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["a_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 1,
-								["r_amt"] = 0,
-								["c_min"] = 0,
-							},
-							[115767] = {
-								["c_amt"] = 2,
-								["b_amt"] = 0,
-								["c_dmg"] = 4790,
-								["g_amt"] = 0,
-								["n_max"] = 1443,
-								["targets"] = {
-									["Сердитый морской лев"] = 4301,
-									["Невермор"] = 18056,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 17567,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 16,
-								["total"] = 22357,
-								["c_max"] = 2574,
-								["id"] = 115767,
-								["r_dmg"] = 0,
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["a_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 14,
-								["r_amt"] = 0,
-								["c_min"] = 0,
-							},
-						},
-					},
-					["grupo"] = true,
-					["friendlyfire"] = {
-					},
-					["spec"] = 73,
-					["serial"] = "Player-1615-04A78E52",
-					["custom"] = 0,
-					["tipo"] = 1,
-					["damage_taken"] = 221398.029699,
-					["start_time"] = 1536622214,
-					["delay"] = 0,
-					["last_dps"] = 0,
-				}, -- [1]
 			},
 		}, -- [1]
 		{
 			["tipo"] = 3,
 			["_ActorTable"] = {
-				{
-					["flag_original"] = 1297,
-					["healing_from"] = {
-						["[*] Азерит"] = true,
-						["Зёба"] = true,
-						["Тотем исцеляющего потока <Krysdefoie-Hyjal>"] = true,
-					},
-					["pets"] = {
-					},
-					["iniciar_hps"] = false,
-					["classe"] = "WARRIOR",
-					["totalover"] = 65445.034225,
-					["total_without_pet"] = 82469.034225,
-					["total"] = 82469.034225,
-					["targets_absorbs"] = {
-					},
-					["heal_enemy"] = {
-					},
-					["on_hold"] = false,
-					["isTank"] = true,
-					["serial"] = "Player-1615-04A78E52",
-					["totalabsorb"] = 0.034225,
-					["last_hps"] = 0,
-					["targets"] = {
-						["Зёба"] = 116774,
-					},
-					["totalover_without_pet"] = 0.034225,
-					["healing_taken"] = 258803.034225,
-					["fight_component"] = true,
-					["end_time"] = 1536622268,
-					["start_time"] = 1536622119,
-					["nome"] = "Зёба",
-					["spells"] = {
-						["tipo"] = 3,
-						["_ActorTable"] = {
-							[276211] = {
-								["c_amt"] = 0,
-								["totalabsorb"] = 0,
-								["targets_overheal"] = {
-									["Зёба"] = 22702,
-								},
-								["n_max"] = 6755,
-								["targets"] = {
-									["Зёба"] = 11271,
-								},
-								["n_min"] = 0,
-								["counter"] = 3,
-								["overheal"] = 22702,
-								["total"] = 11271,
-								["c_max"] = 0,
-								["id"] = 276211,
-								["targets_absorbs"] = {
-								},
-								["c_curado"] = 0,
-								["m_crit"] = 0,
-								["c_min"] = 0,
-								["m_amt"] = 0,
-								["n_curado"] = 11271,
-								["n_amt"] = 3,
-								["totaldenied"] = 0,
-								["m_healed"] = 0,
-								["absorbed"] = 0,
-							},
-							[143924] = {
-								["c_amt"] = 0,
-								["totalabsorb"] = 0,
-								["targets_overheal"] = {
-									["Зёба"] = 107,
-								},
-								["n_max"] = 225,
-								["targets"] = {
-									["Зёба"] = 2565,
-								},
-								["n_min"] = 0,
-								["counter"] = 20,
-								["overheal"] = 107,
-								["total"] = 2565,
-								["c_max"] = 0,
-								["id"] = 143924,
-								["targets_absorbs"] = {
-								},
-								["c_curado"] = 0,
-								["m_crit"] = 0,
-								["c_min"] = 0,
-								["m_amt"] = 0,
-								["n_curado"] = 2565,
-								["n_amt"] = 20,
-								["totaldenied"] = 0,
-								["m_healed"] = 0,
-								["absorbed"] = 0,
-							},
-							[276208] = {
-								["c_amt"] = 0,
-								["totalabsorb"] = 0,
-								["targets_overheal"] = {
-								},
-								["n_max"] = 7078,
-								["targets"] = {
-									["Зёба"] = 7078,
-								},
-								["n_min"] = 0,
-								["counter"] = 1,
-								["overheal"] = 0,
-								["total"] = 7078,
-								["c_max"] = 0,
-								["id"] = 276208,
-								["targets_absorbs"] = {
-								},
-								["c_curado"] = 0,
-								["m_crit"] = 0,
-								["c_min"] = 0,
-								["m_amt"] = 0,
-								["n_curado"] = 7078,
-								["n_amt"] = 1,
-								["totaldenied"] = 0,
-								["m_healed"] = 0,
-								["absorbed"] = 0,
-							},
-							[276206] = {
-								["c_amt"] = 0,
-								["totalabsorb"] = 0,
-								["targets_overheal"] = {
-									["Зёба"] = 8494,
-								},
-								["n_max"] = 0,
-								["targets"] = {
-									["Зёба"] = 0,
-								},
-								["n_min"] = 0,
-								["counter"] = 2,
-								["overheal"] = 8494,
-								["total"] = 0,
-								["c_max"] = 0,
-								["id"] = 276206,
-								["targets_absorbs"] = {
-								},
-								["c_curado"] = 0,
-								["m_crit"] = 0,
-								["c_min"] = 0,
-								["m_amt"] = 0,
-								["n_curado"] = 0,
-								["n_amt"] = 2,
-								["totaldenied"] = 0,
-								["m_healed"] = 0,
-								["absorbed"] = 0,
-							},
-							[276205] = {
-								["c_amt"] = 0,
-								["totalabsorb"] = 0,
-								["targets_overheal"] = {
-									["Зёба"] = 1698,
-								},
-								["n_max"] = 2832,
-								["targets"] = {
-									["Зёба"] = 3966,
-								},
-								["n_min"] = 0,
-								["counter"] = 2,
-								["overheal"] = 1698,
-								["total"] = 3966,
-								["c_max"] = 0,
-								["id"] = 276205,
-								["targets_absorbs"] = {
-								},
-								["c_curado"] = 0,
-								["m_crit"] = 0,
-								["c_min"] = 0,
-								["m_amt"] = 0,
-								["n_curado"] = 3966,
-								["n_amt"] = 2,
-								["totaldenied"] = 0,
-								["m_healed"] = 0,
-								["absorbed"] = 0,
-							},
-							[270117] = {
-								["c_amt"] = 2,
-								["totalabsorb"] = 0,
-								["targets_overheal"] = {
-									["Зёба"] = 21122,
-								},
-								["n_max"] = 3098,
-								["targets"] = {
-									["Зёба"] = 51928,
-								},
-								["n_min"] = 0,
-								["counter"] = 22,
-								["overheal"] = 21122,
-								["total"] = 51928,
-								["c_max"] = 6320,
-								["id"] = 270117,
-								["targets_absorbs"] = {
-								},
-								["c_curado"] = 7091,
-								["m_crit"] = 0,
-								["c_min"] = 0,
-								["m_amt"] = 0,
-								["n_curado"] = 44837,
-								["n_amt"] = 20,
-								["totaldenied"] = 0,
-								["m_healed"] = 0,
-								["absorbed"] = 0,
-							},
-							[276207] = {
-								["c_amt"] = 0,
-								["totalabsorb"] = 0,
-								["targets_overheal"] = {
-									["Зёба"] = 11322,
-								},
-								["n_max"] = 5661,
-								["targets"] = {
-									["Зёба"] = 5661,
-								},
-								["n_min"] = 0,
-								["counter"] = 3,
-								["overheal"] = 11322,
-								["total"] = 5661,
-								["c_max"] = 0,
-								["id"] = 276207,
-								["targets_absorbs"] = {
-								},
-								["c_curado"] = 0,
-								["m_crit"] = 0,
-								["c_min"] = 0,
-								["m_amt"] = 0,
-								["n_curado"] = 5661,
-								["n_amt"] = 3,
-								["totaldenied"] = 0,
-								["m_healed"] = 0,
-								["absorbed"] = 0,
-							},
-						},
-					},
-					["grupo"] = true,
-					["targets_overheal"] = {
-						["Зёба"] = 65445,
-					},
-					["heal_enemy_amt"] = 0,
-					["custom"] = 0,
-					["last_event"] = 0,
-					["spec"] = 73,
-					["totaldenied"] = 0.034225,
-					["delay"] = 0,
-					["tipo"] = 2,
-				}, -- [1]
 			},
 		}, -- [2]
 		{
 			["tipo"] = 7,
 			["_ActorTable"] = {
-				{
-					["received"] = 460.026971,
-					["resource"] = 0.026971,
-					["targets"] = {
-						["Зёба"] = 460,
-					},
-					["pets"] = {
-					},
-					["powertype"] = 0,
-					["classe"] = "WARRIOR",
-					["fight_component"] = true,
-					["total"] = 460.026971,
-					["nome"] = "Зёба",
-					["spec"] = 73,
-					["grupo"] = true,
-					["tipo"] = 3,
-					["spells"] = {
-						["tipo"] = 7,
-						["_ActorTable"] = {
-							[1160] = {
-								["id"] = 1160,
-								["total"] = 120,
-								["targets"] = {
-									["Зёба"] = 120,
-								},
-								["counter"] = 3,
-							},
-							[6343] = {
-								["id"] = 6343,
-								["total"] = 54,
-								["targets"] = {
-									["Зёба"] = 54,
-								},
-								["counter"] = 11,
-							},
-							[107574] = {
-								["id"] = 107574,
-								["total"] = 40,
-								["targets"] = {
-									["Зёба"] = 40,
-								},
-								["counter"] = 2,
-							},
-							[195707] = {
-								["id"] = 195707,
-								["total"] = 111,
-								["targets"] = {
-									["Зёба"] = 111,
-								},
-								["counter"] = 38,
-							},
-							[23922] = {
-								["id"] = 23922,
-								["total"] = 135,
-								["targets"] = {
-									["Зёба"] = 135,
-								},
-								["counter"] = 9,
-							},
-						},
-					},
-					["flag_original"] = 1297,
-					["last_event"] = 0,
-					["alternatepower"] = 0.026971,
-					["isTank"] = true,
-					["serial"] = "Player-1615-04A78E52",
-				}, -- [1]
 			},
 		}, -- [3]
 		{
 			["tipo"] = 9,
 			["_ActorTable"] = {
-				{
-					["flag_original"] = 1047,
-					["debuff_uptime_spells"] = {
-						["tipo"] = 9,
-						["_ActorTable"] = {
-							[1160] = {
-								["refreshamt"] = 1,
-								["activedamt"] = 0,
-								["appliedamt"] = 3,
-								["id"] = 1160,
-								["uptime"] = 35,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[199042] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 0,
-								["appliedamt"] = 15,
-								["id"] = 199042,
-								["uptime"] = 14,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[6343] = {
-								["refreshamt"] = 11,
-								["activedamt"] = 0,
-								["appliedamt"] = 4,
-								["id"] = 6343,
-								["uptime"] = 44,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[5246] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 0,
-								["appliedamt"] = 2,
-								["id"] = 5246,
-								["uptime"] = 8,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[132168] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 0,
-								["appliedamt"] = 5,
-								["id"] = 132168,
-								["uptime"] = 4,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[115767] = {
-								["refreshamt"] = 13,
-								["activedamt"] = 0,
-								["appliedamt"] = 3,
-								["id"] = 115767,
-								["uptime"] = 41,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-						},
-					},
-					["interrupt"] = 1.008186,
-					["dispell"] = 2.003649,
-					["debuff_uptime_targets"] = {
-					},
-					["buff_uptime"] = 1954,
-					["dispell_targets"] = {
-						["Зёба"] = 2,
-					},
-					["cc_done_spells"] = {
-						["tipo"] = 9,
-						["_ActorTable"] = {
-							[132168] = {
-								["id"] = 132168,
-								["targets"] = {
-									["Ученик жрецов моря"] = 3,
-									["Сердитый морской лев"] = 2,
-								},
-								["counter"] = 5,
-							},
-							[5246] = {
-								["id"] = 5246,
-								["targets"] = {
-									["Скованный элементаль"] = 1,
-									["Коралловый щелкун"] = 1,
-								},
-								["counter"] = 2,
-							},
-						},
-					},
-					["classe"] = "WARRIOR",
-					["interrupt_spells"] = {
-						["tipo"] = 9,
-						["_ActorTable"] = {
-							[6552] = {
-								["id"] = 6552,
-								["interrompeu_oque"] = {
-									[269797] = 1,
-								},
-								["targets"] = {
-									["Невермор"] = 1,
-								},
-								["counter"] = 1,
-							},
-						},
-					},
-					["buff_uptime_spells"] = {
-						["tipo"] = 9,
-						["_ActorTable"] = {
-							[143625] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 6,
-								["appliedamt"] = 6,
-								["id"] = 143625,
-								["uptime"] = 199,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[275765] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 1,
-								["appliedamt"] = 1,
-								["id"] = 275765,
-								["uptime"] = 62,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[276207] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 4,
-								["appliedamt"] = 4,
-								["id"] = 276207,
-								["uptime"] = 55,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[127176] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 1,
-								["appliedamt"] = 1,
-								["id"] = 127176,
-								["uptime"] = 38,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[278124] = {
-								["refreshamt"] = 8,
-								["activedamt"] = 1,
-								["appliedamt"] = 1,
-								["id"] = 278124,
-								["uptime"] = 39,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[276208] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 1,
-								["appliedamt"] = 1,
-								["id"] = 276208,
-								["uptime"] = 18,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[271103] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 1,
-								["appliedamt"] = 1,
-								["id"] = 271103,
-								["uptime"] = 5,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[92155] = {
-								["refreshamt"] = 0,
-								["appliedamt"] = 1,
-								["activedamt"] = 1,
-								["uptime"] = 0,
-								["id"] = 92155,
-								["actived_at"] = 1536622245,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[276206] = {
-								["refreshamt"] = 1,
-								["activedamt"] = 1,
-								["appliedamt"] = 1,
-								["id"] = 276206,
-								["uptime"] = 34,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[6673] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 6,
-								["appliedamt"] = 6,
-								["id"] = 6673,
-								["uptime"] = 199,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[170347] = {
-								["actived_at"] = 1536622773,
-								["refreshamt"] = 0,
-								["activedamt"] = 2,
-								["appliedamt"] = 2,
-								["id"] = 170347,
-								["uptime"] = 11,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[256459] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 6,
-								["appliedamt"] = 6,
-								["id"] = 256459,
-								["uptime"] = 199,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[269413] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 6,
-								["appliedamt"] = 6,
-								["id"] = 269413,
-								["uptime"] = 199,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[107574] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 2,
-								["appliedamt"] = 2,
-								["id"] = 107574,
-								["uptime"] = 31,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[281240] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 5,
-								["appliedamt"] = 5,
-								["id"] = 281240,
-								["uptime"] = 125,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[5302] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 6,
-								["appliedamt"] = 6,
-								["id"] = 5302,
-								["uptime"] = 21,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[23920] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 1,
-								["appliedamt"] = 1,
-								["id"] = 23920,
-								["uptime"] = 1,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[276211] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 3,
-								["appliedamt"] = 3,
-								["id"] = 276211,
-								["uptime"] = 36,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[264408] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 6,
-								["appliedamt"] = 6,
-								["id"] = 264408,
-								["uptime"] = 199,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[271559] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 2,
-								["appliedamt"] = 2,
-								["id"] = 271559,
-								["uptime"] = 13,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[276204] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 5,
-								["appliedamt"] = 5,
-								["id"] = 276204,
-								["uptime"] = 42,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[132404] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 5,
-								["appliedamt"] = 5,
-								["id"] = 132404,
-								["uptime"] = 30,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[276205] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 2,
-								["appliedamt"] = 2,
-								["id"] = 276205,
-								["uptime"] = 14,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[32216] = {
-								["refreshamt"] = 1,
-								["activedamt"] = 3,
-								["appliedamt"] = 3,
-								["id"] = 32216,
-								["uptime"] = 8,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[202602] = {
-								["refreshamt"] = 12,
-								["activedamt"] = 16,
-								["appliedamt"] = 16,
-								["id"] = 202602,
-								["uptime"] = 127,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[269083] = {
-								["refreshamt"] = 0,
-								["activedamt"] = 6,
-								["appliedamt"] = 6,
-								["id"] = 269083,
-								["uptime"] = 199,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[275867] = {
-								["refreshamt"] = 8,
-								["activedamt"] = 8,
-								["appliedamt"] = 8,
-								["id"] = 275867,
-								["uptime"] = 50,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[171850] = {
-								["refreshamt"] = 0,
-								["appliedamt"] = 1,
-								["activedamt"] = 1,
-								["uptime"] = 0,
-								["id"] = 171850,
-								["actived_at"] = 1536622452,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-						},
-					},
-					["dispell_spells"] = {
-						["tipo"] = 9,
-						["_ActorTable"] = {
-							[107574] = {
-								["dispell"] = 2,
-								["id"] = 107574,
-								["dispell_oque"] = {
-									[185728] = 2,
-								},
-								["targets"] = {
-									["Зёба"] = 2,
-								},
-								["counter"] = 0,
-							},
-						},
-					},
-					["interrompeu_oque"] = {
-						[269797] = 1,
-					},
-					["fight_component"] = true,
-					["debuff_uptime"] = 146,
-					["pets"] = {
-					},
-					["cc_done"] = 7.009306,
-					["nome"] = "Зёба",
-					["spec"] = 73,
-					["grupo"] = true,
-					["interrupt_targets"] = {
-						["Невермор"] = 1,
-					},
-					["spell_cast"] = {
-						[6572] = 12,
-						[1160] = 3,
-						[20243] = 4,
-						[23922] = 9,
-						[46968] = 2,
-						[6552] = 2,
-						[5246] = 1,
-						[23920] = 1,
-						[107574] = 2,
-						[2565] = 5,
-						[6343] = 12,
-						[52174] = 2,
-					},
-					["dispell_oque"] = {
-						[185728] = 2,
-					},
-					["buff_uptime_targets"] = {
-					},
-					["tipo"] = 4,
-					["cc_done_targets"] = {
-						["Ученик жрецов моря"] = 3,
-						["Скованный элементаль"] = 1,
-						["Сердитый морской лев"] = 2,
-						["Коралловый щелкун"] = 1,
-					},
-					["isTank"] = true,
-					["serial"] = "Player-1615-04A78E52",
-					["last_event"] = 0,
-				}, -- [1]
 			},
 		}, -- [4]
 		{
@@ -5944,31 +1063,50 @@ _detalhes_database = {
 		},
 		["alternate_power"] = {
 		},
-		["combat_counter"] = 9658,
+		["combat_counter"] = 11351,
 		["totals"] = {
-			1299511.196788, -- [1]
-			435914.10409, -- [2]
+			0, -- [1]
+			0, -- [2]
 			{
 				0, -- [1]
-				[0] = 1463.96972961853,
+				[0] = 0,
 				["alternatepower"] = 0,
-				[3] = 0,
 				[6] = 0,
+				[3] = 0,
 			}, -- [3]
 			{
 				["buff_uptime"] = 0,
 				["ress"] = 0,
-				["debuff_uptime"] = 0,
-				["cooldowns_defensive"] = 0,
-				["interrupt"] = 2.015566,
-				["dispell"] = 4.018905,
-				["cc_break"] = 0,
 				["dead"] = 0,
+				["cc_break"] = 0,
+				["interrupt"] = 0,
+				["debuff_uptime"] = 0,
+				["dispell"] = 0,
+				["cooldowns_defensive"] = 0,
 			}, -- [4]
-			["frags_total"] = 0,
 			["voidzone_damage"] = 0,
+			["frags_total"] = 0,
 		},
-		["player_last_events"] = {
+		["totals_grupo"] = {
+			0, -- [1]
+			0, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				["alternatepower"] = 0,
+				[6] = 0,
+				[3] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["dead"] = 0,
+				["cc_break"] = 0,
+				["interrupt"] = 0,
+				["debuff_uptime"] = 0,
+				["dispell"] = 0,
+				["cooldowns_defensive"] = 0,
+			}, -- [4]
 		},
 		["frags_need_refresh"] = false,
 		["__call"] = {
@@ -5978,101 +1116,44 @@ _detalhes_database = {
 				1, -- [1]
 				1, -- [2]
 			}, -- [1]
+			["damage"] = {
+			},
 			["heal_section"] = {
 			},
 			["heal"] = {
 			},
 			["damage_section"] = {
 			},
-			["damage"] = {
-			},
 		},
-		["end_time"] = 25370.882,
-		["data_inicio"] = "02:30:46",
+		["hasSaved"] = true,
 		["frags"] = {
 		},
-		["data_fim"] = "02:41:13",
-		["overall_enemy_name"] = "-- x -- x --",
+		["data_fim"] = 0,
+		["overall_refreshed"] = true,
 		["CombatSkillCache"] = {
 		},
-		["segments_added"] = {
-			{
-				["elapsed"] = 37.4110000000001,
-				["type"] = 0,
-				["name"] = "Плетеный охотник",
-				["clock"] = "02:40:35",
-			}, -- [1]
-			{
-				["elapsed"] = 44.5380000000005,
-				["type"] = 0,
-				["name"] = "Невермор",
-				["clock"] = "02:39:34",
-			}, -- [2]
-			{
-				["elapsed"] = 11.002999999997,
-				["type"] = 0,
-				["name"] = "Ядовитый ткач",
-				["clock"] = "02:38:10",
-			}, -- [3]
-			{
-				["elapsed"] = 61.7810000000027,
-				["type"] = 0,
-				["name"] = "Ученик жрецов моря",
-				["clock"] = "02:35:02",
-			}, -- [4]
-			{
-				["elapsed"] = 20.474000000002,
-				["type"] = 0,
-				["name"] = "Перенастроенный уборочный голем",
-				["clock"] = "02:34:13",
-			}, -- [5]
-			{
-				["elapsed"] = 21.9080000000031,
-				["type"] = 0,
-				["name"] = "Охранница \"Кипящих Ключей\"",
-				["clock"] = "02:30:46",
-			}, -- [6]
+		["player_last_events"] = {
 		},
-		["start_time"] = 25173.767,
+		["start_time"] = 0,
 		["TimeData"] = {
 			["Raid Damage Done"] = {
 			},
 		},
-		["totals_grupo"] = {
-			376904.027351, -- [1]
-			82469.026146, -- [2]
-			{
-				0, -- [1]
-				[0] = 460.022958,
-				["alternatepower"] = 0,
-				[3] = 0,
-				[6] = 0,
-			}, -- [3]
-			{
-				["buff_uptime"] = 0,
-				["ress"] = 0,
-				["debuff_uptime"] = 0,
-				["cooldowns_defensive"] = 0,
-				["interrupt"] = 1.008186,
-				["dispell"] = 2.003649,
-				["cc_break"] = 0,
-				["dead"] = 0,
-			}, -- [4]
-		},
+		["data_inicio"] = 0,
 	},
 	["mythic_dungeon_currentsaved"] = {
-		["dungeon_name"] = "Осада Боралуса",
+		["dungeon_name"] = "Вольная Гавань",
 		["started"] = false,
 		["segment_id"] = 5,
-		["ej_id"] = 1023,
-		["started_at"] = 1536510128.7,
-		["run_id"] = 24,
+		["ej_id"] = 1001,
+		["started_at"] = 1537303755.7,
+		["run_id"] = 35,
 		["level"] = 8,
-		["dungeon_zone_id"] = 1822,
-		["previous_boss_killed_at"] = 1536512607,
+		["dungeon_zone_id"] = 1754,
+		["previous_boss_killed_at"] = 1537305858,
 	},
-	["last_instance_time"] = 1536620768,
-	["last_version"] = "v8.0.1.6272",
+	["last_instance_time"] = 1537472570,
+	["last_version"] = "v8.0.1.6449",
 	["announce_cooldowns"] = {
 		["enabled"] = false,
 		["ignored_cooldowns"] = {
@@ -6089,17 +1170,6 @@ _detalhes_database = {
 		["channel"] = "SELF",
 	},
 	["cached_specs"] = {
-		["Player-1605-0ADEB178"] = 253,
-		["Player-3692-046A9205"] = 258,
-		["Player-1603-0AAA07D6"] = 253,
-		["Player-1615-01FE7609"] = 73,
-		["Player-1604-06372579"] = 259,
-		["Player-581-07C905F1"] = 267,
-		["Player-1923-09C8E8D6"] = 253,
-		["Player-1615-08958E74"] = 261,
-		["Player-1929-0ABDFE1D"] = 103,
-		["Player-1929-0ACFDDDE"] = 64,
 		["Player-1615-04A78E52"] = 73,
-		["Player-1603-0A87A833"] = 258,
 	},
 }

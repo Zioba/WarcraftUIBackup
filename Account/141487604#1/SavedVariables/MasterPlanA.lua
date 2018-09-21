@@ -2,11 +2,11 @@
 MasterPlanAG = {
 	["Ревущий фьорд"] = {
 		["Царева"] = {
+			["faction"] = "Horde",
 			["summary"] = {
 				["tt3"] = true,
 				["ti3"] = 127854,
 			},
-			["faction"] = "Horde",
 			["curOil"] = 880,
 			["lastCacheTime"] = 1531603761,
 			["curRes"] = 573,
@@ -30,15 +30,9 @@ MasterPlanAG = {
 			["class"] = "ROGUE",
 			["faction"] = "Alliance",
 		},
-		["Дайтемнеключ"] = {
-			["class"] = "WARLOCK",
-			["summary"] = {
-				["ti2"] = 122484,
-				["ti3"] = 128391,
-				["tt3"] = true,
-				["tt2"] = true,
-			},
-			["faction"] = "Horde",
+		["Зёбиндру"] = {
+			["faction"] = "Alliance",
+			["class"] = "DRUID",
 		},
 		["Зёбедам"] = {
 			["faction"] = "Horde",
@@ -56,39 +50,41 @@ MasterPlanAG = {
 			["lastCacheTime"] = 1530809929,
 		},
 		["Зёба"] = {
-			["curOil"] = 20405,
+			["lastCacheTime"] = 1537477748,
 			["summary"] = {
-				["lastOilTime"] = 1536429954,
-				["tt2"] = 1536156591,
-				["tt3"] = 1535879718,
+				["tt2"] = 1537368942,
+				["tt3"] = 1537203796,
 				["tt1"] = 1536432954,
 				["ti1"] = 118531,
 				["ti3"] = 127855,
-				["inProgress"] = {
-					[327] = 1536437218,
-				},
 				["ti2"] = 122486,
 			},
 			["faction"] = "Horde",
 			["cacheSize"] = 1000,
 			["class"] = "WARRIOR",
-			["curRes"] = 3680,
-			["lastCacheTime"] = 1536620726,
+			["curRes"] = 1810,
+			["curOil"] = 20550,
 		},
-		["Зёбинмонк"] = {
+		["Дайтемнеключ"] = {
+			["class"] = "WARLOCK",
+			["summary"] = {
+				["ti2"] = 122484,
+				["ti3"] = 128391,
+				["tt3"] = true,
+				["tt2"] = true,
+			},
 			["faction"] = "Horde",
-			["class"] = "MONK",
 		},
 		["Василец"] = {
 			["faction"] = "Horde",
 			["curOil"] = 1410,
-			["class"] = "DEATHKNIGHT",
-			["curRes"] = 6059,
 			["lastCacheTime"] = 1473637614,
+			["curRes"] = 6059,
+			["class"] = "DEATHKNIGHT",
 		},
-		["Зёбиндру"] = {
-			["faction"] = "Alliance",
-			["class"] = "DRUID",
+		["Зёбинмонк"] = {
+			["faction"] = "Horde",
+			["class"] = "MONK",
 		},
 		["Зёбинпаладин"] = {
 			["lastCacheTime"] = 1507312367,
@@ -97,8 +93,8 @@ MasterPlanAG = {
 			["faction"] = "Horde",
 		},
 		["Зёбинатор"] = {
-			["faction"] = "Horde",
 			["class"] = "HUNTER",
+			["faction"] = "Horde",
 		},
 	},
 	["IgnoreRewards"] = {

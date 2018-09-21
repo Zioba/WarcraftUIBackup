@@ -7,7 +7,7 @@ _detalhes_database = {
 		["tabelas"] = {
 		},
 	},
-	["combat_counter"] = 785,
+	["combat_counter"] = 789,
 	["force_font_outline"] = "",
 	["tabela_instancias"] = {
 	},
@@ -15,6 +15,10 @@ _detalhes_database = {
 		{
 			["segment"] = -1,
 			["sub_attribute"] = 1,
+			["horizontalSnap"] = false,
+			["verticalSnap"] = false,
+			["is_open"] = true,
+			["isLocked"] = true,
 			["sub_atributo_last"] = {
 				1, -- [1]
 				1, -- [2]
@@ -22,18 +26,16 @@ _detalhes_database = {
 				1, -- [4]
 				8, -- [5]
 			},
-			["is_open"] = true,
-			["isLocked"] = true,
 			["snap"] = {
 			},
 			["mode"] = 2,
 			["attribute"] = 1,
 			["pos"] = {
 				["normal"] = {
-					["y"] = -334.065558431318,
-					["x"] = 767.49914229857,
-					["w"] = 239.931945800781,
-					["h"] = 172.734970092773,
+					["y"] = -380.430491324649,
+					["x"] = 739.572183618975,
+					["w"] = 236.101608276367,
+					["h"] = 167.372467041016,
 				},
 				["solo"] = {
 					["y"] = 1.99995885261551,
@@ -45,6 +47,39 @@ _detalhes_database = {
 		}, -- [1]
 	},
 	["cached_talents"] = {
+		["Player-1615-075E99D1"] = {
+		},
+		["Player-1615-08751379"] = {
+			23072, -- [1]
+			22444, -- [2]
+			22907, -- [3]
+			22453, -- [4]
+			22461, -- [5]
+			22455, -- [6]
+			21630, -- [7]
+		},
+		["Player-1615-084CDEE4"] = {
+		},
+		["Player-1615-03A215EA"] = {
+		},
+		["Player-1615-047D33FD"] = {
+			22018, -- [1]
+			22019, -- [2]
+			22515, -- [3]
+			22525, -- [4]
+			23373, -- [5]
+			22535, -- [6]
+			22537, -- [7]
+		},
+		["Player-1615-0880BC61"] = {
+			19823, -- [1]
+			19818, -- [2]
+			22168, -- [3]
+			19995, -- [4]
+			20173, -- [5]
+			22214, -- [6]
+			22218, -- [7]
+		},
 	},
 	["last_instance_id"] = 1458,
 	["announce_interrupts"] = {
@@ -60,7 +95,7 @@ _detalhes_database = {
 		["reverse"] = false,
 	},
 	["active_profile"] = "Зёба-Ревущий фьорд",
-	["last_realversion"] = 131,
+	["last_realversion"] = 134,
 	["benchmark_db"] = {
 		["frame"] = {
 		},
@@ -68,17 +103,17 @@ _detalhes_database = {
 	["plugin_database"] = {
 		["DETAILS_PLUGIN_TINY_THREAT"] = {
 			["updatespeed"] = 1,
-			["enabled"] = true,
+			["showamount"] = false,
 			["animate"] = false,
 			["useplayercolor"] = false,
-			["author"] = "Details! Team",
 			["useclasscolors"] = false,
+			["author"] = "Details! Team",
 			["playercolor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 			},
-			["showamount"] = false,
+			["enabled"] = true,
 		},
 		["DETAILS_PLUGIN_DAMAGE_RANK"] = {
 			["lasttry"] = {
@@ -86,20 +121,20 @@ _detalhes_database = {
 			["annouce"] = true,
 			["dpshistory"] = {
 			},
-			["enabled"] = true,
+			["author"] = "Details! Team",
 			["dps"] = 0,
 			["level"] = 1,
-			["author"] = "Details! Team",
+			["enabled"] = true,
 		},
 		["DETAILS_PLUGIN_VANGUARD"] = {
 			["enabled"] = true,
+			["tank_block_texture"] = "Details Serenity",
 			["tank_block_color"] = {
 				0.24705882, -- [1]
 				0.0039215, -- [2]
 				0, -- [3]
 				0.8, -- [4]
 			},
-			["tank_block_texture"] = "Details Serenity",
 			["show_inc_bars"] = false,
 			["author"] = "Details! Team",
 			["first_run"] = false,
@@ -112,16 +147,11 @@ _detalhes_database = {
 			["max_emote_segments"] = 3,
 			["author"] = "Details! Team",
 			["window_scale"] = 1,
-			["encounter_timers_dbm"] = {
-			},
+			["hide_on_combat"] = false,
 			["show_icon"] = 5,
 			["opened"] = 0,
-			["hide_on_combat"] = false,
-		},
-		["DETAILS_PLUGIN_DPS_TUNING"] = {
-			["enabled"] = true,
-			["author"] = "Details! Team",
-			["SpellBarsShowType"] = 1,
+			["encounter_timers_dbm"] = {
+			},
 		},
 		["DETAILS_PLUGIN_TIME_ATTACK"] = {
 			["enabled"] = true,
@@ -134,18 +164,23 @@ _detalhes_database = {
 			},
 			["time"] = 40,
 			["history_lastindex"] = 0,
-			["author"] = "Details! Team",
+			["realm_lastamt"] = 0,
 			["realm_history"] = {
 			},
-			["realm_lastamt"] = 0,
+			["author"] = "Details! Team",
 		},
+		["DETAILS_PLUGIN_DPS_TUNING"] = {
+			["enabled"] = true,
+			["author"] = "Details! Team",
+			["SpellBarsShowType"] = 1,
+		},
+	},
+	["nick_tag_cache"] = {
+		["nextreset"] = 1538320593,
+		["last_version"] = 10,
 	},
 	["ignore_nicktag"] = false,
 	["last_encounter"] = "Аргус Порабощенный",
-	["nick_tag_cache"] = {
-		["nextreset"] = 1532554365,
-		["last_version"] = 10,
-	},
 	["mythic_dungeon_currentsaved"] = {
 		["dungeon_name"] = "Чертоги Доблести",
 		["started"] = false,
@@ -157,14 +192,15 @@ _detalhes_database = {
 		["dungeon_zone_id"] = 1477,
 		["previous_boss_killed_at"] = 1530211318,
 	},
-	["last_version"] = "v8.0.1.5985",
+	["last_day"] = "15",
 	["combat_id"] = 6,
 	["savedStyles"] = {
 	},
-	["last_instance_time"] = 1531606426,
-	["announce_firsthit"] = {
-		["enabled"] = true,
-		["channel"] = "SELF",
+	["character_data"] = {
+		["logons"] = 47,
+	},
+	["SoloTablesSaved"] = {
+		["Mode"] = 1,
 	},
 	["announce_deaths"] = {
 		["enabled"] = false,
@@ -204,7 +240,7 @@ _detalhes_database = {
 		},
 		["alternate_power"] = {
 		},
-		["combat_counter"] = 783,
+		["combat_counter"] = 787,
 		["totals"] = {
 			0, -- [1]
 			0, -- [2]
@@ -234,7 +270,7 @@ _detalhes_database = {
 		["__call"] = {
 		},
 		["data_inicio"] = 0,
-		["end_time"] = 2253.125,
+		["end_time"] = 83550.676,
 		["frags"] = {
 		},
 		["data_fim"] = 0,
@@ -261,7 +297,7 @@ _detalhes_database = {
 				["dead"] = 0,
 			}, -- [4]
 		},
-		["start_time"] = 2253.125,
+		["start_time"] = 83550.676,
 		["TimeData"] = {
 		},
 		["PhaseData"] = {
@@ -279,17 +315,16 @@ _detalhes_database = {
 			},
 		},
 	},
-	["SoloTablesSaved"] = {
-		["Mode"] = 1,
+	["announce_firsthit"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
 	},
-	["character_data"] = {
-		["logons"] = 46,
-	},
-	["last_day"] = "22",
+	["last_instance_time"] = 1531606426,
+	["last_version"] = "v8.0.1.6449",
 	["announce_cooldowns"] = {
+		["enabled"] = false,
 		["ignored_cooldowns"] = {
 		},
-		["enabled"] = false,
 		["custom"] = "",
 		["channel"] = "RAID",
 	},
@@ -303,10 +338,5 @@ _detalhes_database = {
 	},
 	["cached_specs"] = {
 		["Player-1615-08751379"] = 62,
-		["Player-1605-096E9819"] = 64,
-		["Player-1615-084A9100"] = 63,
-		["Player-1615-086BAF65"] = 64,
-		["Player-1615-04049DCC"] = 62,
-		["Player-1615-080C398D"] = 64,
 	},
 }
