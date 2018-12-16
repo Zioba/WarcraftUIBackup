@@ -1,3 +1,10 @@
+VER 3 0100000000000003 "rfvthf" "136103"
+/console cameradistancemaxZoomFactor 2.6
+END
+VER 3 0100000000000004 "runnic" "135277"
+/cast Танцующее руническое оружие
+/use Завывашка Джеса
+END
 VER 3 0100000000000002 "измельчить" "ACHIEVEMENT_GUILDPERK_QUICK AND DEAD"
 /cast Измельчение
 /use Морозноцвет

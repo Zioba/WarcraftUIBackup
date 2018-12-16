@@ -10,7 +10,7 @@ bind CTRL-PAGEDOWN NONE
 bind R ACTIONBUTTON4
 bind SHIFT-R CLICK BT4Button15:LeftButton
 bind 4 CLICK BT4Button69:LeftButton
-bind 5 NONE
+bind 5 CLICK EXRTWM1:LeftButton
 bind 6 NONE
 bind 7 NONE
 bind 8 NONE
@@ -66,3 +66,5 @@ bind T CLICK BT4Button43:LeftButton
 bind ALT-0 CLICK BT4Button38:LeftButton
 bind SHIFT-0 CLICK BT4Button70:LeftButton
 bind SHIFT-- NONE
+bind SHIFT-. FRIENDNAMEPLATES
+bind SHIFT-` RAIDTARGET7

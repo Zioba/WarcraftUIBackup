@@ -41,7 +41,7 @@ ActionBarSaver: disabled
 ErrorFilter: enabled
 OmniCC: enabled
 OmniCC_Config: enabled
-RaiderIO_DB_EU_H: disabled
+RaiderIO_DB_EU_H: enabled
 ShadowedUF_Options: enabled
 ShadowedUnitFrames: enabled
 TellMeWhen: enabled
@@ -117,4 +117,6 @@ Details_Streamer: disabled
 Details_RaidCheck: disabled
 LootHelper: disabled
 Azeroth Auto Pilot: disabled
-Details: enabled
+Details: disabled
+Gladius: enabled
+Plater: enabled

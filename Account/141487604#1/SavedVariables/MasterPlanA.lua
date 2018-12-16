@@ -2,11 +2,15 @@
 MasterPlanAG = {
 	["Ревущий фьорд"] = {
 		["Царева"] = {
-			["faction"] = "Horde",
 			["summary"] = {
+				["tt2"] = true,
 				["tt3"] = true,
+				["tt1"] = true,
+				["ti1"] = 118529,
 				["ti3"] = 127854,
+				["ti2"] = 122484,
 			},
+			["faction"] = "Horde",
 			["curOil"] = 880,
 			["lastCacheTime"] = 1531603761,
 			["curRes"] = 573,
@@ -21,8 +25,8 @@ MasterPlanAG = {
 			["faction"] = "Horde",
 		},
 		["Зёбинприст"] = {
-			["lastCacheTime"] = 1506647569,
 			["class"] = "PRIEST",
+			["lastCacheTime"] = 1506647569,
 			["curRes"] = 1116,
 			["faction"] = "Horde",
 		},
@@ -30,9 +34,9 @@ MasterPlanAG = {
 			["class"] = "ROGUE",
 			["faction"] = "Alliance",
 		},
-		["Зёбиндру"] = {
-			["faction"] = "Alliance",
-			["class"] = "DRUID",
+		["Зёбинмонк"] = {
+			["faction"] = "Horde",
+			["class"] = "MONK",
 		},
 		["Зёбедам"] = {
 			["faction"] = "Horde",
@@ -50,20 +54,35 @@ MasterPlanAG = {
 			["lastCacheTime"] = 1530809929,
 		},
 		["Зёба"] = {
-			["lastCacheTime"] = 1537477748,
+			["lastCacheTime"] = 1544748168,
 			["summary"] = {
-				["tt2"] = 1537368942,
-				["tt3"] = 1537203796,
-				["tt1"] = 1536432954,
-				["ti1"] = 118531,
-				["ti3"] = 127855,
+				["lastOilTime"] = 1544815143,
 				["ti2"] = 122486,
+				["inProgress"] = {
+					[652] = 1544828965,
+				},
+				["ti3"] = 127855,
+				["ti1"] = 118531,
+				["tt1"] = true,
+				["tt3"] = true,
+				["tt2"] = true,
 			},
 			["faction"] = "Horde",
 			["cacheSize"] = 1000,
 			["class"] = "WARRIOR",
-			["curRes"] = 1810,
-			["curOil"] = 20550,
+			["curRes"] = 8841,
+			["curOil"] = 20295,
+		},
+		["Зёбиндру"] = {
+			["faction"] = "Alliance",
+			["class"] = "DRUID",
+		},
+		["Василец"] = {
+			["curOil"] = 1410,
+			["faction"] = "Horde",
+			["lastCacheTime"] = 1473637614,
+			["curRes"] = 6059,
+			["class"] = "DEATHKNIGHT",
 		},
 		["Дайтемнеключ"] = {
 			["class"] = "WARLOCK",
@@ -75,26 +94,15 @@ MasterPlanAG = {
 			},
 			["faction"] = "Horde",
 		},
-		["Василец"] = {
-			["faction"] = "Horde",
-			["curOil"] = 1410,
-			["lastCacheTime"] = 1473637614,
-			["curRes"] = 6059,
-			["class"] = "DEATHKNIGHT",
-		},
-		["Зёбинмонк"] = {
-			["faction"] = "Horde",
-			["class"] = "MONK",
-		},
 		["Зёбинпаладин"] = {
-			["lastCacheTime"] = 1507312367,
 			["class"] = "PALADIN",
+			["lastCacheTime"] = 1507312367,
 			["curRes"] = 1075,
 			["faction"] = "Horde",
 		},
 		["Зёбинатор"] = {
-			["class"] = "HUNTER",
 			["faction"] = "Horde",
+			["class"] = "HUNTER",
 		},
 	},
 	["IgnoreRewards"] = {

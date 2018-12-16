@@ -1,8 +1,8 @@
-RaiderIO_DB_EU_H: disabled
+RaiderIO_DB_EU_H: enabled
 RaiderIO: disabled
 Azeroth Auto Pilot: disabled
 TomTom: enabled
-Details: enabled
+Details: disabled
 Easy_Obliterate: disabled
 TidyPlatesWidgets: disabled
 TidyPlates_Graphite: disabled
@@ -12,3 +12,5 @@ TidyPlates_Quatre: disabled
 TidyPlates_Neon: disabled
 DBM-Core: enabled
 RCLootCouncil: enabled
+Gladius: enabled
+Plater: enabled
