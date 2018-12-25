@@ -27,7 +27,7 @@ ZiobaToDo: disabled
 WoWTODONano: disabled
 RaiderIO_DB_EU_A: disabled
 LegionToDo: enabled
-RaiderIO: disabled
+RaiderIO: enabled
 DBM-Core: enabled
 epgp_lootmaster: disabled
 epgp_lootmaster_ml: disabled
@@ -126,3 +126,5 @@ RaiderIO_DB_TW_A_R: disabled
 RaiderIO_DB_KR_H_R: disabled
 RaiderIO_DB_KR_A_R: disabled
 Plater: enabled
+DejaCharacterStats: enabled
+RaiderIO_DB_EU_A_R: disabled

@@ -11,7 +11,7 @@ ZiobaToDo: disabled
 WoWTODONano: disabled
 RaiderIO_DB_EU_A: disabled
 LegionToDo: enabled
-RaiderIO: disabled
+RaiderIO: enabled
 RCLootCouncil: enabled
 DBM-Core: enabled
 epgp_lootmaster: disabled
@@ -114,3 +114,5 @@ Azeroth Auto Pilot: disabled
 Details: disabled
 Gladius: enabled
 Plater: enabled
+DejaCharacterStats: enabled
+RaiderIO_DB_EU_A_R: disabled

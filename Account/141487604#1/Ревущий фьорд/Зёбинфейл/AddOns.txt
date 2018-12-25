@@ -1,4 +1,4 @@
-RaiderIO: disabled
+RaiderIO: enabled
 RCLootCouncil: enabled
 DBM-Core: enabled
 Recount: enabled
@@ -108,3 +108,5 @@ Azeroth Auto Pilot: disabled
 Details: disabled
 Gladius: enabled
 Plater: enabled
+DejaCharacterStats: enabled
+RaiderIO_DB_EU_A_R: disabled

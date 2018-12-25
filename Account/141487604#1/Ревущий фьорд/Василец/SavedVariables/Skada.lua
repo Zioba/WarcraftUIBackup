@@ -1,5 +1,7 @@
 
 SkadaPerCharDB = {
+	["sets"] = {
+	},
 	["total"] = {
 		["healingabsorbed"] = 0,
 		["auras"] = {
@@ -21,11 +23,9 @@ SkadaPerCharDB = {
 		},
 		["name"] = "Всего",
 		["ccbreaks"] = 0,
-		["starttime"] = 1544915429,
+		["starttime"] = 1545731130,
 		["mobhdone"] = 0,
-		["last_action"] = 1544915429,
+		["last_action"] = 1545731130,
 		["mobdone"] = 0,
-	},
-	["sets"] = {
 	},
 }

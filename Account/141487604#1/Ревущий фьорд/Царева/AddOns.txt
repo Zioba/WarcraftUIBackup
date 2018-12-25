@@ -1,5 +1,5 @@
 RaiderIO_DB_EU_H: enabled
-RaiderIO: disabled
+RaiderIO: enabled
 Azeroth Auto Pilot: disabled
 TomTom: enabled
 Details: disabled
@@ -14,3 +14,8 @@ DBM-Core: enabled
 RCLootCouncil: enabled
 Gladius: enabled
 Plater: enabled
+ErrorFilter: enabled
+ExRT: enabled
+MasterPlan: enabled
+DejaCharacterStats: enabled
+RaiderIO_DB_EU_A_R: disabled
