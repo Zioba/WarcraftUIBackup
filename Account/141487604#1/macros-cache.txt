@@ -1,6 +1,6 @@
 VER 3 000000000000000F "AAP_MACRO" "INV_MISC_QUESTIONMARK"
 #showtooltip
-/use Укрепляющая мазь
+/click ExtraActionButton1
 END
 VER 3 000000000000000B "cancelAura" "132349"
 /cancelaura благословение защиты

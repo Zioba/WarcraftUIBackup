@@ -1,18 +1,18 @@
 
 RaiderIO_Config = {
 	["enableKeystoneTooltips"] = true,
-	["enableFriendsTooltips"] = true,
-	["enableUnitTooltips"] = true,
 	["alwaysExtendTooltip"] = false,
+	["enableUnitTooltips"] = true,
+	["enableFriendsTooltips"] = true,
 	["showPrevAllScore"] = true,
 	["showDropDownCopyURL"] = true,
 	["disableScoreColors"] = false,
 	["enableLFGTooltips"] = true,
-	["enableWhoTooltips"] = true,
+	["showSimpleScoreColors"] = false,
 	["showMainsScore"] = true,
 	["enableWhoMessages"] = true,
-	["showSimpleScoreColors"] = false,
+	["enableWhoTooltips"] = true,
 	["enableLFGDropdown"] = true,
 	["enableGuildTooltips"] = true,
 }
-RaiderIO_LastCharacter = "eu-Василец-howling-fjord"
+RaiderIO_LastCharacter = "eu-Зёбедам-howling-fjord"

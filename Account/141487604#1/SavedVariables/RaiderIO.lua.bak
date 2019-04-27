@@ -1,17 +1,17 @@
 
 RaiderIO_Config = {
 	["enableKeystoneTooltips"] = true,
-	["alwaysExtendTooltip"] = false,
-	["enableUnitTooltips"] = true,
 	["enableFriendsTooltips"] = true,
+	["enableUnitTooltips"] = true,
+	["alwaysExtendTooltip"] = false,
 	["showPrevAllScore"] = true,
 	["showDropDownCopyURL"] = true,
 	["disableScoreColors"] = false,
 	["enableLFGTooltips"] = true,
-	["showSimpleScoreColors"] = false,
+	["enableWhoTooltips"] = true,
 	["showMainsScore"] = true,
 	["enableWhoMessages"] = true,
-	["enableWhoTooltips"] = true,
+	["showSimpleScoreColors"] = false,
 	["enableLFGDropdown"] = true,
 	["enableGuildTooltips"] = true,
 }

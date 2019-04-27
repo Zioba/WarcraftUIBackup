@@ -110,4 +110,11 @@ Details: disabled
 Gladius: enabled
 Plater: enabled
 DejaCharacterStats: enabled
+AAP-Core: disabled
+AAP-Vanilla: disabled
+AAP-TBC-WotLK: disabled
+AAP-Cata-MoP: disabled
+AAP-WoD: disabled
+AAP-Legion: disabled
+AAP-BfA: disabled
 RaiderIO_DB_EU_A_R: disabled

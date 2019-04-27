@@ -23,9 +23,9 @@ SkadaPerCharDB = {
 		},
 		["name"] = "Всего",
 		["ccbreaks"] = 0,
-		["starttime"] = 1544879532,
+		["starttime"] = 1549044717,
 		["mobhdone"] = 0,
-		["last_action"] = 1544879532,
+		["last_action"] = 1549044717,
 		["mobdone"] = 0,
 	},
 }

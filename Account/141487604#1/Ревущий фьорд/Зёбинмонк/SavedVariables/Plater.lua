@@ -5,11 +5,14 @@ PlaterDBChr = {
 	},
 	["buffsBanned"] = {
 	},
-	["debuffsBanned"] = {
+	["first_run3"] = {
+		["Player-1615-083F978D"] = true,
 	},
 	["spellRangeCheck"] = {
 		[269] = "Вызов",
 		[270] = "Вызов",
 		[268] = "Вызов",
+	},
+	["debuffsBanned"] = {
 	},
 }

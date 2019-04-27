@@ -1,38 +1,46 @@
 
 MasterPlanAG = {
 	["Ревущий фьорд"] = {
-		["Царева"] = {
-			["summary"] = {
-				["ti2"] = 122484,
-				["ti3"] = 127854,
-				["tt1"] = true,
-				["ti1"] = 118529,
-				["tt3"] = true,
-				["tt2"] = true,
-			},
-			["faction"] = "Horde",
-			["lastCacheTime"] = 1531603761,
-			["class"] = "DRUID",
-			["curRes"] = 573,
-			["curOil"] = 880,
+		["Уткасосубуй"] = {
+			["class"] = "PRIEST",
+			["faction"] = "Alliance",
 		},
-		["Ппробник"] = {
+		["Зёбинмаг"] = {
 			["faction"] = "Horde",
-			["class"] = "WARRIOR",
+			["class"] = "MAGE",
+		},
+		["Зёбедам"] = {
+			["class"] = "DEMONHUNTER",
+			["faction"] = "Horde",
+		},
+		["Неполучилась"] = {
+			["faction"] = "Horde",
+			["class"] = "SHAMAN",
+		},
+		["Зёбинмонк"] = {
+			["faction"] = "Horde",
+			["class"] = "MONK",
+		},
+		["Василец"] = {
+			["faction"] = "Horde",
+			["curOil"] = 1410,
+			["lastCacheTime"] = 1473637614,
+			["curRes"] = 6059,
+			["class"] = "DEATHKNIGHT",
 		},
 		["Зёбинпаладин"] = {
-			["class"] = "PALADIN",
 			["lastCacheTime"] = 1507312367,
+			["class"] = "PALADIN",
 			["curRes"] = 1075,
 			["faction"] = "Horde",
 		},
-		["Зёбинмаг"] = {
-			["class"] = "MAGE",
+		["Ппробник"] = {
+			["class"] = "WARRIOR",
 			["faction"] = "Horde",
 		},
 		["Зёбинприст"] = {
-			["lastCacheTime"] = 1506647569,
 			["class"] = "PRIEST",
+			["lastCacheTime"] = 1506647569,
 			["curRes"] = 1116,
 			["faction"] = "Horde",
 		},
@@ -47,69 +55,81 @@ MasterPlanAG = {
 			["curRes"] = 125,
 			["lastCacheTime"] = 1530809929,
 		},
-		["Зёбинмонк"] = {
+		["Царева"] = {
+			["summary"] = {
+				["tt2"] = true,
+				["tt3"] = true,
+				["tt1"] = true,
+				["ti1"] = 118529,
+				["ti3"] = 127854,
+				["ti2"] = 122484,
+			},
 			["faction"] = "Horde",
-			["class"] = "MONK",
+			["curOil"] = 880,
+			["class"] = "DRUID",
+			["curRes"] = 573,
+			["lastCacheTime"] = 1531603761,
 		},
-		["Зёбедам"] = {
-			["class"] = "DEMONHUNTER",
-			["faction"] = "Horde",
+		["Наурчмо"] = {
+			["faction"] = "Alliance",
+			["class"] = "WARLOCK",
 		},
-		["Неполучилась"] = {
-			["class"] = "SHAMAN",
-			["faction"] = "Horde",
+		["Дебустерчмо"] = {
+			["faction"] = "Alliance",
+			["class"] = "HUNTER",
 		},
 		["Зёба"] = {
 			["faction"] = "Horde",
 			["summary"] = {
-				["lastOilTime"] = 1545331315,
-				["tt2"] = true,
-				["tt3"] = 1544547021,
-				["tt1"] = 1543690955,
-				["ti1"] = 118531,
-				["ti3"] = 127855,
-				["inProgress"] = {
-					[684] = 1545370661,
-					[709] = 1545363470,
-				},
+				["lastOilTime"] = 1550944743,
 				["ti2"] = 122486,
+				["inProgress"] = {
+					[179] = 1550785306,
+					[284] = 1550803305,
+					[278] = 1550785305,
+					[335] = 1550817706,
+					[177] = 1550784407,
+					[188] = 1550784407,
+					[457] = 1550796108,
+					[190] = 1550784405,
+				},
+				["ti3"] = 127855,
+				["ti1"] = 118531,
+				["tt1"] = true,
+				["tt3"] = 1549412710,
+				["tt2"] = 1550682042,
 			},
-			["curOil"] = 20095,
+			["curOil"] = 19445,
 			["cacheSize"] = 1000,
 			["class"] = "WARRIOR",
-			["curRes"] = 9741,
-			["lastCacheTime"] = 1545349036,
-		},
-		["Зёбиндру"] = {
-			["class"] = "DRUID",
-			["faction"] = "Alliance",
-		},
-		["Василец"] = {
-			["lastCacheTime"] = 1473637614,
-			["curOil"] = 1410,
-			["class"] = "DEATHKNIGHT",
-			["curRes"] = 6059,
-			["faction"] = "Horde",
+			["curRes"] = 10000,
+			["lastCacheTime"] = 1552741980,
 		},
 		["Дайтемнеключ"] = {
 			["class"] = "WARLOCK",
 			["summary"] = {
-				["tt2"] = true,
-				["tt3"] = true,
-				["ti3"] = 128391,
 				["ti2"] = 122484,
+				["ti3"] = 128391,
+				["tt3"] = true,
+				["tt2"] = true,
 			},
 			["faction"] = "Horde",
 		},
 		["Сашкинадашка"] = {
-			["faction"] = "Alliance",
 			["class"] = "ROGUE",
+			["faction"] = "Alliance",
+		},
+		["Зёбиндру"] = {
+			["faction"] = "Alliance",
+			["class"] = "DRUID",
+		},
+		["Никсиамчмо"] = {
+			["class"] = "DEATHKNIGHT",
+			["faction"] = "Alliance",
 		},
 		["Зёбинатор"] = {
-			["faction"] = "Horde",
 			["class"] = "HUNTER",
+			["faction"] = "Horde",
 		},
-	},
-	["IgnoreRewards"] = {
 	},
 }
