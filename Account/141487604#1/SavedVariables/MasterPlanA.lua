@@ -10,8 +10,8 @@ MasterPlanAG = {
 			["class"] = "MAGE",
 		},
 		["Зёбедам"] = {
-			["class"] = "DEMONHUNTER",
 			["faction"] = "Horde",
+			["class"] = "DEMONHUNTER",
 		},
 		["Неполучилась"] = {
 			["faction"] = "Horde",
@@ -64,8 +64,8 @@ MasterPlanAG = {
 				["ti3"] = 127854,
 				["ti2"] = 122484,
 			},
-			["faction"] = "Horde",
 			["curOil"] = 880,
+			["faction"] = "Horde",
 			["class"] = "DRUID",
 			["curRes"] = 573,
 			["lastCacheTime"] = 1531603761,
@@ -103,7 +103,7 @@ MasterPlanAG = {
 			["cacheSize"] = 1000,
 			["class"] = "WARRIOR",
 			["curRes"] = 10000,
-			["lastCacheTime"] = 1552741980,
+			["lastCacheTime"] = 1557644789,
 		},
 		["Дайтемнеключ"] = {
 			["class"] = "WARLOCK",
@@ -131,5 +131,7 @@ MasterPlanAG = {
 			["class"] = "HUNTER",
 			["faction"] = "Horde",
 		},
+	},
+	["IgnoreRewards"] = {
 	},
 }

@@ -90,7 +90,7 @@ MasterPlanAG = {
 			},
 			["curOil"] = 19445,
 			["cacheSize"] = 1000,
-			["lastCacheTime"] = 1552741980,
+			["lastCacheTime"] = 1557644789,
 			["curRes"] = 10000,
 			["faction"] = "Horde",
 		},
@@ -113,6 +113,7 @@ MasterPlanAG = {
 			["faction"] = "Alliance",
 		},
 		["Царева"] = {
+			["class"] = "DRUID",
 			["summary"] = {
 				["ti2"] = 122484,
 				["ti3"] = 127854,
@@ -121,11 +122,10 @@ MasterPlanAG = {
 				["tt3"] = true,
 				["tt2"] = true,
 			},
-			["faction"] = "Horde",
-			["class"] = "DRUID",
+			["curOil"] = 880,
 			["lastCacheTime"] = 1531603761,
 			["curRes"] = 573,
-			["curOil"] = 880,
+			["faction"] = "Horde",
 		},
 		["Зёбинатор"] = {
 			["faction"] = "Horde",
