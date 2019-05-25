@@ -2,13 +2,13 @@
 AUCTIONATOR_SAVEDVARS = {
 	["_50000"] = 500,
 	["_2000"] = 100,
-	["_10000"] = 200,
-	["_5000000"] = 10000,
-	["_1000000"] = 2500,
-	["_200000"] = 1000,
-	["LOG_DE_DATA_X"] = true,
-	["STARTING_DISCOUNT"] = 5,
 	["_500"] = 5,
+	["STARTING_DISCOUNT"] = 5,
+	["_1000000"] = 2500,
+	["_10000"] = 200,
+	["LOG_DE_DATA_X"] = true,
+	["_200000"] = 1000,
+	["_5000000"] = 10000,
 }
 AUCTIONATOR_PRICING_HISTORY = {
 }
@@ -60,9 +60,9 @@ AUCTIONATOR_PRICE_DATABASE = {
 		},
 		["Военный свиток стойкости"] = {
 			["mr"] = 3492498,
-			["cc"] = 0,
-			["id"] = "158204:0:0:0:0",
 			["H3043"] = 3492498,
+			["id"] = "158204:0:0:0:0",
+			["cc"] = 0,
 			["sc"] = 8,
 		},
 		["Настой силы прибоя"] = {
@@ -79,6 +79,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "116268:0:0:0:0",
 			["cc"] = 0,
 		},
+		["Береговое лечебное зелье"] = {
+			["mr"] = 239499,
+			["cc"] = 0,
+			["id"] = "152494:0:0:0:0",
+			["H3099"] = 239499,
+			["sc"] = 1,
+		},
 		["Зелье легкой поступи"] = {
 			["mr"] = 498000,
 			["cc"] = 0,
@@ -93,13 +100,6 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["id"] = "166240:0:0:0:0",
 			["sc"] = 5,
 		},
-		["Береговое лечебное зелье"] = {
-			["H3099"] = 239499,
-			["sc"] = 1,
-			["id"] = "152494:0:0:0:0",
-			["cc"] = 0,
-			["mr"] = 239499,
-		},
 	},
 	["Ревущий фьорд_Alliance"] = {
 	},
@@ -108,88 +108,88 @@ AUCTIONATOR_LAST_SCAN_TIME = nil
 AUCTIONATOR_TOONS = {
 	["Уткасосубуй"] = {
 		["firstSeen"] = 1550923894,
-		["guid"] = "Player-1615-09063774",
 		["firstVersion"] = "8.1.0",
+		["guid"] = "Player-1615-09063774",
 	},
 	["Зёбинмаг"] = {
 		["firstSeen"] = 1537024599,
-		["guid"] = "Player-1615-08751379",
 		["firstVersion"] = "5.0.5",
+		["guid"] = "Player-1615-08751379",
 	},
 	["Зёбедам"] = {
 		["firstSeen"] = 1552862374,
-		["firstVersion"] = "8.1.0",
 		["guid"] = "Player-1615-076C8227",
+		["firstVersion"] = "8.1.0",
 	},
 	["Зёбинфейл"] = {
 		["firstSeen"] = 1544468299,
-		["guid"] = "Player-1615-08767A09",
 		["firstVersion"] = "5.0.5",
+		["guid"] = "Player-1615-08767A09",
 	},
 	["Зёбинмонк"] = {
 		["firstSeen"] = 1545339439,
-		["firstVersion"] = "8.1.0",
 		["guid"] = "Player-1615-083F978D",
+		["firstVersion"] = "8.1.0",
 	},
 	["Василец"] = {
 		["firstSeen"] = 1536166279,
-		["firstVersion"] = "5.0.5",
 		["guid"] = "Player-1615-075E99D1",
+		["firstVersion"] = "5.0.5",
 	},
 	["Зёбинпаладин"] = {
 		["firstSeen"] = 1542582077,
-		["firstVersion"] = "5.0.5",
 		["guid"] = "Player-1615-081BCCC7",
+		["firstVersion"] = "5.0.5",
 	},
 	["Ппробник"] = {
 		["firstSeen"] = 1545339574,
-		["firstVersion"] = "8.1.0",
 		["guid"] = "Player-1615-08F487DE",
+		["firstVersion"] = "8.1.0",
 	},
 	["Зёбинприст"] = {
 		["firstSeen"] = 1544468262,
-		["firstVersion"] = "5.0.5",
 		["guid"] = "Player-1615-07CC94E3",
+		["firstVersion"] = "5.0.5",
 	},
 	["Сашкинадашка"] = {
 		["firstSeen"] = 1557689440,
-		["firstVersion"] = "8.1.0",
 		["guid"] = "Player-1615-06BDDD47",
+		["firstVersion"] = "8.1.0",
 	},
 	["Дебустерчмо"] = {
 		["firstSeen"] = 1550923706,
-		["firstVersion"] = "8.1.0",
 		["guid"] = "Player-1615-09063755",
+		["firstVersion"] = "8.1.0",
 	},
 	["Зёба"] = {
 		["firstSeen"] = 1536165493,
-		["guid"] = "Player-1615-04A78E52",
 		["firstVersion"] = "5.0.5",
+		["guid"] = "Player-1615-04A78E52",
 	},
 	["Дайтемнеключ"] = {
 		["firstSeen"] = 1536187395,
-		["firstVersion"] = "5.0.5",
 		["guid"] = "Player-1615-06203D84",
-	},
-	["Никсиамчмо"] = {
-		["firstSeen"] = 1550923393,
-		["guid"] = "Player-1615-0906371B",
-		["firstVersion"] = "8.1.0",
-	},
-	["Наурчмо"] = {
-		["firstSeen"] = 1550922883,
-		["guid"] = "Player-1615-090636B6",
-		["firstVersion"] = "8.1.0",
+		["firstVersion"] = "5.0.5",
 	},
 	["Царева"] = {
 		["firstSeen"] = 1536874125,
-		["guid"] = "Player-1615-04E0AB42",
 		["firstVersion"] = "5.0.5",
+		["guid"] = "Player-1615-04E0AB42",
+	},
+	["Наурчмо"] = {
+		["firstSeen"] = 1550922883,
+		["firstVersion"] = "8.1.0",
+		["guid"] = "Player-1615-090636B6",
+	},
+	["Никсиамчмо"] = {
+		["firstSeen"] = 1550923393,
+		["firstVersion"] = "8.1.0",
+		["guid"] = "Player-1615-0906371B",
 	},
 	["Зёбинатор"] = {
 		["firstSeen"] = 1537478430,
-		["guid"] = "Player-1615-06D8CD6E",
 		["firstVersion"] = "5.0.5",
+		["guid"] = "Player-1615-06D8CD6E",
 	},
 }
 AUCTIONATOR_STACKING_PREFS = {
