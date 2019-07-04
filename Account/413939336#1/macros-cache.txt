@@ -1,0 +1,210 @@
+VER 3 0000000000000003 "%" "135754"
+/run for crit=1,10 do local a,_,c = GetAchievementCriteriaInfo(13080, crit~=15 and crit or 16); print(string.format("[%s]%10s", c and "\124cFF00FF00True\124r" or "\124cFF888888False\124r",a)) end
+END
+VER 3 0000000000000018 "/dbm pull 5" "132107"
+/way Друствар 24 56
+/way Друствар 24 37
+/way Друствар 29 27
+/way Друствар 31 17
+/way Друствар 30 50
+/way Друствар 51 21
+/way Друствар 57 23
+END
+VER 3 0000000000000023 "AAP_MACRO" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use Тотем Лоти
+END
+VER 3 0000000000000015 "dd" "413587"
+/dbm pull 5
+END
+VER 3 0000000000000019 "gg" "236168"
+#showtooltip 
+/cast [@mouseover, help, nodead] Звездопад
+END
+VER 3 0000000000000001 "Kneel" "132097"
+/say Рофляночки минус тяночки
+END
+VER 3 0000000000000010 "Бафф убр" "1455896"
+/cancelaura Путь Пустоты
+END
+VER 3 0000000000000008 "Вы" "135829"
+#showtooltip Метаморфоза
+/cast [@cursor] Метаморфоза
+END
+VER 3 000000000000000F "Диспел" "135732"
+#showtooltip 
+/cast [@mouseover, help, nodead] Природный целитель
+END
+VER 3 000000000000000B "Клинок по мыши" "132089"
+/target mouseover
+/cast Бросок боевого клинка
+END
+VER 3 0000000000000016 "Мета на месте" "1344650"
+/закл [@player] Метаморфоза
+END
+VER 3 0000000000000002 "Обмнять" "INV_MISC_NOTE_05"
+/любовь
+END
+VER 3 000000000000000C "Озарение " "136048"
+#showtooltip Озарение
+/target player
+/cast Озарение
+/targetlasttarget
+END
+VER 3 000000000000000E "Омол" "136081"
+#showtooltip 
+/cast [@mouseover, help, nodead] Омоложение
+END
+VER 3 000000000000000D "Пф" "135833"
+#showtooltip Омоложение
+/cast [@mouseover,help,nodead]Жизнецвет; Жизнецвете
+END
+VER 3 0000000000000007 "Фья" "ABILITY_DEMONHUNTER_DEMONSPIKES"
+/click ExtraActionButton1
+END
+VER 3 0000000000000017 "Хотка" "627487"
+#showtooltip 
+/cast [@mouseover, help, nodead] Заживляющий туман
+END
+VER 3 000000000000000A "аа" "ABILITY_DEMONHUNTER_FELRUSH"
+/run local count = 0 for i = 0, 10000, 1 do if _G["NamePlate"..i] ~= nil and _G["NamePlate"..i]:IsVisible() then count = count + 1 end end print(count)
+END
+VER 3 0000000000000004 "ва" "INV_SCROLL_11"
+/say встаньте, блять, в узы!
+END
+VER 3 0000000000000011 "вввв" "132142"
+/click CompactRaidFrameManagerDisplayFrameLeaderOptionsRaidWorldMarkerButton
+/click DropDownList1Button1
+END
+VER 3 0000000000000012 "ввввввв" "132127"
+/click CompactRaidFrameManagerDisplayFrameLeaderOptionsRaidWorldMarkerButton
+/click DropDownList1Button2
+END
+VER 3 0000000000000013 "ввввввввв" "132140"
+/click CompactRaidFrameManagerDisplayFrameLeaderOptionsRaidWorldMarkerButton
+/click DropDownList1Button3
+END
+VER 3 0000000000000014 "ввввввввввввв" "132144"
+/click CompactRaidFrameManagerDisplayFrameLeaderOptionsRaidWorldMarkerButton
+/click DropDownList1Button4
+END
+VER 3 000000000000001B "гиппогриф 1" "INV_MISC_QUESTIONMARK"
+/way 48.57 57.28 (inside broken ship inside Giant’s cave)
+/way 49 8 (on little rock inside Lair of the Deposed cave) 
+/way 49.4 24 (inside bushes, behind shrine, up on a hill (overlooking Azurewing Repose)
+/way 49.39 27.70 (next to tree - a little hidde)
+END
+VER 3 000000000000001C "гиппогриф 2" "INV_MISC_QUESTIONMARK"
+/way 40.55, 36.29
+/way 40.55, 37.6
+/way 41.41, 30.94
+/way 41.69, 37.83
+/way 42.2, 8.5
+/way 42.74, 17.95
+/way 43.0, 18.0
+/way 43, 28.85
+/way 44.1, 59.8
+/way 45.7, 9.2
+/way 45.5, 17.2
+/way 45.78, 30.68
+/way 45.5, 45.4
+/way 46.55, 8.52
+END
+VER 3 000000000000001D "гиппогриф 3" "INV_MISC_QUESTIONMARK"
+/way 46.95, 48.93
+/way 46.61, 53.76
+/way 47.1, 25.8
+/way 47.1, 61.7
+/way 47.28. 62.25
+/way 47, 33
+/way 48.7, 48.5
+/way 49, 8
+/way 49.41, 24.05
+/way 49.3, 31.5
+/way 49.93, 32.95
+/way 49.6, 50.6
+/way 49.38, 50.48
+/way 49.60, 53.79
+END
+VER 3 000000000000001E "гиппогриф 4" "INV_MISC_QUESTIONMARK"
+/way 49.7, 53.9
+/way 50.4, 7.8
+/way 50.44, 16.30
+/way 50, 20
+/way 50.55, 20.40
+/way 50.29, 23.12
+/way 50.73, 49.89
+/way 50.48, 56.99
+/way 50.58, 57.03
+/way 51.41, 37.31
+/way 51, 61
+/way 52.41, 13.44
+/way 52.29, 25.24
+/way 52.70, 58.09
+END
+VER 3 000000000000001F "гиппогриф 5" "INV_MISC_QUESTIONMARK"
+/way 51.55 77.54
+/way 50.07 83.65
+/way 46.13 71.35
+/way 45.53 74.17
+/way 47.31 80.66
+/way 46.31 78.64
+/way 49.66 85.88
+/way 45.11 83.10
+/way 48.59 79.07
+/way 52.14 83.31
+/way 50.90 73.06
+/way 54.95 81.87
+/cway
+END
+VER 3 0000000000000020 "гиппогриф 6" "INV_MISC_QUESTIONMARK"
+/way 57.40, 16.79
+/way 57.5, 26.6
+/way 57, 31
+/way 57.9, 42.6
+/way 58.20, 24.66
+/way 58.7, 45
+/way 59.43, 38.62
+/way 59.65, 37.48
+/way 59.37, 38.33
+/way 59.08, 44.88
+/way 60.99, 17.33
+/way 60, 27
+/way 60, 49
+/way 60, 53
+END
+VER 3 0000000000000021 "гиппогриф 7" "INV_MISC_QUESTIONMARK"
+/way 61.18, 18,19
+/way 61, 30
+/way 61.1, 38.9
+/way 61, 40
+/way 62.73, 40.70
+/way 62.53, 52.36
+/way 62, 54
+/way 63.48, 54.00
+/way 64.34, 33.05
+/way 64.8, 37.9
+/way 65.48, 29.41
+/way 65.49, 42.47
+/way 65.13, 50.77
+/way 66.92, 33.25
+END
+VER 3 0000000000000022 "гиппогриф 8" "INV_MISC_QUESTIONMARK"
+/way 66.5, 42.47
+/way 66.84, 51.85
+/way 67, 33.7
+/way 67.75, 32.8
+/way 67, 46
+/way 67, 52
+/way 68, 23
+/way 68.19, 24.03
+END
+VER 3 0000000000000009 "золот" "132107"
+/ц золот
+END
+VER 3 0000000000000006 "лис" "INV_SWORD_04"
+/script local function buy (n,q) for i=1,100 do if n==GetMerchantItemInfo(i) then BuyMerchantItem(i,q) end end end buy ("Лисоцвет",100);
+END
+VER 3 0000000000000005 "роза" "ABILITY_DEMONHUNTER_FELRUSH"
+/script local function buy (n,q) for i=1,100 do if n==GetMerchantItemInfo(i) then BuyMerchantItem(i,q) end end end buy ("Звездная роза",69);
+END

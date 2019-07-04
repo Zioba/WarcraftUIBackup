@@ -26,3 +26,4 @@ AAP-WoD: disabled
 AAP-Legion: disabled
 AAP-BfA: disabled
 RaiderIO_DB_EU_A_R: disabled
+WeakAurasCompanion: enabled
