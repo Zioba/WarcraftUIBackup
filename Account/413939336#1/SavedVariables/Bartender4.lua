@@ -9,29 +9,29 @@ Bartender4DB = {
 					["actionbars"] = {
 						{
 							["version"] = 3,
-							["padding"] = 6,
 							["position"] = {
+								["y"] = 41.75,
 								["x"] = -510,
 								["point"] = "BOTTOM",
-								["y"] = 41.75,
 							},
+							["padding"] = 6,
 						}, -- [1]
 						{
 							["enabled"] = false,
 							["version"] = 3,
 							["position"] = {
+								["y"] = -227.4999389648438,
 								["x"] = -231.5000610351563,
 								["point"] = "CENTER",
-								["y"] = -227.4999389648438,
 							},
 						}, -- [2]
 						{
 							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
+								["y"] = 610,
 								["x"] = -82,
 								["point"] = "BOTTOMRIGHT",
-								["y"] = 610,
 							},
 							["padding"] = 5,
 						}, -- [3]
@@ -39,27 +39,27 @@ Bartender4DB = {
 							["rows"] = 12,
 							["version"] = 3,
 							["position"] = {
+								["y"] = 610,
 								["x"] = -42,
 								["point"] = "BOTTOMRIGHT",
-								["y"] = 610,
 							},
 							["padding"] = 5,
 						}, -- [4]
 						{
 							["version"] = 3,
 							["position"] = {
+								["y"] = 94,
 								["x"] = 3,
 								["point"] = "BOTTOM",
-								["y"] = 94,
 							},
 							["padding"] = 6,
 						}, -- [5]
 						{
 							["version"] = 3,
 							["position"] = {
+								["y"] = 94,
 								["x"] = -510,
 								["point"] = "BOTTOM",
-								["y"] = 94,
 							},
 							["padding"] = 6,
 						}, -- [6]
@@ -67,8 +67,9 @@ Bartender4DB = {
 						}, -- [7]
 						{
 						}, -- [8]
-						[10] = {
-						},
+						nil, -- [9]
+						{
+						}, -- [10]
 					},
 				},
 			},
@@ -78,26 +79,26 @@ Bartender4DB = {
 		["ExtraActionBar"] = {
 			["profiles"] = {
 				["Гиввара - Ревущий фьорд"] = {
-					["version"] = 3,
 					["position"] = {
+						["y"] = 222.9999847412109,
 						["x"] = -31.50006103515625,
 						["point"] = "BOTTOM",
-						["y"] = 222.9999847412109,
 					},
+					["version"] = 3,
 				},
 			},
 		},
 		["MicroMenu"] = {
 			["profiles"] = {
 				["Гиввара - Ревущий фьорд"] = {
-					["version"] = 3,
-					["padding"] = -2,
 					["position"] = {
+						["y"] = 41.75,
 						["x"] = 37.5,
 						["point"] = "BOTTOM",
 						["scale"] = 1,
-						["y"] = 41.75,
 					},
+					["version"] = 3,
+					["padding"] = -2,
 				},
 			},
 		},
@@ -106,9 +107,9 @@ Bartender4DB = {
 				["Гиввара - Ревущий фьорд"] = {
 					["version"] = 3,
 					["position"] = {
+						["y"] = 38.5,
 						["x"] = 345,
 						["point"] = "BOTTOM",
-						["y"] = 38.5,
 					},
 				},
 			},
@@ -117,35 +118,35 @@ Bartender4DB = {
 			["profiles"] = {
 				["Гиввара - Ревущий фьорд"] = {
 					["enabled"] = true,
-					["version"] = 3,
 					["position"] = {
+						["y"] = 47,
 						["x"] = -512,
 						["point"] = "BOTTOM",
-						["y"] = 47,
 					},
+					["version"] = 3,
 				},
 			},
 		},
 		["ZoneAbilityBar"] = {
 			["profiles"] = {
 				["Гиввара - Ревущий фьорд"] = {
-					["version"] = 3,
 					["position"] = {
+						["y"] = 222.9999847412109,
 						["x"] = -31.50006103515625,
 						["point"] = "BOTTOM",
-						["y"] = 222.9999847412109,
 					},
+					["version"] = 3,
 				},
 			},
 		},
-		["StanceBar"] = {
+		["Vehicle"] = {
 			["profiles"] = {
 				["Гиввара - Ревущий фьорд"] = {
 					["version"] = 3,
 					["position"] = {
-						["x"] = -82.49996948242188,
+						["y"] = 47.50006103515625,
+						["x"] = 99.50006103515625,
 						["point"] = "CENTER",
-						["y"] = -14.99999237060547,
 					},
 				},
 			},
@@ -155,22 +156,22 @@ Bartender4DB = {
 				["Гиввара - Ревущий фьорд"] = {
 					["version"] = 3,
 					["position"] = {
+						["y"] = 127,
 						["x"] = -460,
 						["point"] = "BOTTOM",
-						["y"] = 127,
 					},
 				},
 			},
 		},
-		["Vehicle"] = {
+		["StanceBar"] = {
 			["profiles"] = {
 				["Гиввара - Ревущий фьорд"] = {
-					["version"] = 3,
 					["position"] = {
-						["x"] = 99.50006103515625,
+						["y"] = -14.99999237060547,
+						["x"] = -82.49996948242188,
 						["point"] = "CENTER",
-						["y"] = 47.50006103515625,
 					},
+					["version"] = 3,
 				},
 			},
 		},
@@ -180,11 +181,11 @@ Bartender4DB = {
 	},
 	["profiles"] = {
 		["Гиввара - Ревущий фьорд"] = {
+			["blizzardVehicle"] = true,
 			["focuscastmodifier"] = false,
 			["minimapIcon"] = {
 				["minimapPos"] = 142.1006563447698,
 			},
-			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
 		},
 	},

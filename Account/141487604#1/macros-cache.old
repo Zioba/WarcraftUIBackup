@@ -8,9 +8,7 @@ VER 3 000000000000000B "cancelAura" "132349"
 END
 VER 3 0000000000000002 "Бурст" "ABILITY_HUNTER_HARASS"
 /cast Аватара
-/cast Боевой крик
-/use Ледяная эгида Диимы
-/use Челюсть Ледопасти
+/use Завывашка Джеса
 END
 VER 3 0000000000000001 "Ишарадж" "INV_MISC_QUESTIONMARK"
 /cast Безрассудство
@@ -21,6 +19,7 @@ VER 3 0000000000000001 "Ишарадж" "INV_MISC_QUESTIONMARK"
 END
 VER 3 000000000000000A "камера" "Ability_Creature_Cursed_04"
 /console cameraDistanceMaxZoomFactor 2.6
+/reload
 END
 VER 3 000000000000000E "потать честь" "915741"
 /run BuyMerchantItem(26)

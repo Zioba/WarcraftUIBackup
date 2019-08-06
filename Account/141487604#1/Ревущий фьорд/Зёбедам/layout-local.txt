@@ -1,1 +1,8 @@
 Version: 1
+Frame: TalkingHeadFrame
+FrameLevel: 1
+Anchor: RIGHT
+X: -114
+Y: 20
+W: 570
+H: 155

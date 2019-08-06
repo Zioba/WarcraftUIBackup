@@ -1,4 +1,5 @@
 BINDINGMODE 0
+bind BUTTON3 ACTIONBUTTON6
 bind NUMPAD0 NONE
 bind Z ACTIONBUTTON7
 bind BUTTON4 NONE
@@ -18,12 +19,8 @@ bind 9 NONE
 bind 0 NONE
 bind - NONE
 bind = NONE
-bind CTRL-9 CLICK BT4Button45:LeftButton
-bind SHIFT-1 NONE
-bind SHIFT-2 CLICK BT4Button20:LeftButton
-bind SHIFT-3 CLICK BT4Button66:LeftButton
-bind SHIFT-4 CLICK BT4Button70:LeftButton
-bind SHIFT-5 NONE
+bind CTRL-9 NONE
+bind CTRL-0 ACTIONBUTTON5
 bind F1 CLICK BT4Button39:LeftButton
 bind F2 CLICK BT4Button40:LeftButton
 bind G CLICK BT4Button24:LeftButton
@@ -31,7 +28,8 @@ bind F CLICK BT4Button19:LeftButton
 bind V CLICK BT4Button23:LeftButton
 bind SHIFT-V CLICK BT4Button65:LeftButton
 bind SHIFT-T NONE
-bind CTRL-- ACTIONBUTTON1
+bind CTRL-= CLICK BT4Button16:LeftButton
+bind CTRL-- CLICK BT4Button71:LeftButton
 bind END NONE
 bind HOME NONE
 bind [ PAWN_COMPARE_LEFT
@@ -39,6 +37,11 @@ bind ] PAWN_COMPARE_RIGHT
 bind NUMPAD5 NONE
 bind NUMPAD1 NONE
 bind NUMPAD3 NONE
+bind SHIFT-1 NONE
+bind SHIFT-2 CLICK BT4Button20:LeftButton
+bind SHIFT-3 CLICK BT4Button66:LeftButton
+bind SHIFT-4 CLICK BT4Button70:LeftButton
+bind SHIFT-5 NONE
 bind BUTTON8 NONE
 bind BUTTON5 NONE
 bind BUTTON12 NONE
@@ -68,3 +71,4 @@ bind SHIFT-0 CLICK BT4Button70:LeftButton
 bind SHIFT-- NONE
 bind SHIFT-. FRIENDNAMEPLATES
 bind SHIFT-` RAIDTARGET7
+bind ALT-- CLICK BT4Button45:LeftButton

@@ -4,17 +4,17 @@ DejaCharacterStatsDB = {
 		["dejacharacterstatsShowAverageRepairChecked"] = {
 			["ShowAverageRepairSetChecked"] = false,
 		},
-		["dejacharacterstatsScrollbarChecked"] = {
-			["ScrollbarSetChecked"] = false,
+		["dejacharacterstatsExpandButtonChecked"] = {
+			["ExpandButtonSetChecked"] = true,
 		},
-		["dejacharacterstatsHideMasteryChecked"] = {
-			["SetChecked"] = true,
+		["dejacharacterstatsShowDuraTextureChecked"] = {
+			["ShowDuraTextureSetChecked"] = true,
 		},
 		["dejacharacterstatsItemLevelChecked"] = {
 			["ItemLevelTwoDecimalsSetChecked"] = true,
 			["ItemLevelEQ_AV_SetChecked"] = true,
-			["ItemLevelDecimalsSetChecked"] = false,
 			["ItemLevelClassColorSetChecked"] = true,
+			["ItemLevelDecimalsSetChecked"] = false,
 		},
 		["dejacharacterstatsHideAtZeroChecked"] = {
 			["SetChecked"] = true,
@@ -25,18 +25,18 @@ DejaCharacterStatsDB = {
 		["dejacharacterstatsShowDecimalsChecked"] = {
 			["SetChecked"] = true,
 		},
-		["dejacharacterstatsDCSZeroChecked"] = {
-			["SetChecked"] = false,
+		["dejacharacterstatsShowItemLevelChecked"] = {
+			["ShowItemLevelSetChecked"] = true,
 		},
 		["dejacharacterstatsSimpleItemColorChecked"] = {
 			["SimpleItemColorChecked"] = false,
 			["DarkerItemColorChecked"] = false,
 		},
-		["dejacharacterstatsShowDuraTextureChecked"] = {
-			["ShowDuraTextureSetChecked"] = true,
+		["dejacharacterstatsHideMasteryChecked"] = {
+			["SetChecked"] = true,
 		},
-		["dejacharacterstatsShowItemLevelChecked"] = {
-			["ShowItemLevelSetChecked"] = true,
+		["dejacharacterstatsDCSZeroChecked"] = {
+			["SetChecked"] = false,
 		},
 		["dejacharacterstatsClassBackgroundChecked"] = {
 			["ClassBackgroundChecked"] = true,
@@ -50,8 +50,8 @@ DejaCharacterStatsDB = {
 		["dejacharacterstatsAlternateInfoPlacement"] = {
 			["AlternateInfoPlacementChecked"] = false,
 		},
-		["dejacharacterstatsExpandButtonChecked"] = {
-			["ExpandButtonSetChecked"] = true,
+		["dejacharacterstatsScrollbarChecked"] = {
+			["ScrollbarSetChecked"] = false,
 		},
 	},
 }
@@ -243,11 +243,11 @@ DCS_ClassSpecDB = {
 		}, -- [48]
 		{
 			["statKey"] = "STAGGER",
-			["hidden"] = true,
-			["hideAt"] = 0,
 			["roles"] = {
 				"TANK", -- [1]
 			},
+			["hideAt"] = 0,
+			["hidden"] = true,
 		}, -- [49]
 		["uniqueKey"] = "Гиввара:Ревущий фьорд:1",
 	},
