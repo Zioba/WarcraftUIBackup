@@ -15,15 +15,15 @@ SkadaPerCharDB = {
 		["healing"] = 0,
 		["auras"] = {
 		},
+		["ccbreaks"] = 0,
 		["mobtaken"] = 0,
-		["overhealing"] = 0,
+		["starttime"] = 1572464992,
+		["name"] = "Всего",
 		["mobs"] = {
 		},
-		["name"] = "Всего",
-		["ccbreaks"] = 0,
-		["starttime"] = 1565029729,
+		["overhealing"] = 0,
 		["mobhdone"] = 0,
-		["last_action"] = 1565029729,
+		["last_action"] = 1572464992,
 		["mobdone"] = 0,
 	},
 	["sets"] = {

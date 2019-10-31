@@ -14,9 +14,9 @@ DBM-Core: enabled
 RCLootCouncil: enabled
 Gladius: enabled
 Plater: enabled
-ErrorFilter: enabled
+ErrorFilter: disabled
 ExRT: enabled
-MasterPlan: enabled
+MasterPlan: disabled
 DejaCharacterStats: enabled
 AAP-Core: disabled
 AAP-Vanilla: disabled
@@ -27,3 +27,9 @@ AAP-Legion: disabled
 AAP-BfA: disabled
 RaiderIO_DB_EU_A_R: disabled
 WeakAurasCompanion: enabled
+Binder: disabled
+Auctionator: disabled
+MasterPlanA: disabled
+LegionToDo: enabled
+MethodDungeonTools: enabled
+MythicPlusTimer: disabled

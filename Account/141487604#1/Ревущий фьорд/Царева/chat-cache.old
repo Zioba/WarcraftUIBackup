@@ -6,7 +6,7 @@ CHANNELS
 Общий 0 1 0
 Торговля 0 2 0
 ОборонаЛокальный 0 3 0
-ПоискСпутников 0 4 0
+ПоискСпутников 1 4 0
 END
 
 ZONECHANNELS 0
@@ -193,7 +193,7 @@ ZONECHANNELS 0
 END
 
 WINDOW 3
-NAME Подземелье
+NAME Поиск спутников
 SIZE 16
 COLOR 0 0 0 63
 LOCKED 1

@@ -20,7 +20,7 @@ bind 0 NONE
 bind - NONE
 bind = NONE
 bind CTRL-9 NONE
-bind CTRL-0 ACTIONBUTTON5
+bind CTRL-0 CLICK BT4Button18:LeftButton
 bind F1 CLICK BT4Button39:LeftButton
 bind F2 CLICK BT4Button40:LeftButton
 bind G CLICK BT4Button24:LeftButton
@@ -72,3 +72,6 @@ bind SHIFT-- NONE
 bind SHIFT-. FRIENDNAMEPLATES
 bind SHIFT-` RAIDTARGET7
 bind ALT-- CLICK BT4Button45:LeftButton
+bind CTRL-F CLICK BT4Button14:LeftButton
+bind ALT-2 CLICK BT4Button47:LeftButton
+bind ALT-3 CLICK BT4Button48:LeftButton

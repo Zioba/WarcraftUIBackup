@@ -7,13 +7,13 @@ epgp_lootmaster_ml: disabled
 ActionBarSaver: disabled
 CandyBuckets: disabled
 Easy_Obliterate: disabled
-ErrorFilter: enabled
+ErrorFilter: disabled
 ExRT: enabled
 LegionToDo: enabled
 LegionTODOMini: disabled
-MasterPlan: enabled
-MasterPlanA: enabled
-MythicPlusTimer: enabled
+MasterPlan: disabled
+MasterPlanA: disabled
+MythicPlusTimer: disabled
 OmniCC: enabled
 OmniCC_Config: enabled
 PreformAVEnabler: disabled
@@ -117,3 +117,6 @@ AAP-WoD: disabled
 AAP-Legion: disabled
 AAP-BfA: disabled
 RaiderIO_DB_EU_A_R: disabled
+Binder: disabled
+Auctionator: disabled
+MethodDungeonTools: enabled

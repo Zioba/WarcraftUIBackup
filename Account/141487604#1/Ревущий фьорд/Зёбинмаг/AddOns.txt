@@ -1,8 +1,8 @@
 ExRT: enabled
 Recount: enabled
 NPCScan: enabled
-MasterPlan: enabled
-MasterPlanA: enabled
+MasterPlan: disabled
+MasterPlanA: disabled
 HandyNotes_LegionRaresTreasures: disabled
 HandyNotes_LegionTreasures: disabled
 HandyNotes: disabled
@@ -19,9 +19,9 @@ epgp_lootmaster_ml: disabled
 ActionBarSaver: disabled
 CandyBuckets: disabled
 Easy_Obliterate: disabled
-ErrorFilter: enabled
+ErrorFilter: disabled
 LegionTODOMini: disabled
-MythicPlusTimer: enabled
+MythicPlusTimer: disabled
 OmniCC: enabled
 OmniCC_Config: enabled
 PreformAVEnabler: disabled
@@ -123,3 +123,6 @@ AAP-WoD: disabled
 AAP-Legion: disabled
 AAP-BfA: disabled
 RaiderIO_DB_EU_A_R: disabled
+Binder: disabled
+Auctionator: disabled
+MethodDungeonTools: enabled

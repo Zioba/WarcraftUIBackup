@@ -6,7 +6,7 @@ VER 3 000000000000000B "cancelAura" "132349"
 /cancelaura благословение защиты
 /cancelaura Вихрь клинков
 END
-VER 3 0000000000000002 "Бурст" "ABILITY_HUNTER_HARASS"
+VER 3 0000000000000002 "Бурст" "INV_MISC_QUESTIONMARK"
 /cast Аватара
 /use Завывашка Джеса
 END
@@ -16,6 +16,9 @@ VER 3 0000000000000001 "Ишарадж" "INV_MISC_QUESTIONMARK"
 /cast Ярость берсерка
 /cast Штормовая эмблема
 /cast Аватара
+END
+VER 3 0000000000000010 "ПРЫЖОК" "INV_MISC_QUESTIONMARK"
+/cast [@cursor]Героический прыжок
 END
 VER 3 000000000000000A "камера" "Ability_Creature_Cursed_04"
 /console cameraDistanceMaxZoomFactor 2.6

@@ -8,13 +8,13 @@ CandyBuckets: disabled
 CrossRealmAssist: disabled
 NPCScan: enabled
 Recount: enabled
-MasterPlan: enabled
-MasterPlanA: enabled
+MasterPlan: disabled
+MasterPlanA: disabled
 WeakAurasModelPaths: enabled
 WeakAuras: enabled
 LegionTODOMini: disabled
 Easy_Obliterate: disabled
-MythicPlusTimer: enabled
+MythicPlusTimer: disabled
 ExRT: enabled
 RCLootCouncil: enabled
 WeakAurasOptions: enabled
@@ -32,7 +32,7 @@ DBM-Core: enabled
 epgp_lootmaster: disabled
 epgp_lootmaster_ml: disabled
 ActionBarSaver: disabled
-ErrorFilter: enabled
+ErrorFilter: disabled
 OmniCC: enabled
 OmniCC_Config: enabled
 RaiderIO_DB_US_A: disabled
@@ -136,3 +136,6 @@ AAP-Legion: disabled
 AAP-BfA: disabled
 RaiderIO_DB_EU_A_R: disabled
 WeakAurasCompanion: enabled
+Binder: disabled
+Auctionator: disabled
+MethodDungeonTools: enabled

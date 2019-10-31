@@ -1,9 +1,9 @@
 Recount: enabled
 LegionTODOMini: disabled
 Easy_Obliterate: disabled
-MythicPlusTimer: enabled
-MasterPlan: enabled
-MasterPlanA: enabled
+MythicPlusTimer: disabled
+MasterPlan: disabled
+MasterPlanA: disabled
 WeakAuras: enabled
 ExRT: enabled
 RCLootCouncil: enabled
@@ -25,7 +25,7 @@ epgp_lootmaster: disabled
 epgp_lootmaster_ml: disabled
 ActionBarSaver: disabled
 CandyBuckets: disabled
-ErrorFilter: enabled
+ErrorFilter: disabled
 OmniCC: enabled
 OmniCC_Config: enabled
 PreformAVEnabler: disabled
@@ -123,3 +123,7 @@ AAP-WoD: disabled
 AAP-Legion: disabled
 AAP-BfA: disabled
 RaiderIO_DB_EU_A_R: disabled
+WeakAurasCompanion: enabled
+Binder: disabled
+Auctionator: disabled
+MethodDungeonTools: enabled

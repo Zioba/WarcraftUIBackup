@@ -8,7 +8,7 @@ VER 3 000000000000000B "cancelAura" "132349"
 END
 VER 3 0000000000000002 "Бурст" "INV_MISC_QUESTIONMARK"
 /cast Аватара
-/use Завывашка Джеса
+/use Пузырек с оживленной кровью
 END
 VER 3 0000000000000001 "Ишарадж" "INV_MISC_QUESTIONMARK"
 /cast Безрассудство
