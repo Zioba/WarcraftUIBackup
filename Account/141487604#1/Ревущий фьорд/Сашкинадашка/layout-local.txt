@@ -1,8 +1,0 @@
-Version: 1
-Frame: TomTomCrazyArrow
-FrameLevel: 1
-Anchor: TOP
-X: 88
-Y: 0
-W: 56
-H: 42

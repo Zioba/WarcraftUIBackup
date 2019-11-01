@@ -1,8 +1,0 @@
-
-BinderMinimapSettings = {
-	["ShowMinimapButton"] = true,
-	["MinimapRadioOption"] = 1,
-	["xposition"] = 815.7459934606568,
-	["yposition"] = 425.650755988226,
-	["degree"] = -12,
-}
