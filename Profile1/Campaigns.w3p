@@ -1,0 +1,25 @@
+[Campaign]
+Tutorial=-3458764513820540925
+Human=-1152921504606842881
+Undead=-6917529027641080833
+Orc=-6917529027641079809
+NightElf=-9223372036854775777
+PlayerName=Aleksandr
+ShowScreen=4
+TutorialCleared=1
+Difficulty=2
+
+[NOTE TO HACKERS -- Changing this file may be hazardous to your progress]
+Magic=540711357
+Magic1=-704524704
+
+[Campaign1]
+NightElf=-4035225266123964415
+Human=576460752303423488
+Undead=576460752303423488
+Orc=-4035225266123964415
+PlayerName=Aleksandr
+ShowScreen=0
+TutorialCleared=0
+Difficulty=1
+
