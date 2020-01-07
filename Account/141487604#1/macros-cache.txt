@@ -1,36 +1,3 @@
-VER 3 000000000000000F "AAP_MACRO" "INV_MISC_QUESTIONMARK"
-#showtooltip
-/click ExtraActionButton1
-END
-VER 3 000000000000000B "cancelAura" "132349"
-/cancelaura благословение защиты
-/cancelaura Вихрь клинков
-END
-VER 3 0000000000000002 "Бурст" "INV_MISC_QUESTIONMARK"
-/cast Аватара
-/use Пузырек с оживленной кровью
-END
-VER 3 0000000000000001 "Ишарадж" "INV_MISC_QUESTIONMARK"
-/cast Безрассудство
-/cast Кровавая баня
-/cast Ярость берсерка
-/cast Штормовая эмблема
-/cast Аватара
-END
-VER 3 0000000000000010 "ПРЫЖОК" "INV_MISC_QUESTIONMARK"
-/cast [@cursor]Героический прыжок
-END
-VER 3 000000000000000A "камера" "Ability_Creature_Cursed_04"
-/console cameraDistanceMaxZoomFactor 2.6
-/reload
-END
-VER 3 000000000000000E "потать честь" "915741"
-/run BuyMerchantItem(26)
-END
-VER 3 0000000000000003 "ролл" "INV_Polearm_2h_ThunderIsleRaid_D_01"
-/roll
-END
-VER 3 0000000000000005 "ящик ресурсов" "ABILITY_WARRIOR_SHATTERINGTHROW"
-/run BuyMerchantItem(1,1)
-/click StaticPopup1Button1
+VER 3 0000000000000001 "text" "132193"
+/ц стале
 END

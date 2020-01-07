@@ -1,0 +1,15 @@
+Version: 1
+Frame: WeaponSwingTimerPlayerFrame
+FrameLevel: 1
+Anchor: CENTER
+X: 0
+Y: -261
+W: 200
+H: 10
+Frame: ItemRefTooltip
+FrameLevel: 1
+Anchor: TOPLEFT
+X: 0
+Y: -15
+W: 280
+H: 258

@@ -1,5 +1,0 @@
-VER 3 0100000000000001 "ВЗЯТЬ" "132176"
-#showtooltip Команда "Взять!"
-/cast Ужасный зверь
-/cast Kill Command
-END
