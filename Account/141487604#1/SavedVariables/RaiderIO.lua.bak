@@ -17,13 +17,5 @@ RaiderIO_Config = {
 }
 RaiderIO_LastCharacter = "eu-Зёба-howling-fjord"
 RaiderIO_MissingCharacters = {
-	["eu-Мооха-howling-fjord"] = true,
-	["eu-Лоуэнфелс-howling-fjord"] = true,
-	["eu-Прохладно-howling-fjord"] = true,
-	["eu-Акунда Несдержанный-howling-fjord"] = true,
-	["eu-Сюжетница-howling-fjord"] = true,
-	["eu-Рисовый-howling-fjord"] = true,
-	["eu-Дэгонаш-howling-fjord"] = true,
-	["eu-Ширудо-howling-fjord"] = true,
-	["eu-Рэйнал-howling-fjord"] = true,
+	["eu-Хомячность-howling-fjord"] = true,
 }

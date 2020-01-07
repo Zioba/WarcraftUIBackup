@@ -37,7 +37,7 @@ VWQL = {
 	},
 	["DisableIconsGeneralMap619"] = true,
 	["Sort"] = 5,
-	["VERSION"] = 90,
+	["VERSION"] = 91,
 	["Неполучилась-Ревущийфьорд"] = {
 		["Filter"] = 63,
 		["Quests"] = {
@@ -89,19 +89,69 @@ VWQL = {
 	["ShellGameSize"] = 1,
 	["AnchorQCBLeft"] = 1263.2060546875,
 	["Царева-Ревущийфьорд"] = {
-		["VERSION"] = 90,
+		["VERSION"] = 91,
 		["Filter"] = 63,
 		["Quests"] = {
-			[50857] = true,
-			[51450] = true,
+			[50735] = true,
+			[51434] = true,
+			[55342] = true,
 			[43943] = true,
-			[50874] = true,
+			[51505] = true,
+			[50499] = true,
+			[52330] = true,
+			[51639] = true,
+			[50885] = true,
 			[55901] = true,
-			[50547] = true,
-			[52295] = true,
+			[51316] = true,
+			[54811] = true,
+			[51586] = true,
+			[51462] = true,
+			[54496] = true,
+			[52181] = true,
+			[51972] = true,
+			[51659] = true,
 			[52858] = true,
+			[51411] = true,
+			[50665] = true,
+			[50975] = true,
+			[51740] = true,
+			[52238] = true,
+			[50287] = true,
+			[51996] = true,
+			[52937] = true,
+			[50545] = true,
+			[49413] = true,
+			[54896] = true,
+			[51181] = true,
+			[51120] = true,
+			[50744] = true,
+			[51315] = true,
+			[50874] = true,
+			[54467] = true,
+			[51764] = true,
+			[50502] = true,
+			[54788] = true,
+			[51640] = true,
+			[51642] = true,
+			[51644] = true,
+			[51777] = true,
+			[49888] = true,
+			[54802] = true,
+			[51652] = true,
+			[52410] = true,
+			[51782] = true,
+			[52471] = true,
+			[51156] = true,
+			[53773] = true,
+			[52124] = true,
+			[50847] = true,
 			[56393] = true,
-			[50652] = true,
+			[51608] = true,
+			[52751] = true,
+			[51107] = true,
+			[51739] = true,
+			[52938] = true,
+			[51637] = true,
 		},
 		["FilterType"] = {
 		},
@@ -151,19 +201,20 @@ VWQL = {
 		["FilterType"] = {
 		},
 	},
+	["LFG_HideEyeInList"] = true,
 	["Arrow_Point2"] = "TOP",
-	["Зёбинмаг-Ревущийфьорд"] = {
-		["VERSION"] = 85,
+	["SortPrio"] = {
+	},
+	["Дебустерчмо-Ревущийфьорд"] = {
 		["Filter"] = 63,
-		["Quests"] = {
-			[41227] = true,
-			[43247] = true,
-		},
 		["FilterType"] = {
 		},
+		["Quests"] = {
+		},
+		["VERSION"] = 85,
 	},
 	["DisableRewardIcons"] = true,
-	["Уткасосубуй-Ревущийфьорд"] = {
+	["Никсиамчмо-Ревущийфьорд"] = {
 		["VERSION"] = 85,
 		["FilterType"] = {
 		},
@@ -179,28 +230,27 @@ VWQL = {
 		},
 		["Filter"] = 63,
 	},
-	["Дебустерчмо-Ревущийфьорд"] = {
-		["Filter"] = 63,
-		["FilterType"] = {
-		},
-		["Quests"] = {
-		},
-		["VERSION"] = 85,
-	},
+	["AzeriteFormat"] = 20,
 	["Arrow_PointX"] = 1.01554715633392,
-	["Никсиамчмо-Ревущийфьорд"] = {
-		["VERSION"] = 85,
-		["FilterType"] = {
-		},
-		["Quests"] = {
-		},
-		["Filter"] = 63,
-	},
+	["ReverseSort"] = false,
 	["Ignore"] = {
 	},
 	["ShellGameCenter"] = 450.9525146484375,
 	["DisableIconsGeneralMap905"] = true,
-	["ReverseSort"] = false,
+	["Зёба-Ревущийфьорд"] = {
+		["FilterType"] = {
+		},
+		["Filter"] = 63,
+		["Quests"] = {
+			[43943] = true,
+			[52238] = true,
+			[55304] = true,
+			[54896] = true,
+			[51983] = true,
+			[51615] = true,
+		},
+		["VERSION"] = 91,
+	},
 	["Зёбинфейл-Ревущийфьорд"] = {
 		["Filter"] = 63,
 		["FilterType"] = {
@@ -214,28 +264,27 @@ VWQL = {
 		},
 		["VERSION"] = 81,
 	},
-	["Зёба-Ревущийфьорд"] = {
+	["Уткасосубуй-Ревущийфьорд"] = {
+		["VERSION"] = 85,
 		["FilterType"] = {
 		},
+		["Quests"] = {
+		},
+		["Filter"] = 63,
+	},
+	["Зёбинмаг-Ревущийфьорд"] = {
+		["VERSION"] = 85,
 		["Filter"] = 63,
 		["Quests"] = {
-			[50857] = true,
-			[51450] = true,
-			[43943] = true,
-			[50874] = true,
-			[50652] = true,
-			[50547] = true,
-			[52295] = true,
-			[52858] = true,
-			[52341] = true,
-			[50592] = true,
+			[41227] = true,
+			[43247] = true,
 		},
-		["VERSION"] = 90,
+		["FilterType"] = {
+		},
 	},
-	["AzeriteFormat"] = 20,
 	["Василец-Ревущийфьорд"] = {
 		["Filter"] = 63,
-		["VERSION"] = 90,
+		["VERSION"] = 91,
 		["Quests"] = {
 			[50483] = true,
 			[51497] = true,
