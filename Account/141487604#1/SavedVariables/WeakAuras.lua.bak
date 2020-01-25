@@ -13,8 +13,8 @@ WeakAurasSaved = {
 	["clearOldHistory"] = 30,
 	["registered"] = {
 	},
-	["dbVersion"] = 24,
 	["displays"] = {
 	},
+	["dbVersion"] = 24,
 	["editor_theme"] = "Monokai",
 }

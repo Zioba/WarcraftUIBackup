@@ -1,4 +1,4 @@
 WeakAurasCompanion: enabled
 Details: enabled
-Details_DataStorage: disabled
+Details_DataStorage: enabled
 Details_Streamer: disabled
