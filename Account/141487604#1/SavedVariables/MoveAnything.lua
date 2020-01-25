@@ -148,6 +148,16 @@ MADB = {
 						0, -- [5]
 					},
 				},
+				["CriteriaAlertFrame1"] = {
+					["name"] = "CriteriaAlertFrame1",
+					["pos"] = {
+						"BOTTOM", -- [1]
+						"UIParent", -- [2]
+						"BOTTOM", -- [3]
+						6.103515625e-05, -- [4]
+						0, -- [5]
+					},
+				},
 				["TooltipMover"] = {
 					["orgPos"] = {
 						"TOP", -- [1]
@@ -164,16 +174,6 @@ MADB = {
 						-710.0953674316406, -- [5]
 					},
 				},
-				["CriteriaAlertFrame1"] = {
-					["name"] = "CriteriaAlertFrame1",
-					["pos"] = {
-						"BOTTOM", -- [1]
-						"UIParent", -- [2]
-						"BOTTOM", -- [3]
-						6.103515625e-05, -- [4]
-						0, -- [5]
-					},
-				},
 				["AchievementAlertFrame2"] = {
 					["name"] = "AchievementAlertFrame2",
 					["pos"] = {
@@ -187,9 +187,9 @@ MADB = {
 			},
 		},
 	},
-	["playSound"] = false,
+	["closeGUIOnEscape"] = false,
 	["tooltips"] = true,
 	["noBags"] = false,
 	["disableErrorMessages"] = true,
-	["closeGUIOnEscape"] = false,
+	["playSound"] = false,
 }

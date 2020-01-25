@@ -1,4 +1,31 @@
 
+OmniCCDB = {
+	["global"] = {
+		["addonVersion"] = "8.3.2",
+		["dbVersion"] = 5,
+	},
+	["profileKeys"] = {
+		["Зёба - Ревущий фьорд"] = "По умолчанию",
+		["Царева - Ревущий фьорд"] = "По умолчанию",
+	},
+	["profiles"] = {
+		["По умолчанию"] = {
+			["themes"] = {
+				["По умолчанию"] = {
+					["textStyles"] = {
+						["seconds"] = {
+						},
+						["soon"] = {
+						},
+						["minutes"] = {
+						},
+					},
+					["spiralOpacity"] = 1.00999997742474,
+				},
+			},
+		},
+	},
+}
 OmniCC4Config = {
 	["groups"] = {
 	},
@@ -25,16 +52,16 @@ OmniCC4Config = {
 					["scale"] = 1.5,
 				},
 			},
-			["minDuration"] = 2,
+			["minEffectDuration"] = 30,
 			["spiralOpacity"] = 1.00999997742474,
 			["yOff"] = 0,
 			["xOff"] = 0,
 			["tenthsDuration"] = 0,
 			["fontOutline"] = "OUTLINE",
 			["minSize"] = 0.5,
-			["minEffectDuration"] = 30,
-			["fontSize"] = 18,
 			["mmSSDuration"] = 0,
+			["fontSize"] = 18,
+			["minDuration"] = 2,
 		},
 	},
 }

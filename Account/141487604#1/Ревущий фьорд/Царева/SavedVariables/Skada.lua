@@ -1,7 +1,5 @@
 
 SkadaPerCharDB = {
-	["sets"] = {
-	},
 	["total"] = {
 		["healingabsorbed"] = 0,
 		["dispells"] = 0,
@@ -20,12 +18,14 @@ SkadaPerCharDB = {
 		["auras"] = {
 		},
 		["damagetaken"] = 0,
-		["starttime"] = 1576012820,
+		["mobtaken"] = 0,
 		["name"] = "Всего",
 		["overhealing"] = 0,
-		["mobtaken"] = 0,
+		["starttime"] = 1576012820,
 		["mobhdone"] = 0,
 		["last_action"] = 1576012820,
 		["mobdone"] = 0,
+	},
+	["sets"] = {
 	},
 }
