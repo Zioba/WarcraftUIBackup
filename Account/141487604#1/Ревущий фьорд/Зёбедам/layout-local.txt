@@ -20,13 +20,6 @@ X: 289
 Y: -244
 W: 256
 H: 64
-Frame: BasicActionButtonsMover
-FrameLevel: 1
-Anchor: BOTTOM
-X: -145
-Y: 36
-W: 498
-H: 38
 Frame: ExtraActionBarFrame
 FrameLevel: 2
 Anchor: BOTTOM

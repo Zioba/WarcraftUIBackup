@@ -24,8 +24,8 @@ MADB = {
 						"BOTTOMLEFT", -- [1]
 						"UIParent", -- [2]
 						"BOTTOMLEFT", -- [3]
-						581.2381591796875, -- [4]
-						36.28571319580078, -- [5]
+						0, -- [4]
+						0, -- [5]
 					},
 					["name"] = "BasicActionButtonsMover",
 					["pos"] = {
@@ -52,7 +52,7 @@ MADB = {
 						"UIParent", -- [2]
 						"BOTTOM", -- [3]
 						0, -- [4]
-						96, -- [5]
+						95.99999237060547, -- [5]
 					},
 					["name"] = "TalkingHeadFrame",
 					["pos"] = {
@@ -97,20 +97,13 @@ MADB = {
 						4.999908515384181, -- [5]
 					},
 				},
-				["ZoneAbilityFrame"] = {
-					["orgPos"] = {
-						"TOPLEFT", -- [1]
-						"BT4BarZoneAbilityBar", -- [2]
-						"TOPLEFT", -- [3]
-						0, -- [4]
-						0, -- [5]
-					},
-					["name"] = "ZoneAbilityFrame",
+				["CriteriaAlertFrame1"] = {
+					["name"] = "CriteriaAlertFrame1",
 					["pos"] = {
-						"TOPLEFT", -- [1]
-						"BT4BarZoneAbilityBar", -- [2]
-						"TOPLEFT", -- [3]
-						0, -- [4]
+						"BOTTOM", -- [1]
+						"UIParent", -- [2]
+						"BOTTOM", -- [3]
+						6.103515625e-05, -- [4]
 						0, -- [5]
 					},
 				},
@@ -129,33 +122,6 @@ MADB = {
 						"BOTTOM", -- [3]
 						-558.7315063476562, -- [4]
 						272.8405456542969, -- [5]
-					},
-				},
-				["ExtraActionBarFrame"] = {
-					["orgPos"] = {
-						"TOPLEFT", -- [1]
-						"BT4BarExtraActionBar", -- [2]
-						"TOPLEFT", -- [3]
-						0, -- [4]
-						0, -- [5]
-					},
-					["name"] = "ExtraActionBarFrame",
-					["pos"] = {
-						"TOPLEFT", -- [1]
-						"BT4BarExtraActionBar", -- [2]
-						"TOPLEFT", -- [3]
-						0, -- [4]
-						0, -- [5]
-					},
-				},
-				["CriteriaAlertFrame1"] = {
-					["name"] = "CriteriaAlertFrame1",
-					["pos"] = {
-						"BOTTOM", -- [1]
-						"UIParent", -- [2]
-						"BOTTOM", -- [3]
-						6.103515625e-05, -- [4]
-						0, -- [5]
 					},
 				},
 				["TooltipMover"] = {

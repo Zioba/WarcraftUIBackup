@@ -2,4 +2,280 @@
 SkadaPerCharDB = {
 	["sets"] = {
 	},
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["auras"] = {
+		},
+		["ffdamagedone"] = 0,
+		["time"] = 0,
+		["interrupts"] = 0,
+		["damage"] = 0,
+		["players"] = {
+			{
+				["last"] = 1549044632,
+				["healingabsorbed"] = 0,
+				["class"] = "MAGE",
+				["damaged"] = {
+				},
+				["auras"] = {
+					["Маяк смещения"] = {
+						["uptime"] = 0,
+						["name"] = "Маяк смещения",
+						["active"] = 0,
+						["school"] = 64,
+						["auratype"] = "BUFF",
+						["id"] = 212799,
+					},
+					["Скачок"] = {
+						["name"] = "Скачок",
+						["active"] = 0,
+						["school"] = 64,
+						["uptime"] = 1,
+						["auratype"] = "BUFF",
+						["id"] = 119415,
+					},
+				},
+				["role"] = "DAMAGER",
+				["time"] = 3,
+				["interrupts"] = 0,
+				["healing"] = 0,
+				["healingspells"] = {
+				},
+				["damagetaken"] = 47827,
+				["damage"] = 0,
+				["damagespells"] = {
+				},
+				["deaths"] = {
+					{
+						["ts"] = 1549044592.68609,
+						["log"] = {
+							{
+								["ts"] = 1549044589.97001,
+								["amount"] = -3979,
+								["srcname"] = "Ильный краб",
+								["hp"] = 28847,
+								["spellid"] = 88163,
+							}, -- [1]
+							{
+								["ts"] = 1549044590.69102,
+								["amount"] = -2809,
+								["srcname"] = "Ильный краб",
+								["hp"] = 24868,
+								["spellid"] = 88163,
+							}, -- [2]
+							{
+								["ts"] = 1549044590.69103,
+								["amount"] = -3736,
+								["srcname"] = "Ильный краб",
+								["hp"] = 24868,
+								["spellid"] = 88163,
+							}, -- [3]
+							{
+								["ts"] = 1549044591.19704,
+								["amount"] = -4938,
+								["srcname"] = "Кролуск-костегрыз",
+								["hp"] = 13385,
+								["spellid"] = 86606,
+							}, -- [4]
+							{
+								["ts"] = 1549044591.19705,
+								["amount"] = -3749,
+								["srcname"] = "Кролуск-костегрыз",
+								["hp"] = 13385,
+								["spellid"] = 88163,
+							}, -- [5]
+							{
+								["ts"] = 1549044591.87406,
+								["amount"] = -2315,
+								["srcname"] = "Кролуск-костегрыз",
+								["hp"] = 7321,
+								["spellid"] = 255595,
+							}, -- [6]
+							{
+								["ts"] = 1549044591.97307,
+								["amount"] = -4499,
+								["srcname"] = "Ильный краб",
+								["hp"] = 7321,
+								["spellid"] = 88163,
+							}, -- [7]
+							{
+								["ts"] = 1549044592.68608,
+								["amount"] = -4369,
+								["srcname"] = "Ильный краб",
+								["hp"] = 2822,
+								["spellid"] = 88163,
+							}, -- [8]
+							{
+								["spellname"] = "Зёбинмаг умирает",
+								["ts"] = 1549044592.68609,
+								["spellid"] = 41220,
+								["hp"] = 0,
+							}, -- [9]
+							["pos"] = 10,
+						},
+						["maxhp"] = 31240,
+					}, -- [1]
+				},
+				["healed"] = {
+				},
+				["shielding"] = 0,
+				["id"] = "Player-1615-08751379",
+				["first"] = 1549044627,
+				["overhealing"] = 0,
+				["damagetakenspells"] = {
+					["Громыхающий рывок"] = {
+						["crushing"] = 0,
+						["id"] = 86606,
+						["damage"] = 4938,
+						["max"] = 4938,
+						["name"] = "Громыхающий рывок",
+						["min"] = 4938,
+						["totalhits"] = 1,
+						["critical"] = 0,
+						["blocked"] = 0,
+						["school"] = 1,
+						["resisted"] = 0,
+						["glancing"] = 0,
+						["absorbed"] = 0,
+					},
+					["Тиски"] = {
+						["crushing"] = 0,
+						["id"] = 243563,
+						["damage"] = 5532,
+						["max"] = 5532,
+						["name"] = "Тиски",
+						["min"] = 5532,
+						["totalhits"] = 1,
+						["critical"] = 0,
+						["blocked"] = 0,
+						["school"] = 1,
+						["resisted"] = 0,
+						["glancing"] = 0,
+						["absorbed"] = 0,
+					},
+					["Атака"] = {
+						["crushing"] = 6,
+						["id"] = 6603,
+						["damage"] = 35042,
+						["max"] = 4771,
+						["name"] = "Атака",
+						["min"] = 2737,
+						["totalhits"] = 9,
+						["critical"] = 0,
+						["blocked"] = 0,
+						["school"] = 1,
+						["resisted"] = 0,
+						["glancing"] = 0,
+						["absorbed"] = 0,
+					},
+					["Пожирание"] = {
+						["crushing"] = 0,
+						["id"] = 255595,
+						["damage"] = 2315,
+						["max"] = 2315,
+						["name"] = "Пожирание",
+						["min"] = 2315,
+						["totalhits"] = 1,
+						["critical"] = 0,
+						["blocked"] = 0,
+						["school"] = 1,
+						["resisted"] = 0,
+						["glancing"] = 0,
+						["absorbed"] = 0,
+					},
+				},
+				["deathlog"] = {
+					{
+						["ts"] = 1549044627.166,
+						["amount"] = -4771,
+						["srcname"] = "Ильный краб",
+						["hp"] = 27205,
+						["spellid"] = 88163,
+					}, -- [1]
+					{
+						["ts"] = 1549044628.68,
+						["amount"] = -5532,
+						["srcname"] = "Ильный краб",
+						["hp"] = 21991,
+						["spellid"] = 243563,
+					}, -- [2]
+					{
+						["ts"] = 1549044630.732,
+						["amount"] = -4393,
+						["srcname"] = "Ильный краб",
+						["hp"] = 22307,
+						["spellid"] = 88163,
+					}, -- [3]
+					{
+						["ts"] = 1549044632.624,
+						["amount"] = -2737,
+						["srcname"] = "Ильный краб",
+						["hp"] = 22623,
+						["spellid"] = 88163,
+					}, -- [4]
+					["pos"] = 5,
+				},
+				["name"] = "Зёбинмаг",
+				["ffdamagedonetargets"] = {
+				},
+				["maxhp"] = 31280,
+				["ffdamagedone"] = 0,
+				["ffdamagedonespells"] = {
+				},
+				["dispells"] = 0,
+				["ccbreaks"] = 0,
+			}, -- [1]
+		},
+		["deaths"] = 1,
+		["damagetaken"] = 47827,
+		["shielding"] = 0,
+		["healing"] = 0,
+		["dispells"] = 0,
+		["mobtaken"] = 0,
+		["overhealing"] = 0,
+		["starttime"] = 1549044589,
+		["name"] = "Всего",
+		["ccbreaks"] = 0,
+		["mobs"] = {
+			["Ильный краб"] = {
+				["players"] = {
+					["Зёбинмаг"] = {
+						["taken"] = 0,
+						["done"] = 36825,
+						["class"] = "MAGE",
+						["role"] = "DAMAGER",
+					},
+				},
+				["hdone"] = 0,
+				["hdonespell"] = {
+				},
+				["taken"] = 0,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["done"] = 36825,
+			},
+			["Кролуск-костегрыз"] = {
+				["players"] = {
+					["Зёбинмаг"] = {
+						["taken"] = 0,
+						["done"] = 11002,
+						["class"] = "MAGE",
+						["role"] = "DAMAGER",
+					},
+				},
+				["hdone"] = 0,
+				["hdonespell"] = {
+				},
+				["taken"] = 0,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["done"] = 11002,
+			},
+		},
+		["mobhdone"] = 0,
+		["last_action"] = 1549044589,
+		["mobdone"] = 47827,
+	},
 }

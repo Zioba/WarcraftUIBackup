@@ -1,15 +1,37 @@
 
 OmniCCDB = {
 	["profileKeys"] = {
-		["Зёба - Ревущий фьорд"] = "По умолчанию",
+		["Чепотестить - Гордунни"] = "По умолчанию",
 		["Царева - Ревущий фьорд"] = "По умолчанию",
+		["Сашкинадашка - Ревущий фьорд"] = "По умолчанию",
+		["Зёбинприст - Ревущий фьорд"] = "По умолчанию",
+		["Зёбинмонк - Ревущий фьорд"] = "По умолчанию",
+		["Зёбинатор - Ревущий фьорд"] = "По умолчанию",
+		["Василец - Ревущий фьорд"] = "По умолчанию",
+		["Зёбинмаг - Ревущий фьорд"] = "По умолчанию",
+		["Зёба - Ревущий фьорд"] = "По умолчанию",
+		["Дайтемнеключ - Ревущий фьорд"] = "По умолчанию",
+		["Зёбинпаладин - Ревущий фьорд"] = "По умолчанию",
+		["Зёбедам - Ревущий фьорд"] = "По умолчанию",
 	},
 	["global"] = {
-		["addonVersion"] = "8.3.2",
-		["dbVersion"] = 5,
+		["dbVersion"] = 6,
+		["addonVersion"] = "9.0.9",
 	},
 	["profiles"] = {
 		["По умолчанию"] = {
+			["rules"] = {
+				{
+					["patterns"] = {
+						"PlaterMainAuraIcon", -- [1]
+						"PlaterSecondaryAuraIcon", -- [2]
+						"ExtraIconRowIcon", -- [3]
+					},
+					["id"] = "Plater Nameplates Rule",
+					["priority"] = 1,
+					["theme"] = "Plater Nameplates Theme",
+				}, -- [1]
+			},
 			["themes"] = {
 				["По умолчанию"] = {
 					["textStyles"] = {
@@ -21,6 +43,16 @@ OmniCCDB = {
 						},
 					},
 					["spiralOpacity"] = 1.00999997742474,
+				},
+				["Plater Nameplates Theme"] = {
+					["textStyles"] = {
+						["seconds"] = {
+						},
+						["soon"] = {
+						},
+						["minutes"] = {
+						},
+					},
 				},
 			},
 		},
@@ -49,16 +81,16 @@ OmniCC4Config = {
 					["scale"] = 1.5,
 				},
 			},
-			["minDuration"] = 2,
-			["spiralOpacity"] = 1.00999997742474,
 			["yOff"] = 0,
+			["spiralOpacity"] = 1.00999997742474,
+			["minDuration"] = 2,
 			["xOff"] = 0,
 			["tenthsDuration"] = 0,
 			["fontOutline"] = "OUTLINE",
 			["minSize"] = 0.5,
-			["minEffectDuration"] = 30,
-			["fontSize"] = 18,
 			["mmSSDuration"] = 0,
+			["fontSize"] = 18,
+			["minEffectDuration"] = 30,
 		},
 	},
 	["groups"] = {

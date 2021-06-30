@@ -1,22 +1,23 @@
 
 RaiderIO_Config = {
 	["enableKeystoneTooltips"] = true,
-	["enableFriendsTooltips"] = true,
-	["enableUnitTooltips"] = true,
 	["alwaysExtendTooltip"] = false,
+	["enableUnitTooltips"] = true,
+	["enableFriendsTooltips"] = true,
 	["showPrevAllScore"] = true,
 	["showDropDownCopyURL"] = true,
 	["disableScoreColors"] = false,
 	["enableLFGTooltips"] = true,
-	["enableWhoTooltips"] = true,
+	["showSimpleScoreColors"] = false,
 	["showMainsScore"] = true,
 	["enableWhoMessages"] = true,
-	["showSimpleScoreColors"] = false,
+	["enableWhoTooltips"] = true,
 	["enableLFGDropdown"] = true,
 	["enableGuildTooltips"] = true,
 }
 RaiderIO_LastCharacter = "eu-Царева-howling-fjord"
 RaiderIO_MissingCharacters = {
-	["eu-Дректиар-soulflayer"] = true,
-	["eu-Царева-howling-fjord"] = true,
 }
+RaiderIO_MissingServers = {
+}
+RaiderIO_CachedRuns = nil

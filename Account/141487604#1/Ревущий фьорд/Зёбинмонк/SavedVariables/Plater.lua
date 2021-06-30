@@ -5,6 +5,8 @@ PlaterDBChr = {
 	},
 	["buffsBanned"] = {
 	},
+	["minimap"] = {
+	},
 	["first_run3"] = {
 		["Player-1615-083F978D"] = true,
 	},
@@ -13,6 +15,16 @@ PlaterDBChr = {
 		[270] = "Вызов",
 		[268] = "Вызов",
 	},
+	["spellRangeCheckRangeFriendly"] = {
+		[269] = 40,
+		[270] = 40,
+		[268] = 30,
+	},
 	["debuffsBanned"] = {
+	},
+	["spellRangeCheckRangeEnemy"] = {
+		[269] = 40,
+		[270] = 40,
+		[268] = 30,
 	},
 }

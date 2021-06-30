@@ -1,0 +1,27 @@
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled
+RaiderIO_DB_US_H_R: disabled
+RaiderIO_DB_US_H: disabled
+RaiderIO_DB_US_A_R: disabled
+RaiderIO_DB_US_A: disabled
+RaiderIO_DB_TW_H_R: disabled
+RaiderIO_DB_TW_H: disabled
+RaiderIO_DB_TW_A_R: disabled
+RaiderIO_DB_TW_A: disabled
+RaiderIO_DB_KR_H_R: disabled
+RaiderIO_DB_KR_H: disabled
+RaiderIO_DB_KR_A_R: disabled
+RaiderIO_DB_KR_A: disabled
+AAP-Core: disabled
+Azeroth Auto Pilot: disabled
+Binder: disabled
+DejaCharacterStats: enabled
+AAP-Vanilla: disabled
+AAP-TBC-WotLK: disabled
+AAP-Cata-MoP: disabled
+AAP-WoD: disabled
+AAP-Legion: disabled
+AAP-BfA: disabled
+ErrorFilter: disabled
+BugSack: disabled
+!BugGrabber: disabled

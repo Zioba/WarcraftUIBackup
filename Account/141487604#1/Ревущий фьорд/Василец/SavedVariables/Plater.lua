@@ -13,6 +13,16 @@ PlaterDBChr = {
 		[251] = "Темная власть",
 		[250] = "Темная власть",
 	},
+	["spellRangeCheckRangeFriendly"] = {
+		[252] = 30,
+		[251] = 30,
+		[250] = 30,
+	},
 	["debuffsBanned"] = {
+	},
+	["spellRangeCheckRangeEnemy"] = {
+		[252] = 30,
+		[251] = 30,
+		[250] = 30,
 	},
 }

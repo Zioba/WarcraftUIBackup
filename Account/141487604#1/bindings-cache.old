@@ -3,6 +3,7 @@ bind BUTTON3 ACTIONBUTTON6
 bind NUMPAD0 NONE
 bind Z ACTIONBUTTON7
 bind BUTTON4 NONE
+bind NUMPADDIVIDE NONE
 bind . NAMEPLATES
 bind PAGEUP NONE
 bind PAGEDOWN NONE
@@ -29,7 +30,7 @@ bind V CLICK BT4Button23:LeftButton
 bind SHIFT-V CLICK BT4Button65:LeftButton
 bind SHIFT-T NONE
 bind CTRL-= CLICK BT4Button16:LeftButton
-bind CTRL-- CLICK BT4Button71:LeftButton
+bind CTRL-- NONE
 bind END NONE
 bind HOME NONE
 bind [ PAWN_COMPARE_LEFT
@@ -71,5 +72,12 @@ bind SHIFT-0 CLICK BT4Button70:LeftButton
 bind SHIFT-- NONE
 bind SHIFT-. FRIENDNAMEPLATES
 bind SHIFT-` RAIDTARGET7
-bind ALT-- CLICK BT4Button45:LeftButton
-bind CTRL-F CLICK BT4Button14:LeftButton
+bind ALT-- NONE
+bind CTRL-F NONE
+bind ALT-2 CLICK BT4Button47:LeftButton
+bind ALT-3 CLICK BT4Button48:LeftButton
+bind CTRL-NUMPADMINUS NONE
+bind CTRL-NUMPAD2 CLICK BT4Button46:LeftButton
+bind ALT-NUMPADDIVIDE CLICK BT4Button45:LeftButton
+bind ALT-F CLICK BT4Button14:LeftButton
+bind ALT-C CLICK BT4Button71:LeftButton

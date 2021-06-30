@@ -1,0 +1,69 @@
+
+AAP1 = {
+	["Гордунни"] = {
+		["Чепотестить"] = {
+			["SavedVer"] = 8.1058,
+			["Settings"] = {
+				["LockArrow"] = 0,
+				["ShowQuestListOrder"] = 0,
+				["AutoRepair"] = 0,
+				["Greetings3"] = 0,
+				["BannerScale"] = 0.7,
+				["ChooseQuests"] = 0,
+				["AutoGossip"] = 1,
+				["Hide"] = 0,
+				["ShowMap10s"] = 0,
+				["ShowGroup"] = 1,
+				["OrderListScale"] = 1,
+				["WQs"] = 1,
+				["BannerShow"] = 0,
+				["Partytop"] = -274.2857055664063,
+				["arrowtop"] = -731.4285481770834,
+				["AutoAccept"] = 1,
+				["CutScene"] = 1,
+				["left"] = 1219.047622680664,
+				["ShowBlobs"] = 1,
+				["DisableHeirloomWarning"] = 0,
+				["AutoHandIn"] = 1,
+				["ArrowFPS"] = 2,
+				["Lock"] = 0,
+				["Hcampleft"] = 1219.047622680664,
+				["Hcamptop"] = -219.428564453125,
+				["Greetings"] = 0,
+				["arrowleft"] = 951.4518030678355,
+				["ArrowScale"] = 0.7,
+				["QuestButtons"] = 1,
+				["Scale"] = 0.7,
+				["ShowArrow"] = 1,
+				["AutoShareQ"] = 0,
+				["MiniMapBlobAlpha"] = 1,
+				["Partyleft"] = 780.190478515625,
+				["AutoHandInChoice"] = 0,
+				["top"] = -219.428564453125,
+				["Legion"] = 0,
+				["QuestButtonDetatch"] = 0,
+				["alpha"] = 1,
+				["AutoVendor"] = 0,
+				["ShowMapBlobs"] = 1,
+				["ShowQList"] = 1,
+				["Greetings2"] = 1,
+			},
+			["AAP_DoWarCampaign"] = 0,
+			["A57"] = 1,
+			["WantedQuestList"] = {
+			},
+			["SkippedBonusObj"] = {
+			},
+			["LoaPick"] = 0,
+			["BonusSkips"] = {
+			},
+			["QlineSkip"] = {
+			},
+		},
+	},
+}
+AAP2 = nil
+AAP3 = nil
+AAPQuestNames = {
+}
+AAP_HoldZoneVar = nil

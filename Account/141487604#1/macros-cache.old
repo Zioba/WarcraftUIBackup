@@ -2,33 +2,40 @@ VER 3 000000000000000F "AAP_MACRO" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /click ExtraActionButton1
 END
+VER 3 0000000000000011 "cancel 2" "INV_MISC_QUESTIONMARK"
+/cancelaura благословение защиты
+END
 VER 3 000000000000000B "cancelAura" "132349"
 /cancelaura благословение защиты
 /cancelaura Вихрь клинков
+/cancelaura Отвар железной шкуры
+/cancelaura Восстановление
+/cancelaura Жизнецвет
+/cancelaura Быстрина
+/cancelaura Омоложение
+/cancelaura Буйный рост
+/cancelaura Частица Света
+/cancelaura Проблес
+END
+VER 3 0000000000000012 "portal" "840191"
+/focus [target=mouseover, exists][help][target=target]
 END
 VER 3 0000000000000002 "Бурст" "INV_MISC_QUESTIONMARK"
 /cast Аватара
+/use Анодированные отражатели
 /use Завывашка Джеса
-END
-VER 3 0000000000000001 "Ишарадж" "INV_MISC_QUESTIONMARK"
-/cast Безрассудство
-/cast Кровавая баня
-/cast Ярость берсерка
-/cast Штормовая эмблема
-/cast Аватара
 END
 VER 3 0000000000000010 "ПРЫЖОК" "INV_MISC_QUESTIONMARK"
 /cast [@cursor]Героический прыжок
 END
 VER 3 000000000000000A "камера" "Ability_Creature_Cursed_04"
 /console cameraDistanceMaxZoomFactor 2.6
-/reload
-END
-VER 3 000000000000000E "потать честь" "915741"
-/run BuyMerchantItem(26)
 END
 VER 3 0000000000000003 "ролл" "INV_Polearm_2h_ThunderIsleRaid_D_01"
 /roll
+END
+VER 3 0000000000000013 "скип ролика нзот" "136228"
+/run local frames = {GetFramesRegisteredForEvent("CINEMATIC_START")} for j=1,#frames do frames[j]:UnregisterEvent("CINEMATIC_START") end print(#frames)
 END
 VER 3 0000000000000005 "ящик ресурсов" "ABILITY_WARRIOR_SHATTERINGTHROW"
 /run BuyMerchantItem(1,1)
